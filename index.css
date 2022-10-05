@@ -7,7 +7,7 @@
 /* Set the background color for my page: */
 body{
     background-color: rgb(210, 242, 250);
- 
+    
 }
 
 h1{
@@ -16,10 +16,7 @@ h1{
     font-size: 48px;
     font-weight: 500;
     text-align: center;
-    h1.thick {
-        font-weight: bold;
-      
-    }
+   
 }
 
 h2{
@@ -35,9 +32,9 @@ h2{
 h3{
     color:rgb(17, 17, 17);
     font-family: 'Inter', sans-serif;
-    font-size: 20px;
+    font-size: 24px;
     font-weight: 400;
-    text-align: left;
+    text-align: center;
     margin: 0;
 }
 
@@ -46,12 +43,31 @@ p{
     font-family: 'Inter', sans-serif;
     font-weight: 400;
     text-align: center;
-    margin: 0;
+    margin: 10;
     font-size: 16px;
 } 
     
 .myWeek1{
     margin: auto;
+    max-width: 600px;
+    background-color: white;
+
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #1E5162;
+
+     
+    
+    
+
+
+    
+}
+
+.myWeek2{
+    margin: auto;
+    margin-top: 20px;
     max-width: 600px;
     background-color: white;
 
@@ -69,19 +85,21 @@ p{
     
 }
 
-
 /* Set the apperance of the class, chart */
 .chart{
     background-color: rgb(255, 255, 255);
-    width:450px;
+    width:360px;
     border-width: 2px;
     border-style: solid;
     border-radius: 5px;
    
-    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
     border-color: #C3D7BC;
     
-   
+    
 
     
 }
@@ -90,6 +108,21 @@ p{
 
 #Chart1{
     border-color: #C3D7BC;
-   
+    width:360px;
+
+}
+#Chart2{
+    border-color: #C3D7BC;
+    width:400px;
+
+}
+#Chart3{
+    border-color: #C3D7BC;
+    width:320px;
+
+}
+#Chart4{
+    border-color: #C3D7BC;
+    width:320px;
 
 }
