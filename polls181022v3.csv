@@ -1,0 +1,201 @@
+,Wk,Rk,School,Chng,Conf
+0,8,1,Georgia,,SEC (East)
+1,8,2,OhioState,,Big Ten (East)
+2,8,3,Tennessee,3,SEC (East)
+3,8,4,Michigan,1,Big Ten (East)
+4,8,5,Clemson,1,ACC (Atlantic)
+5,8,6,Alabama,3,SEC (West)
+6,8,7,OleMiss,2,SEC (West)
+7,8,8,TexasChristian,5,Big 12
+8,8,9,UCLA,2,Pac-12
+9,8,10,Oregon,2,Pac-12
+10,8,11,OklahomaState,3,Big 12
+11,8,12,USC,5,Pac-12
+12,8,13,WakeForest,1,ACC (Atlantic)
+13,8,14,Syracuse,4,ACC (Atlantic)
+14,8,15,Utah,5,Pac-12
+15,8,16,PennState,6,Big Ten (East)
+16,8,17,KansasState,,Big 12
+17,8,18,Illinois,6,Big Ten (West)
+18,8,19,Kentucky,3,SEC (East)
+19,8,20,Texas,2,Big 12
+20,8,21,Cincinnati,,American
+21,8,22,NorthCarolina,,ACC (Coastal)
+22,8,23,NorthCarolinaState,8,ACC (Atlantic)
+23,8,24,MississippiState,8,SEC (West)
+24,8,25,Tulane,,American
+26,7,1,Georgia,1,SEC (East)
+27,7,2,OhioState,1,Big Ten (East)
+28,7,3,Alabama,2,SEC (West)
+29,7,4,Clemson,1,ACC (Atlantic)
+30,7,5,Michigan,1,Big Ten (East)
+31,7,6,Tennessee,2,SEC (East)
+32,7,7,USC,1,Pac-12
+33,7,8,OklahomaState,1,Big 12
+34,7,9,OleMiss,,SEC (West)
+35,7,10,PennState,,Big Ten (East)
+36,7,11,UCLA,7,Pac-12
+37,7,12,Oregon,,Pac-12
+38,7,13,TexasChristian,4,Big 12
+39,7,14,WakeForest,1,ACC (Atlantic)
+40,7,15,NorthCarolinaState,1,ACC (Atlantic)
+41,7,16,MississippiState,7,SEC (West)
+42,7,17,KansasState,3,Big 12
+43,7,18,Syracuse,4,ACC (Atlantic)
+44,7,19,Kansas,,Big 12
+45,7,20,Utah,9,Pac-12
+46,7,21,Cincinnati,3,American
+47,7,22,Kentucky,9,SEC (East)
+48,7,22,Texas,,Big 12
+49,7,24,Illinois,,Big Ten (West)
+50,7,25,JamesMadison,,Sun Belt (East)
+52,6,1,Alabama,1,SEC (West)
+53,6,2,Georgia,1,SEC (East)
+54,6,3,OhioState,,Big Ten (East)
+55,6,4,Michigan,,Big Ten (East)
+56,6,5,Clemson,,ACC (Atlantic)
+57,6,6,USC,,Pac-12
+58,6,7,OklahomaState,2,Big 12
+59,6,8,Tennessee,,SEC (East)
+60,6,9,OleMiss,5,SEC (West)
+61,6,10,PennState,1,Big Ten (East)
+62,6,11,Utah,1,Pac-12
+63,6,12,Oregon,1,Pac-12
+64,6,13,Kentucky,6,SEC (East)
+65,6,14,NorthCarolinaState,4,ACC (Atlantic)
+66,6,15,WakeForest,7,ACC (Atlantic)
+67,6,16,BYU,3,Ind
+68,6,17,TexasChristian,,Big 12
+69,6,18,UCLA,,Pac-12
+70,6,19,Kansas,,Big 12
+71,6,20,KansasState,5,Big 12
+72,6,21,Washington,6,Pac-12
+73,6,22,Syracuse,,ACC (Atlantic)
+74,6,23,MississippiState,,SEC (West)
+75,6,24,Cincinnati,,American
+76,6,25,LSU,,SEC (West)
+78,5,1,Georgia,,SEC (East)
+79,5,2,Alabama,,SEC (West)
+80,5,3,OhioState,,Big Ten (East)
+81,5,4,Michigan,,Big Ten (East)
+82,5,5,Clemson,,ACC (Atlantic)
+83,5,6,USC,1,Pac-12
+84,5,7,Kentucky,1,SEC (East)
+85,5,8,Tennessee,3,SEC (East)
+86,5,9,OklahomaState,,Big 12
+87,5,10,NorthCarolinaState,2,ACC (Atlantic)
+88,5,11,PennState,3,Big Ten (East)
+89,5,12,Utah,1,Pac-12
+90,5,13,Oregon,2,Pac-12
+91,5,14,OleMiss,2,SEC (West)
+92,5,15,Washington,3,Pac-12
+93,5,16,Baylor,1,Big 12
+94,5,17,TexasA&M,6,SEC (West)
+95,5,18,Oklahoma,12,Big 12
+96,5,19,BYU,,Ind
+97,5,20,Arkansas,10,SEC (West)
+98,5,21,Minnesota,,Big Ten (West)
+99,5,22,WakeForest,1,ACC (Atlantic)
+100,5,23,FloridaState,,ACC (Atlantic)
+101,5,24,Pitt,,ACC (Coastal)
+102,5,25,KansasState,,Big 12
+104,4,1,Georgia,,SEC (East)
+105,4,2,Alabama,,SEC (West)
+106,4,3,OhioState,,Big Ten (East)
+107,4,4,Michigan,,Big Ten (East)
+108,4,5,Clemson,,ACC (Atlantic)
+109,4,6,Oklahoma,,Big 12
+110,4,7,USC,,Pac-12
+111,4,8,Kentucky,1,SEC (East)
+112,4,9,OklahomaState,1,Big 12
+113,4,10,Arkansas,,SEC (West)
+114,4,11,Tennessee,4,SEC (East)
+115,4,12,NorthCarolinaState,4,ACC (Atlantic)
+116,4,13,Utah,1,Pac-12
+117,4,14,PennState,8,Big Ten (East)
+118,4,15,Oregon,10,Pac-12
+119,4,16,OleMiss,4,SEC (West)
+120,4,17,Baylor,,Big 12
+121,4,18,Washington,,Pac-12
+122,4,19,BYU,7,Ind
+123,4,20,Florida,2,SEC (East)
+124,4,21,WakeForest,2,ACC (Atlantic)
+125,4,22,Texas,1,Big 12
+126,4,23,TexasA&M,1,SEC (West)
+127,4,24,Pitt,1,ACC (Coastal)
+128,4,25,Miami,12,ACC (Coastal)
+130,3,1,Georgia,1,SEC (East)
+131,3,2,Alabama,1,SEC (West)
+132,3,3,OhioState,,Big Ten (East)
+133,3,4,Michigan,,Big Ten (East)
+134,3,5,Clemson,,ACC (Atlantic)
+135,3,6,Oklahoma,1,Big 12
+136,3,7,USC,3,Pac-12
+137,3,8,OklahomaState,3,Big 12
+138,3,9,Kentucky,11,SEC (East)
+139,3,10,Arkansas,6,SEC (West)
+140,3,11,MichiganState,3,Big Ten (East)
+141,3,12,BYU,9,Ind
+142,3,13,Miami,2,ACC (Coastal)
+143,3,14,Utah,1,Pac-12
+144,3,15,Tennessee,9,SEC (East)
+145,3,16,NorthCarolinaState,2,ACC (Atlantic)
+146,3,17,Baylor,8,Big 12
+147,3,18,Florida,6,SEC (East)
+148,3,19,WakeForest,4,ACC (Atlantic)
+149,3,20,OleMiss,2,SEC (West)
+150,3,21,Texas,,Big 12
+151,3,22,PennState,,Big Ten (East)
+152,3,23,Pitt,6,ACC (Coastal)
+153,3,24,TexasA&M,18,SEC (West)
+154,3,25,Oregon,,Pac-12
+156,2,1,Alabama,,SEC (West)
+157,2,2,Georgia,1,SEC (East)
+158,2,3,OhioState,1,Big Ten (East)
+159,2,4,Michigan,4,Big Ten (East)
+160,2,5,Clemson,1,ACC (Atlantic)
+161,2,6,TexasA&M,,SEC (West)
+162,2,7,Oklahoma,2,Big 12
+163,2,8,NotreDame,3,Ind
+164,2,9,Baylor,1,Big 12
+165,2,10,USC,4,Pac-12
+166,2,11,OklahomaState,1,Big 12
+167,2,12,Florida,,SEC (East)
+168,2,13,Utah,6,Pac-12
+169,2,14,MichiganState,1,Big Ten (East)
+170,2,15,Miami,1,ACC (Coastal)
+171,2,16,Arkansas,3,SEC (West)
+172,2,17,Pitt,,ACC (Coastal)
+173,2,18,NorthCarolinaState,5,ACC (Atlantic)
+174,2,19,Wisconsin,1,Big Ten (West)
+175,2,20,Kentucky,,SEC (East)
+176,2,21,BYU,4,Ind
+177,2,22,OleMiss,1,SEC (West)
+178,2,23,WakeForest,1,ACC (Atlantic)
+179,2,24,Tennessee,,SEC (East)
+180,2,25,Houston,1,American
+182,1,1,Alabama,—,SEC (West)
+183,1,2,OhioState,—,Big Ten (East)
+184,1,3,Georgia,—,SEC (East)
+185,1,4,Clemson,—,ACC (Atlantic)
+186,1,5,NotreDame,—,Ind
+187,1,6,TexasA&M,—,SEC (West)
+188,1,7,Utah,—,Pac-12
+189,1,8,Michigan,—,Big Ten (East)
+190,1,9,Oklahoma,—,Big 12
+191,1,10,Baylor,—,Big 12
+192,1,11,Oregon,—,Pac-12
+193,1,12,OklahomaState,—,Big 12
+194,1,13,NorthCarolinaState,—,ACC (Atlantic)
+195,1,14,USC,—,Pac-12
+196,1,15,MichiganState,—,Big Ten (East)
+197,1,16,Miami,—,ACC (Coastal)
+198,1,17,Pitt,—,ACC (Coastal)
+199,1,18,Wisconsin,—,Big Ten (West)
+200,1,19,Arkansas,—,SEC (West)
+201,1,20,Kentucky,—,SEC (East)
+202,1,21,OleMiss,—,SEC (West)
+203,1,22,WakeForest,—,ACC (Atlantic)
+204,1,23,Cincinnati,—,American
+205,1,24,Houston,—,American
+206,1,25,BYU,—,Ind
