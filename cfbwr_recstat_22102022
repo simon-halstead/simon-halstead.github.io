@@ -1,0 +1,4153 @@
+,player,type,Val
+0,"('Gavin Holmes',)",Avg,24.4
+1,"('Gavin Holmes',)",Conf,Big 12
+2,"('Gavin Holmes',)",G,6
+3,"('Gavin Holmes',)",Rec,16
+4,"('Gavin Holmes',)",Rk,1
+5,"('Gavin Holmes',)",School,Baylor
+6,"('Gavin Holmes',)",TD,3
+7,"('Gavin Holmes',)",Yds,390
+8,"('Trea Shropshire',)",Avg,24.3
+9,"('Trea Shropshire',)",Conf,CUSA
+10,"('Trea Shropshire',)",G,6
+11,"('Trea Shropshire',)",Rec,16
+12,"('Trea Shropshire',)",Rk,2
+13,"('Trea Shropshire',)",School,UAB
+14,"('Trea Shropshire',)",TD,2
+15,"('Trea Shropshire',)",Yds,389
+16,"('Brad Rozner',)",Avg,23.5
+17,"('Brad Rozner',)",Conf,CUSA
+18,"('Brad Rozner',)",G,6
+19,"('Brad Rozner',)",Rec,19
+20,"('Brad Rozner',)",Rk,3
+21,"('Brad Rozner',)",School,Rice
+22,"('Brad Rozner',)",TD,4
+23,"('Brad Rozner',)",Yds,447
+24,"('Jonathan Mingo',)",Avg,23.0
+25,"('Jonathan Mingo',)",Conf,SEC
+26,"('Jonathan Mingo',)",G,7
+27,"('Jonathan Mingo',)",Rec,22
+28,"('Jonathan Mingo',)",Rk,4
+29,"('Jonathan Mingo',)",School,Ole Miss
+30,"('Jonathan Mingo',)",TD,3
+31,"('Jonathan Mingo',)",Yds,507
+32,"('Justin Shorter',)",Avg,22.5
+33,"('Justin Shorter',)",Conf,SEC
+34,"('Justin Shorter',)",G,7
+35,"('Justin Shorter',)",Rec,18
+36,"('Justin Shorter',)",Rk,5
+37,"('Justin Shorter',)",School,Florida
+38,"('Justin Shorter',)",TD,2
+39,"('Justin Shorter',)",Yds,405
+40,"('J.J. Jones',)",Avg,21.7
+41,"('J.J. Jones',)",Conf,ACC
+42,"('J.J. Jones',)",G,7
+43,"('J.J. Jones',)",Rec,14
+44,"('J.J. Jones',)",Rk,6
+45,"('J.J. Jones',)",School,North Carolina
+46,"('J.J. Jones',)",TD,2
+47,"('J.J. Jones',)",Yds,304
+48,"('Lavel Davis',)",Avg,21.6
+49,"('Lavel Davis',)",Conf,ACC
+50,"('Lavel Davis',)",G,7
+51,"('Lavel Davis',)",Rec,15
+52,"('Lavel Davis',)",Rk,7
+53,"('Lavel Davis',)",School,Virginia
+54,"('Lavel Davis',)",TD,2
+55,"('Lavel Davis',)",Yds,324
+56,"('Monaray Baldwin',)",Avg,21.6
+57,"('Monaray Baldwin',)",Conf,Big 12
+58,"('Monaray Baldwin',)",G,5
+59,"('Monaray Baldwin',)",Rec,14
+60,"('Monaray Baldwin',)",Rk,8
+61,"('Monaray Baldwin',)",School,Baylor
+62,"('Monaray Baldwin',)",TD,3
+63,"('Monaray Baldwin',)",Yds,303
+64,"('Tyrone Howell',)",Avg,21.0
+65,"('Tyrone Howell',)",Conf,Sun Belt
+66,"('Tyrone Howell',)",G,7
+67,"('Tyrone Howell',)",Rec,24
+68,"('Tyrone Howell',)",Rk,9
+69,"('Tyrone Howell',)",School,Louisiana-Monroe
+70,"('Tyrone Howell',)",TD,4
+71,"('Tyrone Howell',)",Yds,505
+72,"('James Bostic',)",Avg,21.0
+73,"('James Bostic',)",Conf,MAC
+74,"('James Bostic',)",G,7
+75,"('James Bostic',)",Rec,17
+76,"('James Bostic',)",Rk,10
+77,"('James Bostic',)",School,Ohio
+78,"('James Bostic',)",TD,1
+79,"('James Bostic',)",Yds,357
+80,"('Jyaire Shorter',)",Avg,20.9
+81,"('Jyaire Shorter',)",Conf,CUSA
+82,"('Jyaire Shorter',)",G,6
+83,"('Jyaire Shorter',)",Rec,14
+84,"('Jyaire Shorter',)",Rk,11
+85,"('Jyaire Shorter',)",School,North Texas
+86,"('Jyaire Shorter',)",TD,6
+87,"('Jyaire Shorter',)",Yds,292
+88,"('Tez Johnson',)",Avg,20.6
+89,"('Tez Johnson',)",Conf,Sun Belt
+90,"('Tez Johnson',)",G,7
+91,"('Tez Johnson',)",Rec,26
+92,"('Tez Johnson',)",Rk,12
+93,"('Tez Johnson',)",School,Troy
+94,"('Tez Johnson',)",TD,3
+95,"('Tez Johnson',)",Yds,536
+96,"('Ali Jennings',)",Avg,20.4
+97,"('Ali Jennings',)",Conf,Sun Belt
+98,"('Ali Jennings',)",G,6
+99,"('Ali Jennings',)",Rec,38
+100,"('Ali Jennings',)",Rk,13
+101,"('Ali Jennings',)",School,Old Dominion
+102,"('Ali Jennings',)",TD,7
+103,"('Ali Jennings',)",Yds,775
+104,"('Christian Horn',)",Avg,20.4
+105,"('Christian Horn',)",Conf,Sun Belt
+106,"('Christian Horn',)",G,6
+107,"('Christian Horn',)",Rec,20
+108,"('Christian Horn',)",Rk,14
+109,"('Christian Horn',)",School,Appalachian State
+110,"('Christian Horn',)",TD,4
+111,"('Christian Horn',)",Yds,407
+112,"('Jared Brown',)",Avg,20.2
+113,"('Jared Brown',)",Conf,Sun Belt
+114,"('Jared Brown',)",G,7
+115,"('Jared Brown',)",Rec,28
+116,"('Jared Brown',)",Rk,15
+117,"('Jared Brown',)",School,Coastal Carolina
+118,"('Jared Brown',)",TD,5
+119,"('Jared Brown',)",Yds,565
+120,"('Jerjuan Newton',)",Avg,20.2
+121,"('Jerjuan Newton',)",Conf,MAC
+122,"('Jerjuan Newton',)",G,7
+123,"('Jerjuan Newton',)",Rec,23
+124,"('Jerjuan Newton',)",Rk,16
+125,"('Jerjuan Newton',)",School,Toledo
+126,"('Jerjuan Newton',)",TD,6
+127,"('Jerjuan Newton',)",Yds,465
+128,"('Griffin Hebert',)",Avg,20.2
+129,"('Griffin Hebert',)",Conf,CUSA
+130,"('Griffin Hebert',)",G,6
+131,"('Griffin Hebert',)",Rec,20
+132,"('Griffin Hebert',)",Rk,17
+133,"('Griffin Hebert',)",School,Louisiana Tech
+134,"('Griffin Hebert',)",TD,3
+135,"('Griffin Hebert',)",Yds,403
+136,"('Elijah Spencer',)",Avg,20.0
+137,"('Elijah Spencer',)",Conf,CUSA
+138,"('Elijah Spencer',)",G,7
+139,"('Elijah Spencer',)",Rec,32
+140,"('Elijah Spencer',)",Rk,18
+141,"('Elijah Spencer',)",School,Charlotte
+142,"('Elijah Spencer',)",TD,4
+143,"('Elijah Spencer',)",Yds,641
+144,"('Braydon Johnson',)",Avg,19.9
+145,"('Braydon Johnson',)",Conf,Big 12
+146,"('Braydon Johnson',)",G,6
+147,"('Braydon Johnson',)",Rec,20
+148,"('Braydon Johnson',)",Rk,19
+149,"('Braydon Johnson',)",School,Oklahoma State
+150,"('Braydon Johnson',)",TD,3
+151,"('Braydon Johnson',)",Yds,398
+152,"('Ainias Smith',)",Avg,19.4
+153,"('Ainias Smith',)",Conf,SEC
+154,"('Ainias Smith',)",G,4
+155,"('Ainias Smith',)",Rec,15
+156,"('Ainias Smith',)",Rk,20
+157,"('Ainias Smith',)",School,Texas A&M
+158,"('Ainias Smith',)",TD,2
+159,"('Ainias Smith',)",Yds,291
+160,"('Player',)",Avg,Avg
+161,"('Player',)",Conf,Conf
+162,"('Player',)",G,G
+163,"('Player',)",Rec,Rec
+164,"('Player',)",Rk,Rk
+165,"('Player',)",School,School
+166,"('Player',)",TD,TD
+167,"('Player',)",Yds,Yds
+168,"(""Ja'lynn Polk"",)",Avg,19.1
+169,"(""Ja'lynn Polk"",)",Conf,Pac-12
+170,"(""Ja'lynn Polk"",)",G,7
+171,"(""Ja'lynn Polk"",)",Rec,20
+172,"(""Ja'lynn Polk"",)",Rk,21
+173,"(""Ja'lynn Polk"",)",School,Washington
+174,"(""Ja'lynn Polk"",)",TD,4
+175,"(""Ja'lynn Polk"",)",Yds,381
+176,"('Robert Lewis',)",Avg,19.1
+177,"('Robert Lewis',)",Conf,Sun Belt
+178,"('Robert Lewis',)",G,6
+179,"('Robert Lewis',)",Rec,18
+180,"('Robert Lewis',)",Rk,22
+181,"('Robert Lewis',)",School,Georgia State
+182,"('Robert Lewis',)",TD,6
+183,"('Robert Lewis',)",Yds,344
+184,"('Mario Williams',)",Avg,19.0
+185,"('Mario Williams',)",Conf,Pac-12
+186,"('Mario Williams',)",G,7
+187,"('Mario Williams',)",Rec,26
+188,"('Mario Williams',)",Rk,23
+189,"('Mario Williams',)",School,USC
+190,"('Mario Williams',)",TD,4
+191,"('Mario Williams',)",Yds,493
+192,"('Jimmy Horn Jr.',)",Avg,19.0
+193,"('Jimmy Horn Jr.',)",Conf,American
+194,"('Jimmy Horn Jr.',)",G,6
+195,"('Jimmy Horn Jr.',)",Rec,18
+196,"('Jimmy Horn Jr.',)",Rk,24
+197,"('Jimmy Horn Jr.',)",School,South Florida
+198,"('Jimmy Horn Jr.',)",TD,3
+199,"('Jimmy Horn Jr.',)",Yds,342
+200,"('Ricky Pearsall',)",Avg,18.9
+201,"('Ricky Pearsall',)",Conf,SEC
+202,"('Ricky Pearsall',)",G,7
+203,"('Ricky Pearsall',)",Rec,16
+204,"('Ricky Pearsall',)",Rk,25
+205,"('Ricky Pearsall',)",School,Florida
+206,"('Ricky Pearsall',)",TD,2
+207,"('Ricky Pearsall',)",Yds,303
+208,"('Keanu Hill',)",Avg,18.8
+209,"('Keanu Hill',)",Conf,Ind
+210,"('Keanu Hill',)",G,7
+211,"('Keanu Hill',)",Rec,21
+212,"('Keanu Hill',)",Rk,26
+213,"('Keanu Hill',)",School,Brigham Young
+214,"('Keanu Hill',)",TD,4
+215,"('Keanu Hill',)",Yds,395
+216,"('Emeka Egbuka',)",Avg,18.7
+217,"('Emeka Egbuka',)",Conf,Big Ten
+218,"('Emeka Egbuka',)",G,6
+219,"('Emeka Egbuka',)",Rec,35
+220,"('Emeka Egbuka',)",Rk,27
+221,"('Emeka Egbuka',)",School,Ohio State
+222,"('Emeka Egbuka',)",TD,6
+223,"('Emeka Egbuka',)",Yds,655
+224,"('Elijah Cooks',)",Avg,18.7
+225,"('Elijah Cooks',)",Conf,MWC
+226,"('Elijah Cooks',)",G,6
+227,"('Elijah Cooks',)",Rec,29
+228,"('Elijah Cooks',)",Rk,28
+229,"('Elijah Cooks',)",School,San Jose State
+230,"('Elijah Cooks',)",TD,3
+231,"('Elijah Cooks',)",Yds,542
+232,"('Ramel Keyton',)",Avg,18.7
+233,"('Ramel Keyton',)",Conf,SEC
+234,"('Ramel Keyton',)",G,6
+235,"('Ramel Keyton',)",Rec,15
+236,"('Ramel Keyton',)",Rk,29
+237,"('Ramel Keyton',)",School,Tennessee
+238,"('Ramel Keyton',)",TD,1
+239,"('Ramel Keyton',)",Yds,280
+240,"('Taye Barber',)",Avg,18.7
+241,"('Taye Barber',)",Conf,Big 12
+242,"('Taye Barber',)",G,6
+243,"('Taye Barber',)",Rec,14
+244,"('Taye Barber',)",Rk,30
+245,"('Taye Barber',)",School,TCU
+246,"('Taye Barber',)",TD,2
+247,"('Taye Barber',)",Yds,262
+248,"('Shae Wyatt',)",Avg,18.5
+249,"('Shae Wyatt',)",Conf,American
+250,"('Shae Wyatt',)",G,7
+251,"('Shae Wyatt',)",Rec,18
+252,"('Shae Wyatt',)",Rk,31
+253,"('Shae Wyatt',)",School,Tulane
+254,"('Shae Wyatt',)",TD,1
+255,"('Shae Wyatt',)",Yds,333
+256,"('Duece Watts',)",Avg,18.4
+257,"('Duece Watts',)",Conf,American
+258,"('Duece Watts',)",G,7
+259,"('Duece Watts',)",Rec,16
+260,"('Duece Watts',)",Rk,32
+261,"('Duece Watts',)",School,Tulane
+262,"('Duece Watts',)",TD,4
+263,"('Duece Watts',)",Yds,295
+264,"('Roderic Burns',)",Avg,18.3
+265,"('Roderic Burns',)",Conf,CUSA
+266,"('Roderic Burns',)",G,7
+267,"('Roderic Burns',)",Rec,22
+268,"('Roderic Burns',)",Rk,33
+269,"('Roderic Burns',)",School,North Texas
+270,"('Roderic Burns',)",TD,1
+271,"('Roderic Burns',)",Yds,402
+272,"('Johnny Wilson',)",Avg,18.2
+273,"('Johnny Wilson',)",Conf,ACC
+274,"('Johnny Wilson',)",G,7
+275,"('Johnny Wilson',)",Rec,27
+276,"('Johnny Wilson',)",Rk,34
+277,"('Johnny Wilson',)",School,Florida State
+278,"('Johnny Wilson',)",TD,3
+279,"('Johnny Wilson',)",Yds,492
+280,"('Jalin Hyatt',)",Avg,18.0
+281,"('Jalin Hyatt',)",Conf,SEC
+282,"('Jalin Hyatt',)",G,6
+283,"('Jalin Hyatt',)",Rec,33
+284,"('Jalin Hyatt',)",Rk,35
+285,"('Jalin Hyatt',)",School,Tennessee
+286,"('Jalin Hyatt',)",TD,10
+287,"('Jalin Hyatt',)",Yds,595
+288,"('Tyler Scott',)",Avg,17.9
+289,"('Tyler Scott',)",Conf,American
+290,"('Tyler Scott',)",G,6
+291,"('Tyler Scott',)",Rec,28
+292,"('Tyler Scott',)",Rk,36
+293,"('Tyler Scott',)",School,Cincinnati
+294,"('Tyler Scott',)",TD,6
+295,"('Tyler Scott',)",Yds,500
+296,"('C.J. Johnson',)",Avg,17.8
+297,"('C.J. Johnson',)",Conf,American
+298,"('C.J. Johnson',)",G,7
+299,"('C.J. Johnson',)",Rec,29
+300,"('C.J. Johnson',)",Rk,37
+301,"('C.J. Johnson',)",School,East Carolina
+302,"('C.J. Johnson',)",TD,6
+303,"('C.J. Johnson',)",Yds,517
+304,"('Darnell Washington',)",Avg,17.8
+305,"('Darnell Washington',)",Conf,SEC
+306,"('Darnell Washington',)",G,7
+307,"('Darnell Washington',)",Rec,16
+308,"('Darnell Washington',)",Rk,38
+309,"('Darnell Washington',)",School,Georgia
+310,"('Darnell Washington',)",TD,0
+311,"('Darnell Washington',)",Yds,285
+312,"('Bryson Green',)",Avg,17.8
+313,"('Bryson Green',)",Conf,Big 12
+314,"('Bryson Green',)",G,6
+315,"('Bryson Green',)",Rec,16
+316,"('Bryson Green',)",Rk,39
+317,"('Bryson Green',)",School,Oklahoma State
+318,"('Bryson Green',)",TD,4
+319,"('Bryson Green',)",Yds,284
+320,"('Terrance Greene Jr.',)",Avg,17.8
+321,"('Terrance Greene Jr.',)",Conf,Sun Belt
+322,"('Terrance Greene Jr.',)",G,6
+323,"('Terrance Greene Jr.',)",Rec,12
+324,"('Terrance Greene Jr.',)",Rk,40
+325,"('Terrance Greene Jr.',)",School,James Madison
+326,"('Terrance Greene Jr.',)",TD,2
+327,"('Terrance Greene Jr.',)",Yds,214
+328,"('Player',)",Avg,Avg
+329,"('Player',)",Conf,Conf
+330,"('Player',)",G,G
+331,"('Player',)",Rec,Rec
+332,"('Player',)",Rk,Rk
+333,"('Player',)",School,School
+334,"('Player',)",TD,TD
+335,"('Player',)",Yds,Yds
+336,"('Bru McCoy',)",Avg,17.7
+337,"('Bru McCoy',)",Conf,SEC
+338,"('Bru McCoy',)",G,6
+339,"('Bru McCoy',)",Rec,22
+340,"('Bru McCoy',)",Rk,41
+341,"('Bru McCoy',)",School,Tennessee
+342,"('Bru McCoy',)",TD,2
+343,"('Bru McCoy',)",Yds,389
+344,"(""Ja'Varrius Johnson"",)",Avg,17.6
+345,"(""Ja'Varrius Johnson"",)",Conf,SEC
+346,"(""Ja'Varrius Johnson"",)",G,7
+347,"(""Ja'Varrius Johnson"",)",Rec,19
+348,"(""Ja'Varrius Johnson"",)",Rk,42
+349,"(""Ja'Varrius Johnson"",)",School,Auburn
+350,"(""Ja'Varrius Johnson"",)",TD,1
+351,"(""Ja'Varrius Johnson"",)",Yds,335
+352,"('Justin Lockhart',)",Avg,17.5
+353,"('Justin Lockhart',)",Conf,MWC
+354,"('Justin Lockhart',)",G,6
+355,"('Justin Lockhart',)",Rec,17
+356,"('Justin Lockhart',)",Rk,43
+357,"('Justin Lockhart',)",School,San Jose State
+358,"('Justin Lockhart',)",TD,0
+359,"('Justin Lockhart',)",Yds,298
+360,"('Kris Thornton',)",Avg,17.4
+361,"('Kris Thornton',)",Conf,Sun Belt
+362,"('Kris Thornton',)",G,6
+363,"('Kris Thornton',)",Rec,37
+364,"('Kris Thornton',)",Rk,44
+365,"('Kris Thornton',)",School,James Madison
+366,"('Kris Thornton',)",TD,5
+367,"('Kris Thornton',)",Yds,642
+368,"('Rara Thomas',)",Avg,17.4
+369,"('Rara Thomas',)",Conf,SEC
+370,"('Rara Thomas',)",G,7
+371,"('Rara Thomas',)",Rec,22
+372,"('Rara Thomas',)",Rk,45
+373,"('Rara Thomas',)",School,Mississippi State
+374,"('Rara Thomas',)",TD,3
+375,"('Rara Thomas',)",Yds,383
+376,"('Marvin Harrison Jr.',)",Avg,17.3
+377,"('Marvin Harrison Jr.',)",Conf,Big Ten
+378,"('Marvin Harrison Jr.',)",G,6
+379,"('Marvin Harrison Jr.',)",Rec,31
+380,"('Marvin Harrison Jr.',)",Rk,46
+381,"('Marvin Harrison Jr.',)",School,Ohio State
+382,"('Marvin Harrison Jr.',)",TD,9
+383,"('Marvin Harrison Jr.',)",Yds,536
+384,"('Jaelen Gill',)",Avg,17.1
+385,"('Jaelen Gill',)",Conf,ACC
+386,"('Jaelen Gill',)",G,6
+387,"('Jaelen Gill',)",Rec,14
+388,"('Jaelen Gill',)",Rk,47
+389,"('Jaelen Gill',)",School,Boston College
+390,"('Jaelen Gill',)",TD,0
+391,"('Jaelen Gill',)",Yds,240
+392,"('Jake Bailey',)",Avg,17.1
+393,"('Jake Bailey',)",Conf,American
+394,"('Jake Bailey',)",G,4
+395,"('Jake Bailey',)",Rec,12
+396,"('Jake Bailey',)",Rk,48
+397,"('Jake Bailey',)",School,SMU
+398,"('Jake Bailey',)",TD,1
+399,"('Jake Bailey',)",Yds,205
+400,"('Jared Wayne',)",Avg,17.0
+401,"('Jared Wayne',)",Conf,ACC
+402,"('Jared Wayne',)",G,5
+403,"('Jared Wayne',)",Rec,23
+404,"('Jared Wayne',)",Rk,49
+405,"('Jared Wayne',)",School,Pitt
+406,"('Jared Wayne',)",TD,1
+407,"('Jared Wayne',)",Yds,390
+408,"('Anthony Gould',)",Avg,17.0
+409,"('Anthony Gould',)",Conf,Pac-12
+410,"('Anthony Gould',)",G,7
+411,"('Anthony Gould',)",Rec,22
+412,"('Anthony Gould',)",Rk,50
+413,"('Anthony Gould',)",School,Oregon State
+414,"('Anthony Gould',)",TD,3
+415,"('Anthony Gould',)",Yds,374
+416,"('Marvin Mims',)",Avg,16.9
+417,"('Marvin Mims',)",Conf,Big 12
+418,"('Marvin Mims',)",G,7
+419,"('Marvin Mims',)",Rec,32
+420,"('Marvin Mims',)",Rk,51
+421,"('Marvin Mims',)",School,Oklahoma
+422,"('Marvin Mims',)",TD,3
+423,"('Marvin Mims',)",Yds,542
+424,"('Jamari Thrash',)",Avg,16.8
+425,"('Jamari Thrash',)",Conf,Sun Belt
+426,"('Jamari Thrash',)",G,6
+427,"('Jamari Thrash',)",Rec,30
+428,"('Jamari Thrash',)",Rk,52
+429,"('Jamari Thrash',)",School,Georgia State
+430,"('Jamari Thrash',)",TD,2
+431,"('Jamari Thrash',)",Yds,503
+432,"('Chimere Dike',)",Avg,16.8
+433,"('Chimere Dike',)",Conf,Big Ten
+434,"('Chimere Dike',)",G,7
+435,"('Chimere Dike',)",Rec,29
+436,"('Chimere Dike',)",Rk,53
+437,"('Chimere Dike',)",School,Wisconsin
+438,"('Chimere Dike',)",TD,5
+439,"('Chimere Dike',)",Yds,487
+440,"('Tetairoa McMillan',)",Avg,16.8
+441,"('Tetairoa McMillan',)",Conf,Pac-12
+442,"('Tetairoa McMillan',)",G,7
+443,"('Tetairoa McMillan',)",Rec,28
+444,"('Tetairoa McMillan',)",Rk,54
+445,"('Tetairoa McMillan',)",School,Arizona
+446,"('Tetairoa McMillan',)",TD,6
+447,"('Tetairoa McMillan',)",Yds,470
+448,"('Jalen Brooks',)",Avg,16.8
+449,"('Jalen Brooks',)",Conf,SEC
+450,"('Jalen Brooks',)",G,6
+451,"('Jalen Brooks',)",Rec,20
+452,"('Jalen Brooks',)",Rk,55
+453,"('Jalen Brooks',)",School,South Carolina
+454,"('Jalen Brooks',)",TD,0
+455,"('Jalen Brooks',)",Yds,335
+456,"(""Rajae' Johnson-Sanders"",)",Avg,16.8
+457,"(""Rajae' Johnson-Sanders"",)",Conf,Sun Belt
+458,"(""Rajae' Johnson-Sanders"",)",G,8
+459,"(""Rajae' Johnson-Sanders"",)",Rec,19
+460,"(""Rajae' Johnson-Sanders"",)",Rk,56
+461,"(""Rajae' Johnson-Sanders"",)",School,Troy
+462,"(""Rajae' Johnson-Sanders"",)",TD,3
+463,"(""Rajae' Johnson-Sanders"",)",Yds,319
+464,"(""Ja'Corey Brooks"",)",Avg,16.8
+465,"(""Ja'Corey Brooks"",)",Conf,SEC
+466,"(""Ja'Corey Brooks"",)",G,7
+467,"(""Ja'Corey Brooks"",)",Rec,18
+468,"(""Ja'Corey Brooks"",)",Rk,57
+469,"(""Ja'Corey Brooks"",)",School,Alabama
+470,"(""Ja'Corey Brooks"",)",TD,4
+471,"(""Ja'Corey Brooks"",)",Yds,302
+472,"('Keylon Stokes',)",Avg,16.7
+473,"('Keylon Stokes',)",Conf,American
+474,"('Keylon Stokes',)",G,7
+475,"('Keylon Stokes',)",Rec,48
+476,"('Keylon Stokes',)",Rk,58
+477,"('Keylon Stokes',)",School,Tulsa
+478,"('Keylon Stokes',)",TD,4
+479,"('Keylon Stokes',)",Yds,802
+480,"('Theo Wease',)",Avg,16.7
+481,"('Theo Wease',)",Conf,Big 12
+482,"('Theo Wease',)",G,6
+483,"('Theo Wease',)",Rec,15
+484,"('Theo Wease',)",Rk,59
+485,"('Theo Wease',)",School,Oklahoma
+486,"('Theo Wease',)",TD,3
+487,"('Theo Wease',)",Yds,251
+488,"('Trey Palmer',)",Avg,16.6
+489,"('Trey Palmer',)",Conf,Big Ten
+490,"('Trey Palmer',)",G,7
+491,"('Trey Palmer',)",Rec,47
+492,"('Trey Palmer',)",Rk,60
+493,"('Trey Palmer',)",School,Nebraska
+494,"('Trey Palmer',)",TD,5
+495,"('Trey Palmer',)",Yds,781
+496,"('Player',)",Avg,Avg
+497,"('Player',)",Conf,Conf
+498,"('Player',)",G,G
+499,"('Player',)",Rec,Rec
+500,"('Player',)",Rk,Rk
+501,"('Player',)",School,School
+502,"('Player',)",TD,TD
+503,"('Player',)",Yds,Yds
+504,"('A.T. Perry',)",Avg,16.6
+505,"('A.T. Perry',)",Conf,ACC
+506,"('A.T. Perry',)",G,6
+507,"('A.T. Perry',)",Rec,29
+508,"('A.T. Perry',)",Rk,61
+509,"('A.T. Perry',)",School,Wake Forest
+510,"('A.T. Perry',)",TD,4
+511,"('A.T. Perry',)",Yds,482
+512,"('Oronde Gadsden II',)",Avg,16.4
+513,"('Oronde Gadsden II',)",Conf,ACC
+514,"('Oronde Gadsden II',)",G,6
+515,"('Oronde Gadsden II',)",Rec,31
+516,"('Oronde Gadsden II',)",Rk,62
+517,"('Oronde Gadsden II',)",School,Syracuse
+518,"('Oronde Gadsden II',)",TD,5
+519,"('Oronde Gadsden II',)",Yds,507
+520,"('Donavon Greene',)",Avg,16.4
+521,"('Donavon Greene',)",Conf,ACC
+522,"('Donavon Greene',)",G,6
+523,"('Donavon Greene',)",Rec,18
+524,"('Donavon Greene',)",Rk,63
+525,"('Donavon Greene',)",School,Wake Forest
+526,"('Donavon Greene',)",TD,3
+527,"('Donavon Greene',)",Yds,296
+528,"('Eli Pancol',)",Avg,16.4
+529,"('Eli Pancol',)",Conf,ACC
+530,"('Eli Pancol',)",G,7
+531,"('Eli Pancol',)",Rec,18
+532,"('Eli Pancol',)",Rk,64
+533,"('Eli Pancol',)",School,Duke
+534,"('Eli Pancol',)",TD,0
+535,"('Eli Pancol',)",Yds,296
+536,"('Daniel Arias',)",Avg,16.4
+537,"('Daniel Arias',)",Conf,Pac-12
+538,"('Daniel Arias',)",G,6
+539,"('Daniel Arias',)",Rec,18
+540,"('Daniel Arias',)",Rk,65
+541,"('Daniel Arias',)",School,Colorado
+542,"('Daniel Arias',)",TD,1
+543,"('Daniel Arias',)",Yds,295
+544,"('Geordon Porter',)",Avg,16.4
+545,"('Geordon Porter',)",Conf,MWC
+546,"('Geordon Porter',)",G,6
+547,"('Geordon Porter',)",Rec,16
+548,"('Geordon Porter',)",Rk,66
+549,"('Geordon Porter',)",School,New Mexico
+550,"('Geordon Porter',)",TD,2
+551,"('Geordon Porter',)",Yds,263
+552,"('Tejhaun Palmer',)",Avg,16.4
+553,"('Tejhaun Palmer',)",Conf,CUSA
+554,"('Tejhaun Palmer',)",G,7
+555,"('Tejhaun Palmer',)",Rec,16
+556,"('Tejhaun Palmer',)",Rk,67
+557,"('Tejhaun Palmer',)",School,UAB
+558,"('Tejhaun Palmer',)",TD,1
+559,"('Tejhaun Palmer',)",Yds,263
+560,"('Gavin Bartholomew',)",Avg,16.4
+561,"('Gavin Bartholomew',)",Conf,ACC
+562,"('Gavin Bartholomew',)",G,6
+563,"('Gavin Bartholomew',)",Rec,14
+564,"('Gavin Bartholomew',)",Rk,68
+565,"('Gavin Bartholomew',)",School,Pitt
+566,"('Gavin Bartholomew',)",TD,2
+567,"('Gavin Bartholomew',)",Yds,229
+568,"('Tre Harris',)",Avg,16.3
+569,"('Tre Harris',)",Conf,CUSA
+570,"('Tre Harris',)",G,6
+571,"('Tre Harris',)",Rec,31
+572,"('Tre Harris',)",Rk,69
+573,"('Tre Harris',)",School,Louisiana Tech
+574,"('Tre Harris',)",TD,4
+575,"('Tre Harris',)",Yds,505
+576,"('Demario Douglas',)",Avg,16.1
+577,"('Demario Douglas',)",Conf,Ind
+578,"('Demario Douglas',)",G,7
+579,"('Demario Douglas',)",Rec,34
+580,"('Demario Douglas',)",Rk,70
+581,"('Demario Douglas',)",School,Liberty
+582,"('Demario Douglas',)",TD,5
+583,"('Demario Douglas',)",Yds,546
+584,"('Dominic Lovett',)",Avg,16.1
+585,"('Dominic Lovett',)",Conf,SEC
+586,"('Dominic Lovett',)",G,6
+587,"('Dominic Lovett',)",Rec,31
+588,"('Dominic Lovett',)",Rk,71
+589,"('Dominic Lovett',)",School,Missouri
+590,"('Dominic Lovett',)",TD,2
+591,"('Dominic Lovett',)",Yds,499
+592,"('Michael Wilson',)",Avg,16.1
+593,"('Michael Wilson',)",Conf,Pac-12
+594,"('Michael Wilson',)",G,6
+595,"('Michael Wilson',)",Rec,26
+596,"('Michael Wilson',)",Rk,72
+597,"('Michael Wilson',)",School,Stanford
+598,"('Michael Wilson',)",TD,4
+599,"('Michael Wilson',)",Yds,418
+600,"('Javon Baker',)",Avg,16.1
+601,"('Javon Baker',)",Conf,American
+602,"('Javon Baker',)",G,6
+603,"('Javon Baker',)",Rec,25
+604,"('Javon Baker',)",Rk,73
+605,"('Javon Baker',)",School,UCF
+606,"('Javon Baker',)",TD,2
+607,"('Javon Baker',)",Yds,403
+608,"('Dane Key',)",Avg,16.1
+609,"('Dane Key',)",Conf,SEC
+610,"('Dane Key',)",G,7
+611,"('Dane Key',)",Rec,20
+612,"('Dane Key',)",Rk,74
+613,"('Dane Key',)",School,Kentucky
+614,"('Dane Key',)",TD,3
+615,"('Dane Key',)",Yds,322
+616,"('Beaux Collins',)",Avg,16.1
+617,"('Beaux Collins',)",Conf,ACC
+618,"('Beaux Collins',)",G,7
+619,"('Beaux Collins',)",Rec,18
+620,"('Beaux Collins',)",Rk,75
+621,"('Beaux Collins',)",School,Clemson
+622,"('Beaux Collins',)",TD,5
+623,"('Beaux Collins',)",Yds,290
+624,"('Joseph Ngata',)",Avg,16.1
+625,"('Joseph Ngata',)",Conf,ACC
+626,"('Joseph Ngata',)",G,7
+627,"('Joseph Ngata',)",Rec,17
+628,"('Joseph Ngata',)",Rk,76
+629,"('Joseph Ngata',)",School,Clemson
+630,"('Joseph Ngata',)",TD,1
+631,"('Joseph Ngata',)",Yds,274
+632,"('Jake Bobo',)",Avg,16.0
+633,"('Jake Bobo',)",Conf,Pac-12
+634,"('Jake Bobo',)",G,6
+635,"('Jake Bobo',)",Rec,24
+636,"('Jake Bobo',)",Rk,77
+637,"('Jake Bobo',)",School,UCLA
+638,"('Jake Bobo',)",TD,5
+639,"('Jake Bobo',)",Yds,385
+640,"(""Jha'Quan Jackson"",)",Avg,16.0
+641,"(""Jha'Quan Jackson"",)",Conf,American
+642,"(""Jha'Quan Jackson"",)",G,7
+643,"(""Jha'Quan Jackson"",)",Rec,19
+644,"(""Jha'Quan Jackson"",)",Rk,78
+645,"(""Jha'Quan Jackson"",)",School,Tulane
+646,"(""Jha'Quan Jackson"",)",TD,2
+647,"(""Jha'Quan Jackson"",)",Yds,304
+648,"('Tyrone Broden',)",Avg,16.0
+649,"('Tyrone Broden',)",Conf,MAC
+650,"('Tyrone Broden',)",G,7
+651,"('Tyrone Broden',)",Rec,15
+652,"('Tyrone Broden',)",Rk,79
+653,"('Tyrone Broden',)",School,Bowling Green State
+654,"('Tyrone Broden',)",TD,2
+655,"('Tyrone Broden',)",Yds,240
+656,"('Keyshawn Smith',)",Avg,16.0
+657,"('Keyshawn Smith',)",Conf,ACC
+658,"('Keyshawn Smith',)",G,6
+659,"('Keyshawn Smith',)",Rec,12
+660,"('Keyshawn Smith',)",Rk,80
+661,"('Keyshawn Smith',)",School,Miami (FL)
+662,"('Keyshawn Smith',)",TD,2
+663,"('Keyshawn Smith',)",Yds,192
+664,"('Player',)",Avg,Avg
+665,"('Player',)",Conf,Conf
+666,"('Player',)",G,G
+667,"('Player',)",Rec,Rec
+668,"('Player',)",Rk,Rk
+669,"('Player',)",School,School
+670,"('Player',)",TD,TD
+671,"('Player',)",Yds,Yds
+672,"('J.C. Santana',)",Avg,15.9
+673,"('J.C. Santana',)",Conf,American
+674,"('J.C. Santana',)",G,7
+675,"('J.C. Santana',)",Rec,33
+676,"('J.C. Santana',)",Rk,81
+677,"('J.C. Santana',)",School,Tulsa
+678,"('J.C. Santana',)",TD,4
+679,"('J.C. Santana',)",Yds,524
+680,"('Troy Franklin',)",Avg,15.9
+681,"('Troy Franklin',)",Conf,Pac-12
+682,"('Troy Franklin',)",G,6
+683,"('Troy Franklin',)",Rec,27
+684,"('Troy Franklin',)",Rk,82
+685,"('Troy Franklin',)",School,Oregon
+686,"('Troy Franklin',)",TD,3
+687,"('Troy Franklin',)",Yds,429
+688,"('Jacoby Jones',)",Avg,15.9
+689,"('Jacoby Jones',)",Conf,MAC
+690,"('Jacoby Jones',)",G,7
+691,"('Jacoby Jones',)",Rec,23
+692,"('Jacoby Jones',)",Rk,83
+693,"('Jacoby Jones',)",School,Ohio
+694,"('Jacoby Jones',)",TD,2
+695,"('Jacoby Jones',)",Yds,366
+696,"(""Ke'Shawn Williams"",)",Avg,15.9
+697,"(""Ke'Shawn Williams"",)",Conf,ACC
+698,"(""Ke'Shawn Williams"",)",G,6
+699,"(""Ke'Shawn Williams"",)",Rec,16
+700,"(""Ke'Shawn Williams"",)",Rk,84
+701,"(""Ke'Shawn Williams"",)",School,Wake Forest
+702,"(""Ke'Shawn Williams"",)",TD,0
+703,"(""Ke'Shawn Williams"",)",Yds,255
+704,"('Rome Odunze',)",Avg,15.8
+705,"('Rome Odunze',)",Conf,Pac-12
+706,"('Rome Odunze',)",G,6
+707,"('Rome Odunze',)",Rec,44
+708,"('Rome Odunze',)",Rk,85
+709,"('Rome Odunze',)",School,Washington
+710,"('Rome Odunze',)",TD,6
+711,"('Rome Odunze',)",Yds,693
+712,"('Tyrin Smith',)",Avg,15.8
+713,"('Tyrin Smith',)",Conf,CUSA
+714,"('Tyrin Smith',)",G,7
+715,"('Tyrin Smith',)",Rec,39
+716,"('Tyrin Smith',)",Rk,86
+717,"('Tyrin Smith',)",School,UTEP
+718,"('Tyrin Smith',)",TD,4
+719,"('Tyrin Smith',)",Yds,616
+720,"('Cole Tucker',)",Avg,15.8
+721,"('Cole Tucker',)",Conf,MAC
+722,"('Cole Tucker',)",G,7
+723,"('Cole Tucker',)",Rec,34
+724,"('Cole Tucker',)",Rk,87
+725,"('Cole Tucker',)",School,Northern Illinois
+726,"('Cole Tucker',)",TD,3
+727,"('Cole Tucker',)",Yds,536
+728,"('Lawrence Arnold',)",Avg,15.8
+729,"('Lawrence Arnold',)",Conf,Big 12
+730,"('Lawrence Arnold',)",G,7
+731,"('Lawrence Arnold',)",Rec,22
+732,"('Lawrence Arnold',)",Rk,88
+733,"('Lawrence Arnold',)",School,Kansas
+734,"('Lawrence Arnold',)",TD,3
+735,"('Lawrence Arnold',)",Yds,348
+736,"('Justin McGriff',)",Avg,15.8
+737,"('Justin McGriff',)",Conf,MWC
+738,"('Justin McGriff',)",G,7
+739,"('Justin McGriff',)",Rec,19
+740,"('Justin McGriff',)",Rk,89
+741,"('Justin McGriff',)",School,Utah State
+742,"('Justin McGriff',)",TD,3
+743,"('Justin McGriff',)",Yds,301
+744,"('Roman Wilson',)",Avg,15.8
+745,"('Roman Wilson',)",Conf,Big Ten
+746,"('Roman Wilson',)",G,6
+747,"('Roman Wilson',)",Rec,16
+748,"('Roman Wilson',)",Rk,90
+749,"('Roman Wilson',)",School,Michigan
+750,"('Roman Wilson',)",TD,3
+751,"('Roman Wilson',)",Yds,253
+752,"('Tayvion Robinson',)",Avg,15.7
+753,"('Tayvion Robinson',)",Conf,SEC
+754,"('Tayvion Robinson',)",G,6
+755,"('Tayvion Robinson',)",Rec,25
+756,"('Tayvion Robinson',)",Rk,91
+757,"('Tayvion Robinson',)",School,Kentucky
+758,"('Tayvion Robinson',)",TD,3
+759,"('Tayvion Robinson',)",Yds,392
+760,"('Reggie Brown',)",Avg,15.7
+761,"('Reggie Brown',)",Conf,Sun Belt
+762,"('Reggie Brown',)",G,5
+763,"('Reggie Brown',)",Rec,22
+764,"('Reggie Brown',)",Rk,92
+765,"('Reggie Brown',)",School,James Madison
+766,"('Reggie Brown',)",TD,3
+767,"('Reggie Brown',)",Yds,346
+768,"('Jacob Copeland',)",Avg,15.7
+769,"('Jacob Copeland',)",Conf,Big Ten
+770,"('Jacob Copeland',)",G,7
+771,"('Jacob Copeland',)",Rec,20
+772,"('Jacob Copeland',)",Rk,93
+773,"('Jacob Copeland',)",School,Maryland
+774,"('Jacob Copeland',)",TD,2
+775,"('Jacob Copeland',)",Yds,313
+776,"('Dante Cephas',)",Avg,15.6
+777,"('Dante Cephas',)",Conf,MAC
+778,"('Dante Cephas',)",G,7
+779,"('Dante Cephas',)",Rec,44
+780,"('Dante Cephas',)",Rk,94
+781,"('Dante Cephas',)",School,Kent State
+782,"('Dante Cephas',)",TD,3
+783,"('Dante Cephas',)",Yds,687
+784,"('Brayden Willis',)",Avg,15.6
+785,"('Brayden Willis',)",Conf,Big 12
+786,"('Brayden Willis',)",G,7
+787,"('Brayden Willis',)",Rec,20
+788,"('Brayden Willis',)",Rk,95
+789,"('Brayden Willis',)",School,Oklahoma
+790,"('Brayden Willis',)",TD,5
+791,"('Brayden Willis',)",Yds,312
+792,"('Ontaria Wilson',)",Avg,15.6
+793,"('Ontaria Wilson',)",Conf,ACC
+794,"('Ontaria Wilson',)",G,6
+795,"('Ontaria Wilson',)",Rec,19
+796,"('Ontaria Wilson',)",Rk,96
+797,"('Ontaria Wilson',)",School,Florida State
+798,"('Ontaria Wilson',)",TD,2
+799,"('Ontaria Wilson',)",Yds,296
+800,"('Skyler Bell',)",Avg,15.6
+801,"('Skyler Bell',)",Conf,Big Ten
+802,"('Skyler Bell',)",G,7
+803,"('Skyler Bell',)",Rec,18
+804,"('Skyler Bell',)",Rk,97
+805,"('Skyler Bell',)",School,Wisconsin
+806,"('Skyler Bell',)",TD,3
+807,"('Skyler Bell',)",Yds,280
+808,"('Rashee Rice',)",Avg,15.5
+809,"('Rashee Rice',)",Conf,American
+810,"('Rashee Rice',)",G,6
+811,"('Rashee Rice',)",Rec,49
+812,"('Rashee Rice',)",Rk,98
+813,"('Rashee Rice',)",School,SMU
+814,"('Rashee Rice',)",TD,4
+815,"('Rashee Rice',)",Yds,761
+816,"('Sam James',)",Avg,15.5
+817,"('Sam James',)",Conf,Big 12
+818,"('Sam James',)",G,6
+819,"('Sam James',)",Rec,23
+820,"('Sam James',)",Rk,99
+821,"('Sam James',)",School,West Virginia
+822,"('Sam James',)",TD,2
+823,"('Sam James',)",Yds,357
+824,"('Bryson Nesbit',)",Avg,15.5
+825,"('Bryson Nesbit',)",Conf,ACC
+826,"('Bryson Nesbit',)",G,7
+827,"('Bryson Nesbit',)",Rec,18
+828,"('Bryson Nesbit',)",Rk,100
+829,"('Bryson Nesbit',)",School,North Carolina
+830,"('Bryson Nesbit',)",TD,3
+831,"('Bryson Nesbit',)",Yds,279
+832,"('Player',)",Avg,Avg
+833,"('Player',)",Conf,Conf
+834,"('Player',)",G,G
+835,"('Player',)",Rec,Rec
+836,"('Player',)",Rk,Rk
+837,"('Player',)",School,School
+838,"('Player',)",TD,TD
+839,"('Player',)",Yds,Yds
+840,"('Mike Brown-Stephens',)",Avg,15.5
+841,"('Mike Brown-Stephens',)",Conf,Big Ten
+842,"('Mike Brown-Stephens',)",G,6
+843,"('Mike Brown-Stephens',)",Rec,15
+844,"('Mike Brown-Stephens',)",Rk,101
+845,"('Mike Brown-Stephens',)",School,Minnesota
+846,"('Mike Brown-Stephens',)",TD,0
+847,"('Mike Brown-Stephens',)",Yds,233
+848,"(""De'Corian Clark"",)",Avg,15.4
+849,"(""De'Corian Clark"",)",Conf,CUSA
+850,"(""De'Corian Clark"",)",G,7
+851,"(""De'Corian Clark"",)",Rec,44
+852,"(""De'Corian Clark"",)",Rk,102
+853,"(""De'Corian Clark"",)",School,UTSA
+854,"(""De'Corian Clark"",)",TD,7
+855,"(""De'Corian Clark"",)",Yds,678
+856,"('Jehlani Galloway',)",Avg,15.4
+857,"('Jehlani Galloway',)",Conf,MAC
+858,"('Jehlani Galloway',)",G,7
+859,"('Jehlani Galloway',)",Rec,18
+860,"('Jehlani Galloway',)",Rk,103
+861,"('Jehlani Galloway',)",School,Western Michigan
+862,"('Jehlani Galloway',)",TD,0
+863,"('Jehlani Galloway',)",Yds,278
+864,"('Tory Horton',)",Avg,15.3
+865,"('Tory Horton',)",Conf,MWC
+866,"('Tory Horton',)",G,6
+867,"('Tory Horton',)",Rec,32
+868,"('Tory Horton',)",Rk,104
+869,"('Tory Horton',)",School,Colorado State
+870,"('Tory Horton',)",TD,5
+871,"('Tory Horton',)",Yds,491
+872,"('Kaleb Smith',)",Avg,15.3
+873,"('Kaleb Smith',)",Conf,ACC
+874,"('Kaleb Smith',)",G,7
+875,"('Kaleb Smith',)",Rec,28
+876,"('Kaleb Smith',)",Rk,105
+877,"('Kaleb Smith',)",School,Virginia Tech
+878,"('Kaleb Smith',)",TD,2
+879,"('Kaleb Smith',)",Yds,428
+880,"('Michael Jefferson',)",Avg,15.3
+881,"('Michael Jefferson',)",Conf,Sun Belt
+882,"('Michael Jefferson',)",G,6
+883,"('Michael Jefferson',)",Rec,23
+884,"('Michael Jefferson',)",Rk,106
+885,"('Michael Jefferson',)",School,Louisiana
+886,"('Michael Jefferson',)",TD,3
+887,"('Michael Jefferson',)",Yds,351
+888,"('Jahmal Edrine',)",Avg,15.3
+889,"('Jahmal Edrine',)",Conf,CUSA
+890,"('Jahmal Edrine',)",G,6
+891,"('Jahmal Edrine',)",Rec,22
+892,"('Jahmal Edrine',)",Rk,107
+893,"('Jahmal Edrine',)",School,Florida Atlantic
+894,"('Jahmal Edrine',)",TD,3
+895,"('Jahmal Edrine',)",Yds,337
+896,"('Jahmal Banks',)",Avg,15.3
+897,"('Jahmal Banks',)",Conf,ACC
+898,"('Jahmal Banks',)",G,6
+899,"('Jahmal Banks',)",Rec,20
+900,"('Jahmal Banks',)",Rk,108
+901,"('Jahmal Banks',)",School,Wake Forest
+902,"('Jahmal Banks',)",TD,5
+903,"('Jahmal Banks',)",Yds,306
+904,"('Trey Cleveland',)",Avg,15.3
+905,"('Trey Cleveland',)",Conf,Big 12
+906,"('Trey Cleveland',)",G,6
+907,"('Trey Cleveland',)",Rec,19
+908,"('Trey Cleveland',)",Rk,109
+909,"('Trey Cleveland',)",School,Texas Tech
+910,"('Trey Cleveland',)",TD,0
+911,"('Trey Cleveland',)",Yds,291
+912,"('Moose Muhammad III',)",Avg,15.3
+913,"('Moose Muhammad III',)",Conf,SEC
+914,"('Moose Muhammad III',)",G,4
+915,"('Moose Muhammad III',)",Rec,13
+916,"('Moose Muhammad III',)",Rk,110
+917,"('Moose Muhammad III',)",School,Texas A&M
+918,"('Moose Muhammad III',)",TD,2
+919,"('Moose Muhammad III',)",Yds,199
+920,"('Daniel Jackson',)",Avg,15.2
+921,"('Daniel Jackson',)",Conf,Big Ten
+922,"('Daniel Jackson',)",G,4
+923,"('Daniel Jackson',)",Rec,12
+924,"('Daniel Jackson',)",Rk,111
+925,"('Daniel Jackson',)",School,Minnesota
+926,"('Daniel Jackson',)",TD,2
+927,"('Daniel Jackson',)",Yds,182
+928,"('Devontez Walker',)",Avg,15.1
+929,"('Devontez Walker',)",Conf,MAC
+930,"('Devontez Walker',)",G,7
+931,"('Devontez Walker',)",Rec,36
+932,"('Devontez Walker',)",Rk,112
+933,"('Devontez Walker',)",School,Kent State
+934,"('Devontez Walker',)",TD,5
+935,"('Devontez Walker',)",Yds,544
+936,"('Brock Bowers',)",Avg,15.1
+937,"('Brock Bowers',)",Conf,SEC
+938,"('Brock Bowers',)",G,7
+939,"('Brock Bowers',)",Rec,26
+940,"('Brock Bowers',)",Rk,113
+941,"('Brock Bowers',)",School,Georgia
+942,"('Brock Bowers',)",TD,2
+943,"('Brock Bowers',)",Yds,393
+944,"('Ahmari Huggins-Bruce',)",Avg,15.1
+945,"('Ahmari Huggins-Bruce',)",Conf,ACC
+946,"('Ahmari Huggins-Bruce',)",G,6
+947,"('Ahmari Huggins-Bruce',)",Rec,21
+948,"('Ahmari Huggins-Bruce',)",Rk,114
+949,"('Ahmari Huggins-Bruce',)",School,Louisville
+950,"('Ahmari Huggins-Bruce',)",TD,1
+951,"('Ahmari Huggins-Bruce',)",Yds,318
+952,"('Kaedin Robinson',)",Avg,15.1
+953,"('Kaedin Robinson',)",Conf,Sun Belt
+954,"('Kaedin Robinson',)",G,6
+955,"('Kaedin Robinson',)",Rec,14
+956,"('Kaedin Robinson',)",Rk,115
+957,"('Kaedin Robinson',)",School,Appalachian State
+958,"('Kaedin Robinson',)",TD,1
+959,"('Kaedin Robinson',)",Yds,212
+960,"('Jordan Addison',)",Avg,15.0
+961,"('Jordan Addison',)",Conf,Pac-12
+962,"('Jordan Addison',)",G,7
+963,"('Jordan Addison',)",Rec,39
+964,"('Jordan Addison',)",Rk,116
+965,"('Jordan Addison',)",School,USC
+966,"('Jordan Addison',)",TD,7
+967,"('Jordan Addison',)",Yds,585
+968,"('Tanner Knue',)",Avg,15.0
+969,"('Tanner Knue',)",Conf,MAC
+970,"('Tanner Knue',)",G,6
+971,"('Tanner Knue',)",Rec,24
+972,"('Tanner Knue',)",Rk,117
+973,"('Tanner Knue',)",School,Eastern Michigan
+974,"('Tanner Knue',)",TD,5
+975,"('Tanner Knue',)",Yds,361
+976,"('Malik Heath',)",Avg,15.0
+977,"('Malik Heath',)",Conf,SEC
+978,"('Malik Heath',)",G,7
+979,"('Malik Heath',)",Rec,23
+980,"('Malik Heath',)",Rk,118
+981,"('Malik Heath',)",School,Ole Miss
+982,"('Malik Heath',)",TD,3
+983,"('Malik Heath',)",Yds,346
+984,"(""Je'Quan Burton"",)",Avg,15.0
+985,"(""Je'Quan Burton"",)",Conf,CUSA
+986,"(""Je'Quan Burton"",)",G,6
+987,"(""Je'Quan Burton"",)",Rec,20
+988,"(""Je'Quan Burton"",)",Rk,119
+989,"(""Je'Quan Burton"",)",School,Florida Atlantic
+990,"(""Je'Quan Burton"",)",TD,2
+991,"(""Je'Quan Burton"",)",Yds,299
+992,"('Brenton Strange',)",Avg,15.0
+993,"('Brenton Strange',)",Conf,Big Ten
+994,"('Brenton Strange',)",G,6
+995,"('Brenton Strange',)",Rec,16
+996,"('Brenton Strange',)",Rk,120
+997,"('Brenton Strange',)",School,Penn State
+998,"('Brenton Strange',)",TD,4
+999,"('Brenton Strange',)",Yds,240
+1000,"('Player',)",Avg,Avg
+1001,"('Player',)",Conf,Conf
+1002,"('Player',)",G,G
+1003,"('Player',)",Rec,Rec
+1004,"('Player',)",Rk,Rk
+1005,"('Player',)",School,School
+1006,"('Player',)",TD,TD
+1007,"('Player',)",Yds,Yds
+1008,"('Cornelius Johnson',)",Avg,15.0
+1009,"('Cornelius Johnson',)",Conf,Big Ten
+1010,"('Cornelius Johnson',)",G,7
+1011,"('Cornelius Johnson',)",Rec,15
+1012,"('Cornelius Johnson',)",Rk,121
+1013,"('Cornelius Johnson',)",School,Michigan
+1014,"('Cornelius Johnson',)",TD,3
+1015,"('Cornelius Johnson',)",Yds,225
+1016,"(""Var'keyes Gumms"",)",Avg,15.0
+1017,"(""Var'keyes Gumms"",)",Conf,CUSA
+1018,"(""Var'keyes Gumms"",)",G,7
+1019,"(""Var'keyes Gumms"",)",Rec,15
+1020,"(""Var'keyes Gumms"",)",Rk,122
+1021,"(""Var'keyes Gumms"",)",School,North Texas
+1022,"(""Var'keyes Gumms"",)",TD,2
+1023,"(""Var'keyes Gumms"",)",Yds,225
+1024,"('Jeremiah Hunter',)",Avg,14.9
+1025,"('Jeremiah Hunter',)",Conf,Pac-12
+1026,"('Jeremiah Hunter',)",G,6
+1027,"('Jeremiah Hunter',)",Rec,30
+1028,"('Jeremiah Hunter',)",Rk,123
+1029,"('Jeremiah Hunter',)",School,California
+1030,"('Jeremiah Hunter',)",TD,2
+1031,"('Jeremiah Hunter',)",Yds,448
+1032,"('Seydou Traore',)",Avg,14.9
+1033,"('Seydou Traore',)",Conf,Sun Belt
+1034,"('Seydou Traore',)",G,7
+1035,"('Seydou Traore',)",Rec,28
+1036,"('Seydou Traore',)",Rk,124
+1037,"('Seydou Traore',)",School,Arkansas State
+1038,"('Seydou Traore',)",TD,2
+1039,"('Seydou Traore',)",Yds,416
+1040,"('Kacper Rutkiewicz',)",Avg,14.9
+1041,"('Kacper Rutkiewicz',)",Conf,MAC
+1042,"('Kacper Rutkiewicz',)",G,7
+1043,"('Kacper Rutkiewicz',)",Rec,19
+1044,"('Kacper Rutkiewicz',)",Rk,125
+1045,"('Kacper Rutkiewicz',)",School,Northern Illinois
+1046,"('Kacper Rutkiewicz',)",TD,5
+1047,"('Kacper Rutkiewicz',)",Yds,284
+1048,"('Bijan Robinson',)",Avg,14.9
+1049,"('Bijan Robinson',)",Conf,Big 12
+1050,"('Bijan Robinson',)",G,7
+1051,"('Bijan Robinson',)",Rec,16
+1052,"('Bijan Robinson',)",Rk,126
+1053,"('Bijan Robinson',)",School,Texas
+1054,"('Bijan Robinson',)",TD,1
+1055,"('Bijan Robinson',)",Yds,239
+1056,"('Dorian Singer',)",Avg,14.8
+1057,"('Dorian Singer',)",Conf,Pac-12
+1058,"('Dorian Singer',)",G,7
+1059,"('Dorian Singer',)",Rec,41
+1060,"('Dorian Singer',)",Rk,127
+1061,"('Dorian Singer',)",School,Arizona
+1062,"('Dorian Singer',)",TD,2
+1063,"('Dorian Singer',)",Yds,605
+1064,"('Pat Bryant',)",Avg,14.8
+1065,"('Pat Bryant',)",Conf,Big Ten
+1066,"('Pat Bryant',)",G,7
+1067,"('Pat Bryant',)",Rec,25
+1068,"('Pat Bryant',)",Rk,128
+1069,"('Pat Bryant',)",School,Illinois
+1070,"('Pat Bryant',)",TD,2
+1071,"('Pat Bryant',)",Yds,371
+1072,"('Jevin Frett',)",Avg,14.8
+1073,"('Jevin Frett',)",Conf,Sun Belt
+1074,"('Jevin Frett',)",G,7
+1075,"('Jevin Frett',)",Rec,19
+1076,"('Jevin Frett',)",Rk,129
+1077,"('Jevin Frett',)",School,Louisiana-Monroe
+1078,"('Jevin Frett',)",TD,1
+1079,"('Jevin Frett',)",Yds,282
+1080,"('Jermaine Burton',)",Avg,14.8
+1081,"('Jermaine Burton',)",Conf,SEC
+1082,"('Jermaine Burton',)",G,7
+1083,"('Jermaine Burton',)",Rec,18
+1084,"('Jermaine Burton',)",Rk,130
+1085,"('Jermaine Burton',)",School,Alabama
+1086,"('Jermaine Burton',)",TD,3
+1087,"('Jermaine Burton',)",Yds,266
+1088,"('Julian Fleming',)",Avg,14.8
+1089,"('Julian Fleming',)",Conf,Big Ten
+1090,"('Julian Fleming',)",G,4
+1091,"('Julian Fleming',)",Rec,15
+1092,"('Julian Fleming',)",Rk,131
+1093,"('Julian Fleming',)",School,Ohio State
+1094,"('Julian Fleming',)",TD,5
+1095,"('Julian Fleming',)",Yds,222
+1096,"('Quentin Johnston',)",Avg,14.7
+1097,"('Quentin Johnston',)",Conf,Big 12
+1098,"('Quentin Johnston',)",G,6
+1099,"('Quentin Johnston',)",Rec,34
+1100,"('Quentin Johnston',)",Rk,132
+1101,"('Quentin Johnston',)",School,TCU
+1102,"('Quentin Johnston',)",TD,2
+1103,"('Quentin Johnston',)",Yds,500
+1104,"('Justin Marshall',)",Avg,14.7
+1105,"('Justin Marshall',)",Conf,MAC
+1106,"('Justin Marshall',)",G,7
+1107,"('Justin Marshall',)",Rec,32
+1108,"('Justin Marshall',)",Rk,133
+1109,"('Justin Marshall',)",School,Buffalo
+1110,"('Justin Marshall',)",TD,5
+1111,"('Justin Marshall',)",Yds,471
+1112,"('Chase Cota',)",Avg,14.7
+1113,"('Chase Cota',)",Conf,Pac-12
+1114,"('Chase Cota',)",G,6
+1115,"('Chase Cota',)",Rec,19
+1116,"('Chase Cota',)",Rk,134
+1117,"('Chase Cota',)",School,Oregon
+1118,"('Chase Cota',)",TD,1
+1119,"('Chase Cota',)",Yds,279
+1120,"('Loic Fouonji',)",Avg,14.7
+1121,"('Loic Fouonji',)",Conf,Big 12
+1122,"('Loic Fouonji',)",G,6
+1123,"('Loic Fouonji',)",Rec,14
+1124,"('Loic Fouonji',)",Rk,135
+1125,"('Loic Fouonji',)",School,Texas Tech
+1126,"('Loic Fouonji',)",TD,2
+1127,"('Loic Fouonji',)",Yds,206
+1128,"('Barion Brown',)",Avg,14.6
+1129,"('Barion Brown',)",Conf,SEC
+1130,"('Barion Brown',)",G,7
+1131,"('Barion Brown',)",Rec,24
+1132,"('Barion Brown',)",Rk,136
+1133,"('Barion Brown',)",School,Kentucky
+1134,"('Barion Brown',)",TD,2
+1135,"('Barion Brown',)",Yds,350
+1136,"('Jordan Watkins',)",Avg,14.6
+1137,"('Jordan Watkins',)",Conf,SEC
+1138,"('Jordan Watkins',)",G,7
+1139,"('Jordan Watkins',)",Rec,19
+1140,"('Jordan Watkins',)",Rk,137
+1141,"('Jordan Watkins',)",School,Ole Miss
+1142,"('Jordan Watkins',)",TD,1
+1143,"('Jordan Watkins',)",Yds,278
+1144,"('Charles Ross',)",Avg,14.6
+1145,"('Charles Ross',)",Conf,MWC
+1146,"('Charles Ross',)",G,5
+1147,"('Charles Ross',)",Rec,14
+1148,"('Charles Ross',)",Rk,138
+1149,"('Charles Ross',)",School,San Jose State
+1150,"('Charles Ross',)",TD,1
+1151,"('Charles Ross',)",Yds,204
+1152,"('Cedric Tillman',)",Avg,14.5
+1153,"('Cedric Tillman',)",Conf,SEC
+1154,"('Cedric Tillman',)",G,3
+1155,"('Cedric Tillman',)",Rec,17
+1156,"('Cedric Tillman',)",Rk,139
+1157,"('Cedric Tillman',)",School,Tennessee
+1158,"('Cedric Tillman',)",TD,1
+1159,"('Cedric Tillman',)",Yds,246
+1160,"('Matt Landers',)",Avg,14.4
+1161,"('Matt Landers',)",Conf,SEC
+1162,"('Matt Landers',)",G,7
+1163,"('Matt Landers',)",Rec,25
+1164,"('Matt Landers',)",Rk,140
+1165,"('Matt Landers',)",School,Arkansas
+1166,"('Matt Landers',)",TD,3
+1167,"('Matt Landers',)",Yds,360
+1168,"('Player',)",Avg,Avg
+1169,"('Player',)",Conf,Conf
+1170,"('Player',)",G,G
+1171,"('Player',)",Rec,Rec
+1172,"('Player',)",Rk,Rk
+1173,"('Player',)",School,School
+1174,"('Player',)",TD,TD
+1175,"('Player',)",Yds,Yds
+1176,"('Dalton Kincaid',)",Avg,14.3
+1177,"('Dalton Kincaid',)",Conf,Pac-12
+1178,"('Dalton Kincaid',)",G,7
+1179,"('Dalton Kincaid',)",Rec,39
+1180,"('Dalton Kincaid',)",Rk,141
+1181,"('Dalton Kincaid',)",School,Utah
+1182,"('Dalton Kincaid',)",TD,6
+1183,"('Dalton Kincaid',)",Yds,558
+1184,"('Jalen McMillan',)",Avg,14.3
+1185,"('Jalen McMillan',)",Conf,Pac-12
+1186,"('Jalen McMillan',)",G,7
+1187,"('Jalen McMillan',)",Rec,37
+1188,"('Jalen McMillan',)",Rk,142
+1189,"('Jalen McMillan',)",School,Washington
+1190,"('Jalen McMillan',)",TD,5
+1191,"('Jalen McMillan',)",Yds,530
+1192,"('Amare Jones',)",Avg,14.3
+1193,"('Amare Jones',)",Conf,Sun Belt
+1194,"('Amare Jones',)",G,7
+1195,"('Amare Jones',)",Rec,30
+1196,"('Amare Jones',)",Rk,143
+1197,"('Amare Jones',)",School,Georgia Southern
+1198,"('Amare Jones',)",TD,5
+1199,"('Amare Jones',)",Yds,429
+1200,"('Dontayvion Wicks',)",Avg,14.3
+1201,"('Dontayvion Wicks',)",Conf,ACC
+1202,"('Dontayvion Wicks',)",G,7
+1203,"('Dontayvion Wicks',)",Rec,29
+1204,"('Dontayvion Wicks',)",Rk,144
+1205,"('Dontayvion Wicks',)",School,Virginia
+1206,"('Dontayvion Wicks',)",TD,2
+1207,"('Dontayvion Wicks',)",Yds,416
+1208,"('Chase Roberts',)",Avg,14.3
+1209,"('Chase Roberts',)",Conf,Ind
+1210,"('Chase Roberts',)",G,5
+1211,"('Chase Roberts',)",Rec,16
+1212,"('Chase Roberts',)",Rk,145
+1213,"('Chase Roberts',)",School,Brigham Young
+1214,"('Chase Roberts',)",TD,1
+1215,"('Chase Roberts',)",Yds,229
+1216,"('Tyrell Shavers',)",Avg,14.3
+1217,"('Tyrell Shavers',)",Conf,MWC
+1218,"('Tyrell Shavers',)",G,6
+1219,"('Tyrell Shavers',)",Rec,15
+1220,"('Tyrell Shavers',)",Rk,146
+1221,"('Tyrell Shavers',)",School,San Diego State
+1222,"('Tyrell Shavers',)",TD,2
+1223,"('Tyrell Shavers',)",Yds,214
+1224,"('Sam Pinckney',)",Avg,14.2
+1225,"('Sam Pinckney',)",Conf,Sun Belt
+1226,"('Sam Pinckney',)",G,7
+1227,"('Sam Pinckney',)",Rec,44
+1228,"('Sam Pinckney',)",Rk,147
+1229,"('Sam Pinckney',)",School,Coastal Carolina
+1230,"('Sam Pinckney',)",TD,1
+1231,"('Sam Pinckney',)",Yds,623
+1232,"(""Tre'Shaun Harrison"",)",Avg,14.2
+1233,"(""Tre'Shaun Harrison"",)",Conf,Pac-12
+1234,"(""Tre'Shaun Harrison"",)",G,7
+1235,"(""Tre'Shaun Harrison"",)",Rec,32
+1236,"(""Tre'Shaun Harrison"",)",Rk,148
+1237,"(""Tre'Shaun Harrison"",)",School,Oregon State
+1238,"(""Tre'Shaun Harrison"",)",TD,3
+1239,"(""Tre'Shaun Harrison"",)",Yds,454
+1240,"('Tyler Hudson',)",Avg,14.2
+1241,"('Tyler Hudson',)",Conf,ACC
+1242,"('Tyler Hudson',)",G,6
+1243,"('Tyler Hudson',)",Rec,29
+1244,"('Tyler Hudson',)",Rk,149
+1245,"('Tyler Hudson',)",School,Louisville
+1246,"('Tyler Hudson',)",TD,0
+1247,"('Tyler Hudson',)",Yds,413
+1248,"('Jalon Calhoun',)",Avg,14.2
+1249,"('Jalon Calhoun',)",Conf,ACC
+1250,"('Jalon Calhoun',)",G,7
+1251,"('Jalon Calhoun',)",Rec,29
+1252,"('Jalon Calhoun',)",Rk,150
+1253,"('Jalon Calhoun',)",School,Duke
+1254,"('Jalon Calhoun',)",TD,2
+1255,"('Jalon Calhoun',)",Yds,411
+1256,"('Jaylin Lane',)",Avg,14.1
+1257,"('Jaylin Lane',)",Conf,CUSA
+1258,"('Jaylin Lane',)",G,6
+1259,"('Jaylin Lane',)",Rec,36
+1260,"('Jaylin Lane',)",Rk,151
+1261,"('Jaylin Lane',)",School,Middle Tennessee State
+1262,"('Jaylin Lane',)",TD,2
+1263,"('Jaylin Lane',)",Yds,506
+1264,"('Corey Crooms',)",Avg,14.1
+1265,"('Corey Crooms',)",Conf,MAC
+1266,"('Corey Crooms',)",G,7
+1267,"('Corey Crooms',)",Rec,32
+1268,"('Corey Crooms',)",Rk,152
+1269,"('Corey Crooms',)",School,Western Michigan
+1270,"('Corey Crooms',)",TD,4
+1271,"('Corey Crooms',)",Yds,452
+1272,"('Marcus Washington',)",Avg,14.1
+1273,"('Marcus Washington',)",Conf,Big Ten
+1274,"('Marcus Washington',)",G,7
+1275,"('Marcus Washington',)",Rec,21
+1276,"('Marcus Washington',)",Rk,153
+1277,"('Marcus Washington',)",School,Nebraska
+1278,"('Marcus Washington',)",TD,0
+1279,"('Marcus Washington',)",Yds,296
+1280,"('Renard Bell',)",Avg,14.1
+1281,"('Renard Bell',)",Conf,Pac-12
+1282,"('Renard Bell',)",G,6
+1283,"('Renard Bell',)",Rec,20
+1284,"('Renard Bell',)",Rk,154
+1285,"('Renard Bell',)",School,Washington State
+1286,"('Renard Bell',)",TD,2
+1287,"('Renard Bell',)",Yds,282
+1288,"('Brian Thomas Jr.',)",Avg,14.1
+1289,"('Brian Thomas Jr.',)",Conf,SEC
+1290,"('Brian Thomas Jr.',)",G,7
+1291,"('Brian Thomas Jr.',)",Rec,18
+1292,"('Brian Thomas Jr.',)",Rk,155
+1293,"('Brian Thomas Jr.',)",School,LSU
+1294,"('Brian Thomas Jr.',)",TD,3
+1295,"('Brian Thomas Jr.',)",Yds,254
+1296,"('Zion Bowens',)",Avg,14.1
+1297,"('Zion Bowens',)",Conf,MWC
+1298,"('Zion Bowens',)",G,3
+1299,"('Zion Bowens',)",Rec,14
+1300,"('Zion Bowens',)",Rk,156
+1301,"('Zion Bowens',)",School,Hawaii
+1302,"('Zion Bowens',)",TD,2
+1303,"('Zion Bowens',)",Yds,197
+1304,"('Jalen Wayne',)",Avg,14.0
+1305,"('Jalen Wayne',)",Conf,Sun Belt
+1306,"('Jalen Wayne',)",G,7
+1307,"('Jalen Wayne',)",Rec,40
+1308,"('Jalen Wayne',)",Rk,157
+1309,"('Jalen Wayne',)",School,South Alabama
+1310,"('Jalen Wayne',)",TD,5
+1311,"('Jalen Wayne',)",Yds,560
+1312,"('Jabre Barber',)",Avg,14.0
+1313,"('Jabre Barber',)",Conf,Sun Belt
+1314,"('Jabre Barber',)",G,6
+1315,"('Jabre Barber',)",Rec,25
+1316,"('Jabre Barber',)",Rk,158
+1317,"('Jabre Barber',)",School,Troy
+1318,"('Jabre Barber',)",TD,2
+1319,"('Jabre Barber',)",Yds,351
+1320,"('Brevyn Spann-Ford',)",Avg,14.0
+1321,"('Brevyn Spann-Ford',)",Conf,Big Ten
+1322,"('Brevyn Spann-Ford',)",G,6
+1323,"('Brevyn Spann-Ford',)",Rec,18
+1324,"('Brevyn Spann-Ford',)",Rk,159
+1325,"('Brevyn Spann-Ford',)",School,Minnesota
+1326,"('Brevyn Spann-Ford',)",TD,1
+1327,"('Brevyn Spann-Ford',)",Yds,252
+1328,"('Courtney Jackson',)",Avg,14.0
+1329,"('Courtney Jackson',)",Conf,ACC
+1330,"('Courtney Jackson',)",G,6
+1331,"('Courtney Jackson',)",Rec,12
+1332,"('Courtney Jackson',)",Rk,160
+1333,"('Courtney Jackson',)",School,Syracuse
+1334,"('Courtney Jackson',)",TD,1
+1335,"('Courtney Jackson',)",Yds,168
+1336,"('Player',)",Avg,Avg
+1337,"('Player',)",Conf,Conf
+1338,"('Player',)",G,G
+1339,"('Player',)",Rec,Rec
+1340,"('Player',)",Rk,Rk
+1341,"('Player',)",School,School
+1342,"('Player',)",TD,TD
+1343,"('Player',)",Yds,Yds
+1344,"('Jacob Cowing',)",Avg,13.9
+1345,"('Jacob Cowing',)",Conf,Pac-12
+1346,"('Jacob Cowing',)",G,7
+1347,"('Jacob Cowing',)",Rec,53
+1348,"('Jacob Cowing',)",Rk,161
+1349,"('Jacob Cowing',)",School,Arizona
+1350,"('Jacob Cowing',)",TD,7
+1351,"('Jacob Cowing',)",Yds,737
+1352,"('Antwane Wells Jr.',)",Avg,13.9
+1353,"('Antwane Wells Jr.',)",Conf,SEC
+1354,"('Antwane Wells Jr.',)",G,6
+1355,"('Antwane Wells Jr.',)",Rec,27
+1356,"('Antwane Wells Jr.',)",Rk,162
+1357,"('Antwane Wells Jr.',)",School,South Carolina
+1358,"('Antwane Wells Jr.',)",TD,2
+1359,"('Antwane Wells Jr.',)",Yds,375
+1360,"('Antonio Williams',)",Avg,13.9
+1361,"('Antonio Williams',)",Conf,ACC
+1362,"('Antonio Williams',)",G,7
+1363,"('Antonio Williams',)",Rec,24
+1364,"('Antonio Williams',)",Rk,163
+1365,"('Antonio Williams',)",School,Clemson
+1366,"('Antonio Williams',)",TD,2
+1367,"('Antonio Williams',)",Yds,334
+1368,"(""Ja'Cyais Credle"",)",Avg,13.9
+1369,"(""Ja'Cyais Credle"",)",Conf,Sun Belt
+1370,"(""Ja'Cyais Credle"",)",G,6
+1371,"(""Ja'Cyais Credle"",)",Rec,16
+1372,"(""Ja'Cyais Credle"",)",Rk,164
+1373,"(""Ja'Cyais Credle"",)",School,Georgia State
+1374,"(""Ja'Cyais Credle"",)",TD,1
+1375,"(""Ja'Cyais Credle"",)",Yds,222
+1376,"('Isaiah Winstead',)",Avg,13.8
+1377,"('Isaiah Winstead',)",Conf,American
+1378,"('Isaiah Winstead',)",G,7
+1379,"('Isaiah Winstead',)",Rec,52
+1380,"('Isaiah Winstead',)",Rk,165
+1381,"('Isaiah Winstead',)",School,East Carolina
+1382,"('Isaiah Winstead',)",TD,3
+1383,"('Isaiah Winstead',)",Yds,719
+1384,"('Shocky Jacques-Louis',)",Avg,13.8
+1385,"('Shocky Jacques-Louis',)",Conf,MAC
+1386,"('Shocky Jacques-Louis',)",G,7
+1387,"('Shocky Jacques-Louis',)",Rec,42
+1388,"('Shocky Jacques-Louis',)",Rk,166
+1389,"('Shocky Jacques-Louis',)",School,Akron
+1390,"('Shocky Jacques-Louis',)",TD,2
+1391,"('Shocky Jacques-Louis',)",Yds,579
+1392,"('Jose Barbon',)",Avg,13.8
+1393,"('Jose Barbon',)",Conf,American
+1394,"('Jose Barbon',)",G,7
+1395,"('Jose Barbon',)",Rec,35
+1396,"('Jose Barbon',)",Rk,167
+1397,"('Jose Barbon',)",School,Temple
+1398,"('Jose Barbon',)",TD,1
+1399,"('Jose Barbon',)",Yds,484
+1400,"('Corey Dyches',)",Avg,13.8
+1401,"('Corey Dyches',)",Conf,Big Ten
+1402,"('Corey Dyches',)",G,7
+1403,"('Corey Dyches',)",Rec,25
+1404,"('Corey Dyches',)",Rk,168
+1405,"('Corey Dyches',)",School,Maryland
+1406,"('Corey Dyches',)",TD,3
+1407,"('Corey Dyches',)",Yds,346
+1408,"('Gabriel Rogers',)",Avg,13.8
+1409,"('Gabriel Rogers',)",Conf,American
+1410,"('Gabriel Rogers',)",G,7
+1411,"('Gabriel Rogers',)",Rec,23
+1412,"('Gabriel Rogers',)",Rk,169
+1413,"('Gabriel Rogers',)",School,Memphis
+1414,"('Gabriel Rogers',)",TD,0
+1415,"('Gabriel Rogers',)",Yds,318
+1416,"('Parker Washington',)",Avg,13.8
+1417,"('Parker Washington',)",Conf,Big Ten
+1418,"('Parker Washington',)",G,6
+1419,"('Parker Washington',)",Rec,23
+1420,"('Parker Washington',)",Rk,170
+1421,"('Parker Washington',)",School,Penn State
+1422,"('Parker Washington',)",TD,0
+1423,"('Parker Washington',)",Yds,318
+1424,"('CJ Lewis',)",Avg,13.8
+1425,"('CJ Lewis',)",Conf,MAC
+1426,"('CJ Lewis',)",G,7
+1427,"('CJ Lewis',)",Rec,21
+1428,"('CJ Lewis',)",Rk,171
+1429,"('CJ Lewis',)",School,Bowling Green State
+1430,"('CJ Lewis',)",TD,2
+1431,"('CJ Lewis',)",Yds,290
+1432,"('Trey Knox',)",Avg,13.8
+1433,"('Trey Knox',)",Conf,SEC
+1434,"('Trey Knox',)",G,7
+1435,"('Trey Knox',)",Rec,16
+1436,"('Trey Knox',)",Rk,172
+1437,"('Trey Knox',)",School,Arkansas
+1438,"('Trey Knox',)",TD,3
+1439,"('Trey Knox',)",Yds,220
+1440,"('Charles Brown',)",Avg,13.8
+1441,"('Charles Brown',)",Conf,Sun Belt
+1442,"('Charles Brown',)",G,7
+1443,"('Charles Brown',)",Rec,15
+1444,"('Charles Brown',)",Rk,173
+1445,"('Charles Brown',)",School,Texas State
+1446,"('Charles Brown',)",TD,3
+1447,"('Charles Brown',)",Yds,207
+1448,"('Jason Brownlee',)",Avg,13.7
+1449,"('Jason Brownlee',)",Conf,Sun Belt
+1450,"('Jason Brownlee',)",G,6
+1451,"('Jason Brownlee',)",Rec,27
+1452,"('Jason Brownlee',)",Rk,174
+1453,"('Jason Brownlee',)",School,Southern Mississippi
+1454,"('Jason Brownlee',)",TD,4
+1455,"('Jason Brownlee',)",Yds,370
+1456,"('Mac Hippenhammer',)",Avg,13.7
+1457,"('Mac Hippenhammer',)",Conf,MAC
+1458,"('Mac Hippenhammer',)",G,7
+1459,"('Mac Hippenhammer',)",Rec,24
+1460,"('Mac Hippenhammer',)",Rk,175
+1461,"('Mac Hippenhammer',)",School,Miami (OH)
+1462,"('Mac Hippenhammer',)",TD,4
+1463,"('Mac Hippenhammer',)",Yds,328
+1464,"('Phillip Brooks',)",Avg,13.7
+1465,"('Phillip Brooks',)",Conf,Big 12
+1466,"('Phillip Brooks',)",G,6
+1467,"('Phillip Brooks',)",Rec,20
+1468,"('Phillip Brooks',)",Rk,176
+1469,"('Phillip Brooks',)",School,Kansas State
+1470,"('Phillip Brooks',)",TD,2
+1471,"('Phillip Brooks',)",Yds,274
+1472,"('Matthew Golden',)",Avg,13.7
+1473,"('Matthew Golden',)",Conf,American
+1474,"('Matthew Golden',)",G,6
+1475,"('Matthew Golden',)",Rec,17
+1476,"('Matthew Golden',)",Rk,177
+1477,"('Matthew Golden',)",School,Houston
+1478,"('Matthew Golden',)",TD,2
+1479,"('Matthew Golden',)",Yds,233
+1480,"('Jordan Whittington',)",Avg,13.6
+1481,"('Jordan Whittington',)",Conf,Big 12
+1482,"('Jordan Whittington',)",G,7
+1483,"('Jordan Whittington',)",Rec,28
+1484,"('Jordan Whittington',)",Rk,178
+1485,"('Jordan Whittington',)",School,Texas
+1486,"('Jordan Whittington',)",TD,1
+1487,"('Jordan Whittington',)",Yds,381
+1488,"('Robert Ferrel',)",Avg,13.6
+1489,"('Robert Ferrel',)",Conf,Pac-12
+1490,"('Robert Ferrel',)",G,5
+1491,"('Robert Ferrel',)",Rec,25
+1492,"('Robert Ferrel',)",Rk,179
+1493,"('Robert Ferrel',)",School,Washington State
+1494,"('Robert Ferrel',)",TD,3
+1495,"('Robert Ferrel',)",Yds,339
+1496,"('Alred Luke',)",Avg,13.6
+1497,"('Alred Luke',)",Conf,Sun Belt
+1498,"('Alred Luke',)",G,7
+1499,"('Alred Luke',)",Rec,16
+1500,"('Alred Luke',)",Rk,180
+1501,"('Alred Luke',)",School,Louisiana-Monroe
+1502,"('Alred Luke',)",TD,1
+1503,"('Alred Luke',)",Yds,218
+1504,"('Player',)",Avg,Avg
+1505,"('Player',)",Conf,Conf
+1506,"('Player',)",G,G
+1507,"('Player',)",Rec,Rec
+1508,"('Player',)",Rk,Rk
+1509,"('Player',)",School,School
+1510,"('Player',)",TD,TD
+1511,"('Player',)",Yds,Yds
+1512,"('Wyatt Wieland',)",Avg,13.6
+1513,"('Wyatt Wieland',)",Conf,MWC
+1514,"('Wyatt Wieland',)",G,7
+1515,"('Wyatt Wieland',)",Rec,14
+1516,"('Wyatt Wieland',)",Rk,181
+1517,"('Wyatt Wieland',)",School,Wyoming
+1518,"('Wyatt Wieland',)",TD,1
+1519,"('Wyatt Wieland',)",Yds,191
+1520,"('Daewood Davis',)",Avg,13.5
+1521,"('Daewood Davis',)",Conf,CUSA
+1522,"('Daewood Davis',)",G,8
+1523,"('Daewood Davis',)",Rec,47
+1524,"('Daewood Davis',)",Rk,182
+1525,"('Daewood Davis',)",School,Western Kentucky
+1526,"('Daewood Davis',)",TD,5
+1527,"('Daewood Davis',)",Yds,636
+1528,"('Ricky White',)",Avg,13.5
+1529,"('Ricky White',)",Conf,MWC
+1530,"('Ricky White',)",G,7
+1531,"('Ricky White',)",Rec,33
+1532,"('Ricky White',)",Rk,183
+1533,"('Ricky White',)",School,UNLV
+1534,"('Ricky White',)",TD,4
+1535,"('Ricky White',)",Yds,444
+1536,"('Xavier Worthy',)",Avg,13.5
+1537,"('Xavier Worthy',)",Conf,Big 12
+1538,"('Xavier Worthy',)",G,7
+1539,"('Xavier Worthy',)",Rec,32
+1540,"('Xavier Worthy',)",Rk,184
+1541,"('Xavier Worthy',)",School,Texas
+1542,"('Xavier Worthy',)",TD,6
+1543,"('Xavier Worthy',)",Yds,432
+1544,"('Isaiah Epps',)",Avg,13.5
+1545,"('Isaiah Epps',)",Conf,American
+1546,"('Isaiah Epps',)",G,7
+1547,"('Isaiah Epps',)",Rec,24
+1548,"('Isaiah Epps',)",Rk,185
+1549,"('Isaiah Epps',)",School,Tulsa
+1550,"('Isaiah Epps',)",TD,4
+1551,"('Isaiah Epps',)",Yds,325
+1552,"('Thomas Gordon',)",Avg,13.5
+1553,"('Thomas Gordon',)",Conf,Big Ten
+1554,"('Thomas Gordon',)",G,6
+1555,"('Thomas Gordon',)",Rec,12
+1556,"('Thomas Gordon',)",Rk,186
+1557,"('Thomas Gordon',)",School,Northwestern
+1558,"('Thomas Gordon',)",TD,0
+1559,"('Thomas Gordon',)",Yds,162
+1560,"('Tanner McLachlan',)",Avg,13.4
+1561,"('Tanner McLachlan',)",Conf,Pac-12
+1562,"('Tanner McLachlan',)",G,7
+1563,"('Tanner McLachlan',)",Rec,23
+1564,"('Tanner McLachlan',)",Rk,187
+1565,"('Tanner McLachlan',)",School,Arizona
+1566,"('Tanner McLachlan',)",TD,2
+1567,"('Tanner McLachlan',)",Yds,309
+1568,"('Josh Henderson',)",Avg,13.4
+1569,"('Josh Henderson',)",Conf,Big Ten
+1570,"('Josh Henderson',)",G,7
+1571,"('Josh Henderson',)",Rec,16
+1572,"('Josh Henderson',)",Rk,188
+1573,"('Josh Henderson',)",School,Indiana
+1574,"('Josh Henderson',)",TD,3
+1575,"('Josh Henderson',)",Yds,214
+1576,"('Zakhari Franklin',)",Avg,13.3
+1577,"('Zakhari Franklin',)",Conf,CUSA
+1578,"('Zakhari Franklin',)",G,7
+1579,"('Zakhari Franklin',)",Rec,49
+1580,"('Zakhari Franklin',)",Rk,189
+1581,"('Zakhari Franklin',)",School,UTSA
+1582,"('Zakhari Franklin',)",TD,7
+1583,"('Zakhari Franklin',)",Yds,654
+1584,"('Tre Tucker',)",Avg,13.3
+1585,"('Tre Tucker',)",Conf,American
+1586,"('Tre Tucker',)",G,6
+1587,"('Tre Tucker',)",Rec,29
+1588,"('Tre Tucker',)",Rk,190
+1589,"('Tre Tucker',)",School,Cincinnati
+1590,"('Tre Tucker',)",TD,1
+1591,"('Tre Tucker',)",Yds,387
+1592,"('Malachai Jones',)",Avg,13.3
+1593,"('Malachai Jones',)",Conf,American
+1594,"('Malachai Jones',)",G,7
+1595,"('Malachai Jones',)",Rec,26
+1596,"('Malachai Jones',)",Rk,191
+1597,"('Malachai Jones',)",School,Tulsa
+1598,"('Malachai Jones',)",TD,2
+1599,"('Malachai Jones',)",Yds,345
+1600,"('Malik Knowles',)",Avg,13.3
+1601,"('Malik Knowles',)",Conf,Big 12
+1602,"('Malik Knowles',)",G,6
+1603,"('Malik Knowles',)",Rec,20
+1604,"('Malik Knowles',)",Rk,192
+1605,"('Malik Knowles',)",School,Kansas State
+1606,"('Malik Knowles',)",TD,1
+1607,"('Malik Knowles',)",Yds,265
+1608,"('Brycen Tremayne',)",Avg,13.3
+1609,"('Brycen Tremayne',)",Conf,Pac-12
+1610,"('Brycen Tremayne',)",G,6
+1611,"('Brycen Tremayne',)",Rec,17
+1612,"('Brycen Tremayne',)",Rk,193
+1613,"('Brycen Tremayne',)",School,Stanford
+1614,"('Brycen Tremayne',)",TD,2
+1615,"('Brycen Tremayne',)",Yds,226
+1616,"('Devaughn Cooper',)",Avg,13.3
+1617,"('Devaughn Cooper',)",Conf,ACC
+1618,"('Devaughn Cooper',)",G,6
+1619,"('Devaughn Cooper',)",Rec,15
+1620,"('Devaughn Cooper',)",Rk,194
+1621,"('Devaughn Cooper',)",School,Syracuse
+1622,"('Devaughn Cooper',)",TD,1
+1623,"('Devaughn Cooper',)",Yds,200
+1624,"('Kelvontay Dixon',)",Avg,13.3
+1625,"('Kelvontay Dixon',)",Conf,American
+1626,"('Kelvontay Dixon',)",G,6
+1627,"('Kelvontay Dixon',)",Rec,15
+1628,"('Kelvontay Dixon',)",Rk,195
+1629,"('Kelvontay Dixon',)",School,SMU
+1630,"('Kelvontay Dixon',)",TD,2
+1631,"('Kelvontay Dixon',)",Yds,199
+1632,"('Zay Flowers',)",Avg,13.2
+1633,"('Zay Flowers',)",Conf,ACC
+1634,"('Zay Flowers',)",G,6
+1635,"('Zay Flowers',)",Rec,42
+1636,"('Zay Flowers',)",Rk,196
+1637,"('Zay Flowers',)",School,Boston College
+1638,"('Zay Flowers',)",TD,5
+1639,"('Zay Flowers',)",Yds,556
+1640,"('Caullin Lacy',)",Avg,13.2
+1641,"('Caullin Lacy',)",Conf,Sun Belt
+1642,"('Caullin Lacy',)",G,7
+1643,"('Caullin Lacy',)",Rec,42
+1644,"('Caullin Lacy',)",Rk,197
+1645,"('Caullin Lacy',)",School,South Alabama
+1646,"('Caullin Lacy',)",TD,3
+1647,"('Caullin Lacy',)",Yds,553
+1648,"('Jerand Bradley',)",Avg,13.2
+1649,"('Jerand Bradley',)",Conf,Big 12
+1650,"('Jerand Bradley',)",G,6
+1651,"('Jerand Bradley',)",Rec,24
+1652,"('Jerand Bradley',)",Rk,198
+1653,"('Jerand Bradley',)",School,Texas Tech
+1654,"('Jerand Bradley',)",TD,3
+1655,"('Jerand Bradley',)",Yds,317
+1656,"('Will Mallory',)",Avg,13.2
+1657,"('Will Mallory',)",Conf,ACC
+1658,"('Will Mallory',)",G,6
+1659,"('Will Mallory',)",Rec,23
+1660,"('Will Mallory',)",Rk,199
+1661,"('Will Mallory',)",School,Miami (FL)
+1662,"('Will Mallory',)",TD,0
+1663,"('Will Mallory',)",Yds,304
+1664,"('Jaray Jenkins',)",Avg,13.2
+1665,"('Jaray Jenkins',)",Conf,SEC
+1666,"('Jaray Jenkins',)",G,7
+1667,"('Jaray Jenkins',)",Rec,18
+1668,"('Jaray Jenkins',)",Rk,200
+1669,"('Jaray Jenkins',)",School,LSU
+1670,"('Jaray Jenkins',)",TD,4
+1671,"('Jaray Jenkins',)",Yds,237
+1672,"('Player',)",Avg,Avg
+1673,"('Player',)",Conf,Conf
+1674,"('Player',)",G,G
+1675,"('Player',)",Rec,Rec
+1676,"('Player',)",Rk,Rk
+1677,"('Player',)",School,School
+1678,"('Player',)",TD,TD
+1679,"('Player',)",Yds,Yds
+1680,"('Will Sheppard',)",Avg,13.1
+1681,"('Will Sheppard',)",Conf,SEC
+1682,"('Will Sheppard',)",G,7
+1683,"('Will Sheppard',)",Rec,38
+1684,"('Will Sheppard',)",Rk,201
+1685,"('Will Sheppard',)",School,Vanderbilt
+1686,"('Will Sheppard',)",TD,8
+1687,"('Will Sheppard',)",Yds,497
+1688,"('Devaughn Vele',)",Avg,13.1
+1689,"('Devaughn Vele',)",Conf,Pac-12
+1690,"('Devaughn Vele',)",G,7
+1691,"('Devaughn Vele',)",Rec,32
+1692,"('Devaughn Vele',)",Rk,202
+1693,"('Devaughn Vele',)",School,Utah
+1694,"('Devaughn Vele',)",TD,4
+1695,"('Devaughn Vele',)",Yds,418
+1696,"('Malik Nabers',)",Avg,13.1
+1697,"('Malik Nabers',)",Conf,SEC
+1698,"('Malik Nabers',)",G,7
+1699,"('Malik Nabers',)",Rec,32
+1700,"('Malik Nabers',)",Rk,203
+1701,"('Malik Nabers',)",School,LSU
+1702,"('Malik Nabers',)",TD,1
+1703,"('Malik Nabers',)",Yds,418
+1704,"('Jadon Haselwood',)",Avg,13.1
+1705,"('Jadon Haselwood',)",Conf,SEC
+1706,"('Jadon Haselwood',)",G,7
+1707,"('Jadon Haselwood',)",Rec,31
+1708,"('Jadon Haselwood',)",Rk,204
+1709,"('Jadon Haselwood',)",School,Arkansas
+1710,"('Jadon Haselwood',)",TD,2
+1711,"('Jadon Haselwood',)",Yds,406
+1712,"('Lorenzo Styles Jr.',)",Avg,13.1
+1713,"('Lorenzo Styles Jr.',)",Conf,Ind
+1714,"('Lorenzo Styles Jr.',)",G,6
+1715,"('Lorenzo Styles Jr.',)",Rec,21
+1716,"('Lorenzo Styles Jr.',)",Rk,205
+1717,"('Lorenzo Styles Jr.',)",School,Notre Dame
+1718,"('Lorenzo Styles Jr.',)",TD,1
+1719,"('Lorenzo Styles Jr.',)",Yds,275
+1720,"('Giovanni Sanders',)",Avg,13.1
+1721,"('Giovanni Sanders',)",Conf,Pac-12
+1722,"('Giovanni Sanders',)",G,6
+1723,"('Giovanni Sanders',)",Rec,18
+1724,"('Giovanni Sanders',)",Rk,206
+1725,"('Giovanni Sanders',)",School,Arizona State
+1726,"('Giovanni Sanders',)",TD,0
+1727,"('Giovanni Sanders',)",Yds,235
+1728,"('Kyle Williams',)",Avg,13.1
+1729,"('Kyle Williams',)",Conf,MWC
+1730,"('Kyle Williams',)",G,4
+1731,"('Kyle Williams',)",Rec,18
+1732,"('Kyle Williams',)",Rk,207
+1733,"('Kyle Williams',)",School,UNLV
+1734,"('Kyle Williams',)",TD,4
+1735,"('Kyle Williams',)",Yds,235
+1736,"('Michael Redding III',)",Avg,13.1
+1737,"('Michael Redding III',)",Conf,ACC
+1738,"('Michael Redding III',)",G,5
+1739,"('Michael Redding III',)",Rec,14
+1740,"('Michael Redding III',)",Rk,208
+1741,"('Michael Redding III',)",School,Miami (FL)
+1742,"('Michael Redding III',)",TD,1
+1743,"('Michael Redding III',)",Yds,183
+1744,"(""Ryan O'Keefe"",)",Avg,13.0
+1745,"(""Ryan O'Keefe"",)",Conf,American
+1746,"(""Ryan O'Keefe"",)",G,6
+1747,"(""Ryan O'Keefe"",)",Rec,28
+1748,"(""Ryan O'Keefe"",)",Rk,209
+1749,"(""Ryan O'Keefe"",)",School,UCF
+1750,"(""Ryan O'Keefe"",)",TD,4
+1751,"(""Ryan O'Keefe"",)",Yds,364
+1752,"('Tyjae Spears',)",Avg,13.0
+1753,"('Tyjae Spears',)",Conf,American
+1754,"('Tyjae Spears',)",G,7
+1755,"('Tyjae Spears',)",Rec,15
+1756,"('Tyjae Spears',)",Rk,210
+1757,"('Tyjae Spears',)",School,Tulane
+1758,"('Tyjae Spears',)",TD,1
+1759,"('Tyjae Spears',)",Yds,195
+1760,"('Jayden Umbarger',)",Avg,13.0
+1761,"('Jayden Umbarger',)",Conf,American
+1762,"('Jayden Umbarger',)",G,6
+1763,"('Jayden Umbarger',)",Rec,13
+1764,"('Jayden Umbarger',)",Rk,211
+1765,"('Jayden Umbarger',)",School,Navy
+1766,"('Jayden Umbarger',)",TD,1
+1767,"('Jayden Umbarger',)",Yds,169
+1768,"('Billy Bowens',)",Avg,13.0
+1769,"('Billy Bowens',)",Conf,MWC
+1770,"('Billy Bowens',)",G,6
+1771,"('Billy Bowens',)",Rec,12
+1772,"('Billy Bowens',)",Rk,212
+1773,"('Billy Bowens',)",School,Boise State
+1774,"('Billy Bowens',)",TD,1
+1775,"('Billy Bowens',)",Yds,156
+1776,"('George Johnson',)",Avg,12.9
+1777,"('George Johnson',)",Conf,Ind
+1778,"('George Johnson',)",G,7
+1779,"('George Johnson',)",Rec,17
+1780,"('George Johnson',)",Rk,213
+1781,"('George Johnson',)",School,Massachusetts
+1782,"('George Johnson',)",TD,0
+1783,"('George Johnson',)",Yds,220
+1784,"('Cade Stover',)",Avg,12.9
+1785,"('Cade Stover',)",Conf,Big Ten
+1786,"('Cade Stover',)",G,6
+1787,"('Cade Stover',)",Rec,16
+1788,"('Cade Stover',)",Rk,214
+1789,"('Cade Stover',)",School,Ohio State
+1790,"('Cade Stover',)",TD,2
+1791,"('Cade Stover',)",Yds,206
+1792,"('Tyrick James',)",Avg,12.9
+1793,"('Tyrick James',)",Conf,American
+1794,"('Tyrick James',)",G,7
+1795,"('Tyrick James',)",Rec,14
+1796,"('Tyrick James',)",Rk,215
+1797,"('Tyrick James',)",School,Tulane
+1798,"('Tyrick James',)",TD,4
+1799,"('Tyrick James',)",Yds,180
+1800,"('Montana Lemonious-Craig',)",Avg,12.9
+1801,"('Montana Lemonious-Craig',)",Conf,Pac-12
+1802,"('Montana Lemonious-Craig',)",G,5
+1803,"('Montana Lemonious-Craig',)",Rec,13
+1804,"('Montana Lemonious-Craig',)",Rk,216
+1805,"('Montana Lemonious-Craig',)",School,Colorado
+1806,"('Montana Lemonious-Craig',)",TD,1
+1807,"('Montana Lemonious-Craig',)",Yds,168
+1808,"('Cam Camper',)",Avg,12.8
+1809,"('Cam Camper',)",Conf,Big Ten
+1810,"('Cam Camper',)",G,6
+1811,"('Cam Camper',)",Rec,41
+1812,"('Cam Camper',)",Rk,217
+1813,"('Cam Camper',)",School,Indiana
+1814,"('Cam Camper',)",TD,2
+1815,"('Cam Camper',)",Yds,526
+1816,"(""De'Zhaun Stribling"",)",Avg,12.8
+1817,"(""De'Zhaun Stribling"",)",Conf,Pac-12
+1818,"(""De'Zhaun Stribling"",)",G,7
+1819,"(""De'Zhaun Stribling"",)",Rec,28
+1820,"(""De'Zhaun Stribling"",)",Rk,218
+1821,"(""De'Zhaun Stribling"",)",School,Washington State
+1822,"(""De'Zhaun Stribling"",)",TD,4
+1823,"(""De'Zhaun Stribling"",)",Yds,359
+1824,"('Jamari Gassett',)",Avg,12.8
+1825,"('Jamari Gassett',)",Conf,MAC
+1826,"('Jamari Gassett',)",G,7
+1827,"('Jamari Gassett',)",Rec,21
+1828,"('Jamari Gassett',)",Rk,219
+1829,"('Jamari Gassett',)",School,Buffalo
+1830,"('Jamari Gassett',)",TD,1
+1831,"('Jamari Gassett',)",Yds,269
+1832,"('Traeshon Holden',)",Avg,12.8
+1833,"('Traeshon Holden',)",Conf,SEC
+1834,"('Traeshon Holden',)",G,7
+1835,"('Traeshon Holden',)",Rec,19
+1836,"('Traeshon Holden',)",Rk,220
+1837,"('Traeshon Holden',)",School,Alabama
+1838,"('Traeshon Holden',)",TD,4
+1839,"('Traeshon Holden',)",Yds,243
+1840,"('Player',)",Avg,Avg
+1841,"('Player',)",Conf,Conf
+1842,"('Player',)",G,G
+1843,"('Player',)",Rec,Rec
+1844,"('Player',)",Rk,Rk
+1845,"('Player',)",School,School
+1846,"('Player',)",TD,TD
+1847,"('Player',)",Yds,Yds
+1848,"('Jalen Walthall',)",Avg,12.8
+1849,"('Jalen Walthall',)",Conf,MWC
+1850,"('Jalen Walthall',)",G,7
+1851,"('Jalen Walthall',)",Rec,15
+1852,"('Jalen Walthall',)",Rk,221
+1853,"('Jalen Walthall',)",School,Hawaii
+1854,"('Jalen Walthall',)",TD,1
+1855,"('Jalen Walthall',)",Yds,192
+1856,"('Kris Hutson',)",Avg,12.8
+1857,"('Kris Hutson',)",Conf,Pac-12
+1858,"('Kris Hutson',)",G,6
+1859,"('Kris Hutson',)",Rec,14
+1860,"('Kris Hutson',)",Rk,222
+1861,"('Kris Hutson',)",School,Oregon
+1862,"('Kris Hutson',)",TD,0
+1863,"('Kris Hutson',)",Yds,179
+1864,"('Neal Johnson',)",Avg,12.8
+1865,"('Neal Johnson',)",Conf,Sun Belt
+1866,"('Neal Johnson',)",G,6
+1867,"('Neal Johnson',)",Rec,12
+1868,"('Neal Johnson',)",Rk,223
+1869,"('Neal Johnson',)",School,Louisiana
+1870,"('Neal Johnson',)",TD,1
+1871,"('Neal Johnson',)",Yds,153
+1872,"('Brian Cobbs',)",Avg,12.7
+1873,"('Brian Cobbs',)",Conf,MWC
+1874,"('Brian Cobbs',)",G,7
+1875,"('Brian Cobbs',)",Rec,39
+1876,"('Brian Cobbs',)",Rk,224
+1877,"('Brian Cobbs',)",School,Utah State
+1878,"('Brian Cobbs',)",TD,4
+1879,"('Brian Cobbs',)",Yds,497
+1880,"('Keon Coleman',)",Avg,12.7
+1881,"('Keon Coleman',)",Conf,Big Ten
+1882,"('Keon Coleman',)",G,7
+1883,"('Keon Coleman',)",Rec,31
+1884,"('Keon Coleman',)",Rk,225
+1885,"('Keon Coleman',)",School,Michigan State
+1886,"('Keon Coleman',)",TD,5
+1887,"('Keon Coleman',)",Yds,393
+1888,"('Marcell Barbee',)",Avg,12.7
+1889,"('Marcell Barbee',)",Conf,Sun Belt
+1890,"('Marcell Barbee',)",G,7
+1891,"('Marcell Barbee',)",Rec,18
+1892,"('Marcell Barbee',)",Rk,226
+1893,"('Marcell Barbee',)",School,Texas State
+1894,"('Marcell Barbee',)",TD,1
+1895,"('Marcell Barbee',)",Yds,228
+1896,"('Casey Filkins',)",Avg,12.7
+1897,"('Casey Filkins',)",Conf,Pac-12
+1898,"('Casey Filkins',)",G,6
+1899,"('Casey Filkins',)",Rec,16
+1900,"('Casey Filkins',)",Rk,227
+1901,"('Casey Filkins',)",School,Stanford
+1902,"('Casey Filkins',)",TD,1
+1903,"('Casey Filkins',)",Yds,203
+1904,"('Hal Presley',)",Avg,12.7
+1905,"('Hal Presley',)",Conf,Big 12
+1906,"('Hal Presley',)",G,6
+1907,"('Hal Presley',)",Rec,15
+1908,"('Hal Presley',)",Rk,228
+1909,"('Hal Presley',)",School,Baylor
+1910,"('Hal Presley',)",TD,2
+1911,"('Hal Presley',)",Yds,191
+1912,"('Bryce Kirtz',)",Avg,12.7
+1913,"('Bryce Kirtz',)",Conf,Big Ten
+1914,"('Bryce Kirtz',)",G,6
+1915,"('Bryce Kirtz',)",Rec,13
+1916,"('Bryce Kirtz',)",Rk,229
+1917,"('Bryce Kirtz',)",School,Northwestern
+1918,"('Bryce Kirtz',)",TD,0
+1919,"('Bryce Kirtz',)",Yds,165
+1920,"('Xavier Weaver',)",Avg,12.6
+1921,"('Xavier Weaver',)",Conf,American
+1922,"('Xavier Weaver',)",G,6
+1923,"('Xavier Weaver',)",Rec,36
+1924,"('Xavier Weaver',)",Rk,230
+1925,"('Xavier Weaver',)",School,South Florida
+1926,"('Xavier Weaver',)",TD,3
+1927,"('Xavier Weaver',)",Yds,455
+1928,"('Jakarius Caston',)",Avg,12.6
+1929,"('Jakarius Caston',)",Conf,Sun Belt
+1930,"('Jakarius Caston',)",G,6
+1931,"('Jakarius Caston',)",Rec,21
+1932,"('Jakarius Caston',)",Rk,231
+1933,"('Jakarius Caston',)",School,Southern Mississippi
+1934,"('Jakarius Caston',)",TD,3
+1935,"('Jakarius Caston',)",Yds,264
+1936,"('Isaiah Esdale',)",Avg,12.6
+1937,"('Isaiah Esdale',)",Conf,CUSA
+1938,"('Isaiah Esdale',)",G,6
+1939,"('Isaiah Esdale',)",Rec,19
+1940,"('Isaiah Esdale',)",Rk,232
+1941,"('Isaiah Esdale',)",School,Rice
+1942,"('Isaiah Esdale',)",TD,0
+1943,"('Isaiah Esdale',)",Yds,239
+1944,"('Davis Allen',)",Avg,12.6
+1945,"('Davis Allen',)",Conf,ACC
+1946,"('Davis Allen',)",G,7
+1947,"('Davis Allen',)",Rec,17
+1948,"('Davis Allen',)",Rk,233
+1949,"('Davis Allen',)",School,Clemson
+1950,"('Davis Allen',)",TD,3
+1951,"('Davis Allen',)",Yds,215
+1952,"('Tahj Washington',)",Avg,12.6
+1953,"('Tahj Washington',)",Conf,Pac-12
+1954,"('Tahj Washington',)",G,7
+1955,"('Tahj Washington',)",Rec,17
+1956,"('Tahj Washington',)",Rk,234
+1957,"('Tahj Washington',)",School,USC
+1958,"('Tahj Washington',)",TD,0
+1959,"('Tahj Washington',)",Yds,214
+1960,"('Kamari Morales',)",Avg,12.6
+1961,"('Kamari Morales',)",Conf,ACC
+1962,"('Kamari Morales',)",G,7
+1963,"('Kamari Morales',)",Rec,16
+1964,"('Kamari Morales',)",Rk,235
+1965,"('Kamari Morales',)",School,North Carolina
+1966,"('Kamari Morales',)",TD,4
+1967,"('Kamari Morales',)",Yds,202
+1968,"('Raheim Sanders',)",Avg,12.6
+1969,"('Raheim Sanders',)",Conf,SEC
+1970,"('Raheim Sanders',)",G,7
+1971,"('Raheim Sanders',)",Rec,15
+1972,"('Raheim Sanders',)",Rk,236
+1973,"('Raheim Sanders',)",School,Arkansas
+1974,"('Raheim Sanders',)",TD,1
+1975,"('Raheim Sanders',)",Yds,189
+1976,"('Devin Ravenel',)",Avg,12.6
+1977,"('Devin Ravenel',)",Conf,Sun Belt
+1978,"('Devin Ravenel',)",G,6
+1979,"('Devin Ravenel',)",Rec,14
+1980,"('Devin Ravenel',)",Rk,237
+1981,"('Devin Ravenel',)",School,James Madison
+1982,"('Devin Ravenel',)",TD,4
+1983,"('Devin Ravenel',)",Yds,176
+1984,"('Jayden McGowan',)",Avg,12.5
+1985,"('Jayden McGowan',)",Conf,SEC
+1986,"('Jayden McGowan',)",G,7
+1987,"('Jayden McGowan',)",Rec,31
+1988,"('Jayden McGowan',)",Rk,238
+1989,"('Jayden McGowan',)",School,Vanderbilt
+1990,"('Jayden McGowan',)",TD,2
+1991,"('Jayden McGowan',)",Yds,387
+1992,"('Ladd McConkey',)",Avg,12.5
+1993,"('Ladd McConkey',)",Conf,SEC
+1994,"('Ladd McConkey',)",G,7
+1995,"('Ladd McConkey',)",Rec,29
+1996,"('Ladd McConkey',)",Rk,239
+1997,"('Ladd McConkey',)",School,Georgia
+1998,"('Ladd McConkey',)",TD,1
+1999,"('Ladd McConkey',)",Yds,362
+2000,"('Dominic Richardson',)",Avg,12.5
+2001,"('Dominic Richardson',)",Conf,Big 12
+2002,"('Dominic Richardson',)",G,6
+2003,"('Dominic Richardson',)",Rec,17
+2004,"('Dominic Richardson',)",Rk,240
+2005,"('Dominic Richardson',)",School,Oklahoma State
+2006,"('Dominic Richardson',)",TD,0
+2007,"('Dominic Richardson',)",Yds,212
+2008,"('Player',)",Avg,Avg
+2009,"('Player',)",Conf,Conf
+2010,"('Player',)",G,G
+2011,"('Player',)",Rec,Rec
+2012,"('Player',)",Rk,Rk
+2013,"('Player',)",School,School
+2014,"('Player',)",TD,TD
+2015,"('Player',)",Yds,Yds
+2016,"('Keleki Latu',)",Avg,12.5
+2017,"('Keleki Latu',)",Conf,Pac-12
+2018,"('Keleki Latu',)",G,6
+2019,"('Keleki Latu',)",Rec,13
+2020,"('Keleki Latu',)",Rk,241
+2021,"('Keleki Latu',)",School,California
+2022,"('Keleki Latu',)",TD,1
+2023,"('Keleki Latu',)",Yds,162
+2024,"('Nathaniel Dell',)",Avg,12.4
+2025,"('Nathaniel Dell',)",Conf,American
+2026,"('Nathaniel Dell',)",G,6
+2027,"('Nathaniel Dell',)",Rec,43
+2028,"('Nathaniel Dell',)",Rk,242
+2029,"('Nathaniel Dell',)",School,Houston
+2030,"('Nathaniel Dell',)",TD,6
+2031,"('Nathaniel Dell',)",Yds,534
+2032,"('Kody Epps',)",Avg,12.4
+2033,"('Kody Epps',)",Conf,Ind
+2034,"('Kody Epps',)",G,7
+2035,"('Kody Epps',)",Rec,34
+2036,"('Kody Epps',)",Rk,243
+2037,"('Kody Epps',)",School,Brigham Young
+2038,"('Kody Epps',)",TD,6
+2039,"('Kody Epps',)",Yds,423
+2040,"('Odieu Hiliare',)",Avg,12.4
+2041,"('Odieu Hiliare',)",Conf,MAC
+2042,"('Odieu Hiliare',)",G,7
+2043,"('Odieu Hiliare',)",Rec,23
+2044,"('Odieu Hiliare',)",Rk,244
+2045,"('Odieu Hiliare',)",School,Bowling Green State
+2046,"('Odieu Hiliare',)",TD,4
+2047,"('Odieu Hiliare',)",Yds,286
+2048,"('Nehemiah Martinez',)",Avg,12.4
+2049,"('Nehemiah Martinez',)",Conf,Big 12
+2050,"('Nehemiah Martinez',)",G,6
+2051,"('Nehemiah Martinez',)",Rec,17
+2052,"('Nehemiah Martinez',)",Rk,245
+2053,"('Nehemiah Martinez',)",School,Texas Tech
+2054,"('Nehemiah Martinez',)",TD,2
+2055,"('Nehemiah Martinez',)",Yds,211
+2056,"('Ronnie Bell',)",Avg,12.3
+2057,"('Ronnie Bell',)",Conf,Big Ten
+2058,"('Ronnie Bell',)",G,7
+2059,"('Ronnie Bell',)",Rec,35
+2060,"('Ronnie Bell',)",Rk,246
+2061,"('Ronnie Bell',)",School,Michigan
+2062,"('Ronnie Bell',)",TD,1
+2063,"('Ronnie Bell',)",Yds,429
+2064,"('Smoke Harris',)",Avg,12.3
+2065,"('Smoke Harris',)",Conf,CUSA
+2066,"('Smoke Harris',)",G,6
+2067,"('Smoke Harris',)",Rec,29
+2068,"('Smoke Harris',)",Rk,247
+2069,"('Smoke Harris',)",School,Louisiana Tech
+2070,"('Smoke Harris',)",TD,4
+2071,"('Smoke Harris',)",Yds,356
+2072,"('Elijah Higgins',)",Avg,12.3
+2073,"('Elijah Higgins',)",Conf,Pac-12
+2074,"('Elijah Higgins',)",G,6
+2075,"('Elijah Higgins',)",Rec,24
+2076,"('Elijah Higgins',)",Rk,248
+2077,"('Elijah Higgins',)",School,Stanford
+2078,"('Elijah Higgins',)",TD,1
+2079,"('Elijah Higgins',)",Yds,296
+2080,"('Jeshaun Jones',)",Avg,12.3
+2081,"('Jeshaun Jones',)",Conf,Big Ten
+2082,"('Jeshaun Jones',)",G,7
+2083,"('Jeshaun Jones',)",Rec,24
+2084,"('Jeshaun Jones',)",Rk,249
+2085,"('Jeshaun Jones',)",School,Maryland
+2086,"('Jeshaun Jones',)",TD,2
+2087,"('Jeshaun Jones',)",Yds,294
+2088,"('Marshon Ford',)",Avg,12.3
+2089,"('Marshon Ford',)",Conf,ACC
+2090,"('Marshon Ford',)",G,6
+2091,"('Marshon Ford',)",Rec,18
+2092,"('Marshon Ford',)",Rk,250
+2093,"('Marshon Ford',)",School,Louisville
+2094,"('Marshon Ford',)",TD,1
+2095,"('Marshon Ford',)",Yds,222
+2096,"('Khaleb Hood',)",Avg,12.2
+2097,"('Khaleb Hood',)",Conf,Sun Belt
+2098,"('Khaleb Hood',)",G,7
+2099,"('Khaleb Hood',)",Rec,46
+2100,"('Khaleb Hood',)",Rk,251
+2101,"('Khaleb Hood',)",School,Georgia Southern
+2102,"('Khaleb Hood',)",TD,2
+2103,"('Khaleb Hood',)",Yds,560
+2104,"('Derwin Burgess Jr.',)",Avg,12.2
+2105,"('Derwin Burgess Jr.',)",Conf,Sun Belt
+2106,"('Derwin Burgess Jr.',)",G,7
+2107,"('Derwin Burgess Jr.',)",Rec,44
+2108,"('Derwin Burgess Jr.',)",Rk,252
+2109,"('Derwin Burgess Jr.',)",School,Georgia Southern
+2110,"('Derwin Burgess Jr.',)",TD,5
+2111,"('Derwin Burgess Jr.',)",Yds,537
+2112,"('Tyson Mobley',)",Avg,12.2
+2113,"('Tyson Mobley',)",Conf,Sun Belt
+2114,"('Tyson Mobley',)",G,7
+2115,"('Tyson Mobley',)",Rec,20
+2116,"('Tyson Mobley',)",Rk,253
+2117,"('Tyson Mobley',)",School,Coastal Carolina
+2118,"('Tyson Mobley',)",TD,3
+2119,"('Tyson Mobley',)",Yds,244
+2120,"('Jalil Farooq',)",Avg,12.2
+2121,"('Jalil Farooq',)",Conf,Big 12
+2122,"('Jalil Farooq',)",G,7
+2123,"('Jalil Farooq',)",Rec,16
+2124,"('Jalil Farooq',)",Rk,254
+2125,"('Jalil Farooq',)",School,Oklahoma
+2126,"('Jalil Farooq',)",TD,1
+2127,"('Jalil Farooq',)",Yds,195
+2128,"('Malachi Corley',)",Avg,12.1
+2129,"('Malachi Corley',)",Conf,CUSA
+2130,"('Malachi Corley',)",G,8
+2131,"('Malachi Corley',)",Rec,50
+2132,"('Malachi Corley',)",Rk,255
+2133,"('Malachi Corley',)",School,Western Kentucky
+2134,"('Malachi Corley',)",TD,6
+2135,"('Malachi Corley',)",Yds,606
+2136,"('Joshua Cephus',)",Avg,12.1
+2137,"('Joshua Cephus',)",Conf,CUSA
+2138,"('Joshua Cephus',)",G,7
+2139,"('Joshua Cephus',)",Rec,50
+2140,"('Joshua Cephus',)",Rk,256
+2141,"('Joshua Cephus',)",School,UTSA
+2142,"('Joshua Cephus',)",TD,2
+2143,"('Joshua Cephus',)",Yds,604
+2144,"('Devin Voisin',)",Avg,12.1
+2145,"('Devin Voisin',)",Conf,Sun Belt
+2146,"('Devin Voisin',)",G,7
+2147,"('Devin Voisin',)",Rec,35
+2148,"('Devin Voisin',)",Rk,257
+2149,"('Devin Voisin',)",School,South Alabama
+2150,"('Devin Voisin',)",TD,1
+2151,"('Devin Voisin',)",Yds,423
+2152,"('Adonicas Sanders',)",Avg,12.1
+2153,"('Adonicas Sanders',)",Conf,American
+2154,"('Adonicas Sanders',)",G,7
+2155,"('Adonicas Sanders',)",Rec,29
+2156,"('Adonicas Sanders',)",Rk,258
+2157,"('Adonicas Sanders',)",School,Temple
+2158,"('Adonicas Sanders',)",TD,1
+2159,"('Adonicas Sanders',)",Yds,352
+2160,"('Champ Flemings',)",Avg,12.1
+2161,"('Champ Flemings',)",Conf,Sun Belt
+2162,"('Champ Flemings',)",G,6
+2163,"('Champ Flemings',)",Rec,29
+2164,"('Champ Flemings',)",Rk,259
+2165,"('Champ Flemings',)",School,Arkansas State
+2166,"('Champ Flemings',)",TD,1
+2167,"('Champ Flemings',)",Yds,352
+2168,"('Brian Hightower',)",Avg,12.1
+2169,"('Brian Hightower',)",Conf,Big Ten
+2170,"('Brian Hightower',)",G,7
+2171,"('Brian Hightower',)",Rec,25
+2172,"('Brian Hightower',)",Rk,260
+2173,"('Brian Hightower',)",School,Illinois
+2174,"('Brian Hightower',)",TD,1
+2175,"('Brian Hightower',)",Yds,302
+2176,"('Player',)",Avg,Avg
+2177,"('Player',)",Conf,Conf
+2178,"('Player',)",G,G
+2179,"('Player',)",Rec,Rec
+2180,"('Player',)",Rk,Rk
+2181,"('Player',)",School,School
+2182,"('Player',)",TD,TD
+2183,"('Player',)",Yds,Yds
+2184,"('Mycah Pittman',)",Avg,12.1
+2185,"('Mycah Pittman',)",Conf,ACC
+2186,"('Mycah Pittman',)",G,7
+2187,"('Mycah Pittman',)",Rec,22
+2188,"('Mycah Pittman',)",Rk,261
+2189,"('Mycah Pittman',)",School,Florida State
+2190,"('Mycah Pittman',)",TD,3
+2191,"('Mycah Pittman',)",Yds,266
+2192,"('Cameron Latu',)",Avg,12.1
+2193,"('Cameron Latu',)",Conf,SEC
+2194,"('Cameron Latu',)",G,6
+2195,"('Cameron Latu',)",Rec,17
+2196,"('Cameron Latu',)",Rk,262
+2197,"('Cameron Latu',)",School,Alabama
+2198,"('Cameron Latu',)",TD,2
+2199,"('Cameron Latu',)",Yds,206
+2200,"('Elijhah Badger',)",Avg,12.0
+2201,"('Elijhah Badger',)",Conf,Pac-12
+2202,"('Elijhah Badger',)",G,6
+2203,"('Elijhah Badger',)",Rec,31
+2204,"('Elijhah Badger',)",Rk,263
+2205,"('Elijhah Badger',)",School,Arizona State
+2206,"('Elijhah Badger',)",TD,3
+2207,"('Elijhah Badger',)",Yds,372
+2208,"('Caden Prieskorn',)",Avg,12.0
+2209,"('Caden Prieskorn',)",Conf,American
+2210,"('Caden Prieskorn',)",G,7
+2211,"('Caden Prieskorn',)",Rec,27
+2212,"('Caden Prieskorn',)",Rk,264
+2213,"('Caden Prieskorn',)",School,Memphis
+2214,"('Caden Prieskorn',)",TD,6
+2215,"('Caden Prieskorn',)",Yds,323
+2216,"('Colbie Young',)",Avg,12.0
+2217,"('Colbie Young',)",Conf,ACC
+2218,"('Colbie Young',)",G,4
+2219,"('Colbie Young',)",Rec,12
+2220,"('Colbie Young',)",Rk,265
+2221,"('Colbie Young',)",School,Miami (FL)
+2222,"('Colbie Young',)",TD,2
+2223,"('Colbie Young',)",Yds,144
+2224,"('Zack Kuntz',)",Avg,12.0
+2225,"('Zack Kuntz',)",Conf,Sun Belt
+2226,"('Zack Kuntz',)",G,5
+2227,"('Zack Kuntz',)",Rec,12
+2228,"('Zack Kuntz',)",Rk,266
+2229,"('Zack Kuntz',)",School,Old Dominion
+2230,"('Zack Kuntz',)",TD,2
+2231,"('Zack Kuntz',)",Yds,144
+2232,"('Charlie Jones',)",Avg,11.9
+2233,"('Charlie Jones',)",Conf,Big Ten
+2234,"('Charlie Jones',)",G,7
+2235,"('Charlie Jones',)",Rec,62
+2236,"('Charlie Jones',)",Rk,267
+2237,"('Charlie Jones',)",School,Purdue
+2238,"('Charlie Jones',)",TD,9
+2239,"('Charlie Jones',)",Yds,735
+2240,"('Sam Wiglusz',)",Avg,11.9
+2241,"('Sam Wiglusz',)",Conf,MAC
+2242,"('Sam Wiglusz',)",G,7
+2243,"('Sam Wiglusz',)",Rec,43
+2244,"('Sam Wiglusz',)",Rk,268
+2245,"('Sam Wiglusz',)",School,Ohio
+2246,"('Sam Wiglusz',)",TD,5
+2247,"('Sam Wiglusz',)",Yds,510
+2248,"('Grant Dubose',)",Avg,11.9
+2249,"('Grant Dubose',)",Conf,CUSA
+2250,"('Grant Dubose',)",G,7
+2251,"('Grant Dubose',)",Rec,38
+2252,"('Grant Dubose',)",Rk,269
+2253,"('Grant Dubose',)",School,Charlotte
+2254,"('Grant Dubose',)",TD,7
+2255,"('Grant Dubose',)",Yds,453
+2256,"('Reynaldo Flores',)",Avg,11.9
+2257,"('Reynaldo Flores',)",Conf,CUSA
+2258,"('Reynaldo Flores',)",G,7
+2259,"('Reynaldo Flores',)",Rec,33
+2260,"('Reynaldo Flores',)",Rk,270
+2261,"('Reynaldo Flores',)",School,UTEP
+2262,"('Reynaldo Flores',)",TD,0
+2263,"('Reynaldo Flores',)",Yds,393
+2264,"('Josh Cobbs',)",Avg,11.9
+2265,"('Josh Cobbs',)",Conf,MWC
+2266,"('Josh Cobbs',)",G,7
+2267,"('Josh Cobbs',)",Rec,24
+2268,"('Josh Cobbs',)",Rk,271
+2269,"('Josh Cobbs',)",School,Wyoming
+2270,"('Josh Cobbs',)",TD,2
+2271,"('Josh Cobbs',)",Yds,285
+2272,"('Giles Jackson',)",Avg,11.9
+2273,"('Giles Jackson',)",Conf,Pac-12
+2274,"('Giles Jackson',)",G,7
+2275,"('Giles Jackson',)",Rec,21
+2276,"('Giles Jackson',)",Rk,272
+2277,"('Giles Jackson',)",School,Washington
+2278,"('Giles Jackson',)",TD,1
+2279,"('Giles Jackson',)",Yds,250
+2280,"('Lideatrick Griffin',)",Avg,11.9
+2281,"('Lideatrick Griffin',)",Conf,SEC
+2282,"('Lideatrick Griffin',)",G,7
+2283,"('Lideatrick Griffin',)",Rec,21
+2284,"('Lideatrick Griffin',)",Rk,273
+2285,"('Lideatrick Griffin',)",School,Mississippi State
+2286,"('Lideatrick Griffin',)",TD,1
+2287,"('Lideatrick Griffin',)",Yds,249
+2288,"('Jaylen Johnson',)",Avg,11.9
+2289,"('Jaylen Johnson',)",Conf,American
+2290,"('Jaylen Johnson',)",G,5
+2291,"('Jaylen Johnson',)",Rec,17
+2292,"('Jaylen Johnson',)",Rk,274
+2293,"('Jaylen Johnson',)",School,East Carolina
+2294,"('Jaylen Johnson',)",TD,1
+2295,"('Jaylen Johnson',)",Yds,203
+2296,"('Nico Ragaini',)",Avg,11.9
+2297,"('Nico Ragaini',)",Conf,Big Ten
+2298,"('Nico Ragaini',)",G,4
+2299,"('Nico Ragaini',)",Rec,13
+2300,"('Nico Ragaini',)",Rk,275
+2301,"('Nico Ragaini',)",School,Iowa
+2302,"('Nico Ragaini',)",TD,0
+2303,"('Nico Ragaini',)",Yds,155
+2304,"('Brennan Presley',)",Avg,11.8
+2305,"('Brennan Presley',)",Conf,Big 12
+2306,"('Brennan Presley',)",G,6
+2307,"('Brennan Presley',)",Rec,30
+2308,"('Brennan Presley',)",Rk,276
+2309,"('Brennan Presley',)",School,Oklahoma State
+2310,"('Brennan Presley',)",TD,1
+2311,"('Brennan Presley',)",Yds,353
+2312,"('Demeer Blankumsee',)",Avg,11.8
+2313,"('Demeer Blankumsee',)",Conf,MAC
+2314,"('Demeer Blankumsee',)",G,5
+2315,"('Demeer Blankumsee',)",Rec,29
+2316,"('Demeer Blankumsee',)",Rk,277
+2317,"('Demeer Blankumsee',)",School,Toledo
+2318,"('Demeer Blankumsee',)",TD,1
+2319,"('Demeer Blankumsee',)",Yds,341
+2320,"('J. Michael Sturdivant',)",Avg,11.8
+2321,"('J. Michael Sturdivant',)",Conf,Pac-12
+2322,"('J. Michael Sturdivant',)",G,6
+2323,"('J. Michael Sturdivant',)",Rec,29
+2324,"('J. Michael Sturdivant',)",Rk,278
+2325,"('J. Michael Sturdivant',)",School,California
+2326,"('J. Michael Sturdivant',)",TD,3
+2327,"('J. Michael Sturdivant',)",Yds,341
+2328,"('Thayer Thomas',)",Avg,11.8
+2329,"('Thayer Thomas',)",Conf,ACC
+2330,"('Thayer Thomas',)",G,7
+2331,"('Thayer Thomas',)",Rec,27
+2332,"('Thayer Thomas',)",Rk,279
+2333,"('Thayer Thomas',)",School,North Carolina State
+2334,"('Thayer Thomas',)",TD,2
+2335,"('Thayer Thomas',)",Yds,319
+2336,"('Mitchell Tinsley',)",Avg,11.8
+2337,"('Mitchell Tinsley',)",Conf,Big Ten
+2338,"('Mitchell Tinsley',)",G,6
+2339,"('Mitchell Tinsley',)",Rec,24
+2340,"('Mitchell Tinsley',)",Rk,280
+2341,"('Mitchell Tinsley',)",School,Penn State
+2342,"('Mitchell Tinsley',)",TD,3
+2343,"('Mitchell Tinsley',)",Yds,282
+2344,"('Player',)",Avg,Avg
+2345,"('Player',)",Conf,Conf
+2346,"('Player',)",G,G
+2347,"('Player',)",Rec,Rec
+2348,"('Player',)",Rk,Rk
+2349,"('Player',)",School,School
+2350,"('Player',)",TD,TD
+2351,"('Player',)",Yds,Yds
+2352,"('Brayden Cosper',)",Avg,11.8
+2353,"('Brayden Cosper',)",Conf,Ind
+2354,"('Brayden Cosper',)",G,7
+2355,"('Brayden Cosper',)",Rec,17
+2356,"('Brayden Cosper',)",Rk,281
+2357,"('Brayden Cosper',)",School,Brigham Young
+2358,"('Brayden Cosper',)",TD,1
+2359,"('Brayden Cosper',)",Yds,200
+2360,"('Jack Westover',)",Avg,11.8
+2361,"('Jack Westover',)",Conf,Pac-12
+2362,"('Jack Westover',)",G,7
+2363,"('Jack Westover',)",Rec,16
+2364,"('Jack Westover',)",Rk,282
+2365,"('Jack Westover',)",School,Washington
+2366,"('Jack Westover',)",TD,0
+2367,"('Jack Westover',)",Yds,188
+2368,"('Lincoln Pare',)",Avg,11.8
+2369,"('Lincoln Pare',)",Conf,Sun Belt
+2370,"('Lincoln Pare',)",G,7
+2371,"('Lincoln Pare',)",Rec,14
+2372,"('Lincoln Pare',)",Rk,283
+2373,"('Lincoln Pare',)",School,Texas State
+2374,"('Lincoln Pare',)",TD,1
+2375,"('Lincoln Pare',)",Yds,165
+2376,"('Mookie Cooper',)",Avg,11.8
+2377,"('Mookie Cooper',)",Conf,SEC
+2378,"('Mookie Cooper',)",G,6
+2379,"('Mookie Cooper',)",Rec,14
+2380,"('Mookie Cooper',)",Rk,284
+2381,"('Mookie Cooper',)",School,Missouri
+2382,"('Mookie Cooper',)",TD,0
+2383,"('Mookie Cooper',)",Yds,165
+2384,"('Jayden Reed',)",Avg,11.7
+2385,"('Jayden Reed',)",Conf,Big Ten
+2386,"('Jayden Reed',)",G,6
+2387,"('Jayden Reed',)",Rec,32
+2388,"('Jayden Reed',)",Rk,285
+2389,"('Jayden Reed',)",School,Michigan State
+2390,"('Jayden Reed',)",TD,3
+2391,"('Jayden Reed',)",Yds,373
+2392,"('Nikko Remigio',)",Avg,11.7
+2393,"('Nikko Remigio',)",Conf,MWC
+2394,"('Nikko Remigio',)",G,6
+2395,"('Nikko Remigio',)",Rec,27
+2396,"('Nikko Remigio',)",Rk,286
+2397,"('Nikko Remigio',)",School,Fresno State
+2398,"('Nikko Remigio',)",TD,1
+2399,"('Nikko Remigio',)",Yds,317
+2400,"('Evan Stewart',)",Avg,11.7
+2401,"('Evan Stewart',)",Conf,SEC
+2402,"('Evan Stewart',)",G,5
+2403,"('Evan Stewart',)",Rec,26
+2404,"('Evan Stewart',)",Rk,287
+2405,"('Evan Stewart',)",School,Texas A&M
+2406,"('Evan Stewart',)",TD,1
+2407,"('Evan Stewart',)",Yds,303
+2408,"('Xavier White',)",Avg,11.7
+2409,"('Xavier White',)",Conf,Big 12
+2410,"('Xavier White',)",G,6
+2411,"('Xavier White',)",Rec,23
+2412,"('Xavier White',)",Rk,288
+2413,"('Xavier White',)",School,Texas Tech
+2414,"('Xavier White',)",TD,2
+2415,"('Xavier White',)",Yds,270
+2416,"('Dimitri Stanley',)",Avg,11.7
+2417,"('Dimitri Stanley',)",Conf,Big 12
+2418,"('Dimitri Stanley',)",G,6
+2419,"('Dimitri Stanley',)",Rec,19
+2420,"('Dimitri Stanley',)",Rk,289
+2421,"('Dimitri Stanley',)",School,Iowa State
+2422,"('Dimitri Stanley',)",TD,1
+2423,"('Dimitri Stanley',)",Yds,223
+2424,"('Brenden Rice',)",Avg,11.7
+2425,"('Brenden Rice',)",Conf,Pac-12
+2426,"('Brenden Rice',)",G,7
+2427,"('Brenden Rice',)",Rec,16
+2428,"('Brenden Rice',)",Rk,290
+2429,"('Brenden Rice',)",School,USC
+2430,"('Brenden Rice',)",TD,0
+2431,"('Brenden Rice',)",Yds,187
+2432,"('Dea Dea McDougle',)",Avg,11.7
+2433,"('Dea Dea McDougle',)",Conf,American
+2434,"('Dea Dea McDougle',)",G,7
+2435,"('Dea Dea McDougle',)",Rec,16
+2436,"('Dea Dea McDougle',)",Rk,291
+2437,"('Dea Dea McDougle',)",School,Tulane
+2438,"('Dea Dea McDougle',)",TD,1
+2439,"('Dea Dea McDougle',)",Yds,187
+2440,"('Zane Pope',)",Avg,11.7
+2441,"('Zane Pope',)",Conf,MWC
+2442,"('Zane Pope',)",G,6
+2443,"('Zane Pope',)",Rec,14
+2444,"('Zane Pope',)",Rk,292
+2445,"('Zane Pope',)",School,Fresno State
+2446,"('Zane Pope',)",TD,0
+2447,"('Zane Pope',)",Yds,164
+2448,"('Bryce Ford-Wheaton',)",Avg,11.6
+2449,"('Bryce Ford-Wheaton',)",Conf,Big 12
+2450,"('Bryce Ford-Wheaton',)",G,6
+2451,"('Bryce Ford-Wheaton',)",Rec,40
+2452,"('Bryce Ford-Wheaton',)",Rk,293
+2453,"('Bryce Ford-Wheaton',)",School,West Virginia
+2454,"('Bryce Ford-Wheaton',)",TD,4
+2455,"('Bryce Ford-Wheaton',)",Yds,463
+2456,"('Luke McCaffrey',)",Avg,11.6
+2457,"('Luke McCaffrey',)",Conf,CUSA
+2458,"('Luke McCaffrey',)",G,6
+2459,"('Luke McCaffrey',)",Rec,33
+2460,"('Luke McCaffrey',)",Rk,294
+2461,"('Luke McCaffrey',)",School,Rice
+2462,"('Luke McCaffrey',)",TD,3
+2463,"('Luke McCaffrey',)",Yds,384
+2464,"('Dashaun Davis',)",Avg,11.6
+2465,"('Dashaun Davis',)",Conf,Sun Belt
+2466,"('Dashaun Davis',)",G,6
+2467,"('Dashaun Davis',)",Rec,27
+2468,"('Dashaun Davis',)",Rk,295
+2469,"('Dashaun Davis',)",School,Appalachian State
+2470,"('Dashaun Davis',)",TD,2
+2471,"('Dashaun Davis',)",Yds,312
+2472,"('Miles Cross',)",Avg,11.6
+2473,"('Miles Cross',)",Conf,MAC
+2474,"('Miles Cross',)",G,7
+2475,"('Miles Cross',)",Rec,26
+2476,"('Miles Cross',)",Rk,296
+2477,"('Miles Cross',)",School,Ohio
+2478,"('Miles Cross',)",TD,1
+2479,"('Miles Cross',)",Yds,302
+2480,"('Rakim Jarrett',)",Avg,11.6
+2481,"('Rakim Jarrett',)",Conf,Big Ten
+2482,"('Rakim Jarrett',)",G,7
+2483,"('Rakim Jarrett',)",Rec,25
+2484,"('Rakim Jarrett',)",Rk,297
+2485,"('Rakim Jarrett',)",School,Maryland
+2486,"('Rakim Jarrett',)",TD,2
+2487,"('Rakim Jarrett',)",Yds,289
+2488,"('Amad Anderson Jr.',)",Avg,11.6
+2489,"('Amad Anderson Jr.',)",Conf,American
+2490,"('Amad Anderson Jr.',)",G,7
+2491,"('Amad Anderson Jr.',)",Rec,16
+2492,"('Amad Anderson Jr.',)",Rk,298
+2493,"('Amad Anderson Jr.',)",School,Temple
+2494,"('Amad Anderson Jr.',)",TD,1
+2495,"('Amad Anderson Jr.',)",Yds,186
+2496,"('Josh Downs',)",Avg,11.5
+2497,"('Josh Downs',)",Conf,ACC
+2498,"('Josh Downs',)",G,5
+2499,"('Josh Downs',)",Rec,37
+2500,"('Josh Downs',)",Rk,299
+2501,"('Josh Downs',)",School,North Carolina
+2502,"('Josh Downs',)",TD,5
+2503,"('Josh Downs',)",Yds,425
+2504,"('Quian Williams',)",Avg,11.5
+2505,"('Quian Williams',)",Conf,MAC
+2506,"('Quian Williams',)",G,7
+2507,"('Quian Williams',)",Rec,36
+2508,"('Quian Williams',)",Rk,300
+2509,"('Quian Williams',)",School,Buffalo
+2510,"('Quian Williams',)",TD,4
+2511,"('Quian Williams',)",Yds,413
+2512,"('Player',)",Avg,Avg
+2513,"('Player',)",Conf,Conf
+2514,"('Player',)",G,G
+2515,"('Player',)",Rec,Rec
+2516,"('Player',)",Rk,Rk
+2517,"('Player',)",School,School
+2518,"('Player',)",TD,TD
+2519,"('Player',)",Yds,Yds
+2520,"('Luke Grimm',)",Avg,11.5
+2521,"('Luke Grimm',)",Conf,Big 12
+2522,"('Luke Grimm',)",G,7
+2523,"('Luke Grimm',)",Rec,26
+2524,"('Luke Grimm',)",Rk,301
+2525,"('Luke Grimm',)",School,Kansas
+2526,"('Luke Grimm',)",TD,3
+2527,"('Luke Grimm',)",Yds,300
+2528,"('Darius Lassiter',)",Avg,11.5
+2529,"('Darius Lassiter',)",Conf,MAC
+2530,"('Darius Lassiter',)",G,7
+2531,"('Darius Lassiter',)",Rec,22
+2532,"('Darius Lassiter',)",Rk,302
+2533,"('Darius Lassiter',)",School,Eastern Michigan
+2534,"('Darius Lassiter',)",TD,2
+2535,"('Darius Lassiter',)",Yds,254
+2536,"('TJ Sheffield',)",Avg,11.5
+2537,"('TJ Sheffield',)",Conf,Big Ten
+2538,"('TJ Sheffield',)",G,7
+2539,"('TJ Sheffield',)",Rec,22
+2540,"('TJ Sheffield',)",Rk,303
+2541,"('TJ Sheffield',)",School,Purdue
+2542,"('TJ Sheffield',)",TD,3
+2543,"('TJ Sheffield',)",Yds,254
+2544,"('Jonah Panoke',)",Avg,11.5
+2545,"('Jonah Panoke',)",Conf,MWC
+2546,"('Jonah Panoke',)",G,5
+2547,"('Jonah Panoke',)",Rec,15
+2548,"('Jonah Panoke',)",Rk,304
+2549,"('Jonah Panoke',)",School,Hawaii
+2550,"('Jonah Panoke',)",TD,0
+2551,"('Jonah Panoke',)",Yds,172
+2552,"('Sam Brown',)",Avg,11.5
+2553,"('Sam Brown',)",Conf,American
+2554,"('Sam Brown',)",G,6
+2555,"('Sam Brown',)",Rec,13
+2556,"('Sam Brown',)",Rk,305
+2557,"('Sam Brown',)",School,Houston
+2558,"('Sam Brown',)",TD,0
+2559,"('Sam Brown',)",Yds,150
+2560,"(""Ja'Tavion Sanders"",)",Avg,11.4
+2561,"(""Ja'Tavion Sanders"",)",Conf,Big 12
+2562,"(""Ja'Tavion Sanders"",)",G,7
+2563,"(""Ja'Tavion Sanders"",)",Rec,28
+2564,"(""Ja'Tavion Sanders"",)",Rk,306
+2565,"(""Ja'Tavion Sanders"",)",School,Texas
+2566,"(""Ja'Tavion Sanders"",)",TD,5
+2567,"(""Ja'Tavion Sanders"",)",Yds,320
+2568,"('Jason Ivory',)",Avg,11.4
+2569,"('Jason Ivory',)",Conf,American
+2570,"('Jason Ivory',)",G,7
+2571,"('Jason Ivory',)",Rec,23
+2572,"('Jason Ivory',)",Rk,307
+2573,"('Jason Ivory',)",School,Memphis
+2574,"('Jason Ivory',)",TD,1
+2575,"('Jason Ivory',)",Yds,263
+2576,"('John Paul Richardson',)",Avg,11.4
+2577,"('John Paul Richardson',)",Conf,Big 12
+2578,"('John Paul Richardson',)",G,6
+2579,"('John Paul Richardson',)",Rec,22
+2580,"('John Paul Richardson',)",Rk,308
+2581,"('John Paul Richardson',)",School,Oklahoma State
+2582,"('John Paul Richardson',)",TD,3
+2583,"('John Paul Richardson',)",Yds,251
+2584,"('D.J. Matthews',)",Avg,11.4
+2585,"('D.J. Matthews',)",Conf,Big Ten
+2586,"('D.J. Matthews',)",G,5
+2587,"('D.J. Matthews',)",Rec,18
+2588,"('D.J. Matthews',)",Rk,309
+2589,"('D.J. Matthews',)",School,Indiana
+2590,"('D.J. Matthews',)",TD,2
+2591,"('D.J. Matthews',)",Yds,205
+2592,"('CJ Dippre',)",Avg,11.4
+2593,"('CJ Dippre',)",Conf,Big Ten
+2594,"('CJ Dippre',)",G,7
+2595,"('CJ Dippre',)",Rec,17
+2596,"('CJ Dippre',)",Rk,310
+2597,"('CJ Dippre',)",School,Maryland
+2598,"('CJ Dippre',)",TD,2
+2599,"('CJ Dippre',)",Yds,193
+2600,"('Henry Pearson',)",Avg,11.4
+2601,"('Henry Pearson',)",Conf,Sun Belt
+2602,"('Henry Pearson',)",G,6
+2603,"('Henry Pearson',)",Rec,14
+2604,"('Henry Pearson',)",Rk,311
+2605,"('Henry Pearson',)",School,Appalachian State
+2606,"('Henry Pearson',)",TD,4
+2607,"('Henry Pearson',)",Yds,160
+2608,"('Xavier Hutchinson',)",Avg,11.3
+2609,"('Xavier Hutchinson',)",Conf,Big 12
+2610,"('Xavier Hutchinson',)",G,7
+2611,"('Xavier Hutchinson',)",Rec,67
+2612,"('Xavier Hutchinson',)",Rk,312
+2613,"('Xavier Hutchinson',)",School,Iowa State
+2614,"('Xavier Hutchinson',)",TD,5
+2615,"('Xavier Hutchinson',)",Yds,758
+2616,"('Jayson Jackson',)",Avg,11.3
+2617,"('Jayson Jackson',)",Conf,MAC
+2618,"('Jayson Jackson',)",G,7
+2619,"('Jayson Jackson',)",Rec,50
+2620,"('Jayson Jackson',)",Rk,313
+2621,"('Jayson Jackson',)",School,Ball State
+2622,"('Jayson Jackson',)",TD,2
+2623,"('Jayson Jackson',)",Yds,567
+2624,"('Jeremy Singleton',)",Avg,11.3
+2625,"('Jeremy Singleton',)",Conf,Sun Belt
+2626,"('Jeremy Singleton',)",G,7
+2627,"('Jeremy Singleton',)",Rec,40
+2628,"('Jeremy Singleton',)",Rk,314
+2629,"('Jeremy Singleton',)",School,Georgia Southern
+2630,"('Jeremy Singleton',)",TD,2
+2631,"('Jeremy Singleton',)",Yds,452
+2632,"('Evan Hull',)",Avg,11.3
+2633,"('Evan Hull',)",Conf,Big Ten
+2634,"('Evan Hull',)",G,6
+2635,"('Evan Hull',)",Rec,36
+2636,"('Evan Hull',)",Rk,315
+2637,"('Evan Hull',)",School,Northwestern
+2638,"('Evan Hull',)",TD,1
+2639,"('Evan Hull',)",Yds,405
+2640,"('Alex Adams',)",Avg,11.3
+2641,"('Alex Adams',)",Conf,MAC
+2642,"('Alex Adams',)",G,6
+2643,"('Alex Adams',)",Rec,24
+2644,"('Alex Adams',)",Rk,316
+2645,"('Alex Adams',)",School,Akron
+2646,"('Alex Adams',)",TD,3
+2647,"('Alex Adams',)",Yds,271
+2648,"('Jeff Weimer',)",Avg,11.3
+2649,"('Jeff Weimer',)",Conf,MWC
+2650,"('Jeff Weimer',)",G,4
+2651,"('Jeff Weimer',)",Rec,16
+2652,"('Jeff Weimer',)",Rk,317
+2653,"('Jeff Weimer',)",School,UNLV
+2654,"('Jeff Weimer',)",TD,0
+2655,"('Jeff Weimer',)",Yds,180
+2656,"('Drake Dabney',)",Avg,11.3
+2657,"('Drake Dabney',)",Conf,Big 12
+2658,"('Drake Dabney',)",G,6
+2659,"('Drake Dabney',)",Rec,13
+2660,"('Drake Dabney',)",Rk,318
+2661,"('Drake Dabney',)",School,Baylor
+2662,"('Drake Dabney',)",TD,0
+2663,"('Drake Dabney',)",Yds,147
+2664,"('Keytaon Thompson',)",Avg,11.2
+2665,"('Keytaon Thompson',)",Conf,ACC
+2666,"('Keytaon Thompson',)",G,7
+2667,"('Keytaon Thompson',)",Rec,48
+2668,"('Keytaon Thompson',)",Rk,319
+2669,"('Keytaon Thompson',)",School,Virginia
+2670,"('Keytaon Thompson',)",TD,0
+2671,"('Keytaon Thompson',)",Yds,538
+2672,"('Eddie Lewis',)",Avg,11.2
+2673,"('Eddie Lewis',)",Conf,American
+2674,"('Eddie Lewis',)",G,7
+2675,"('Eddie Lewis',)",Rec,21
+2676,"('Eddie Lewis',)",Rk,320
+2677,"('Eddie Lewis',)",School,Memphis
+2678,"('Eddie Lewis',)",TD,2
+2679,"('Eddie Lewis',)",Yds,236
+2680,"('Player',)",Avg,Avg
+2681,"('Player',)",Conf,Conf
+2682,"('Player',)",G,G
+2683,"('Player',)",Rec,Rec
+2684,"('Player',)",Rk,Rk
+2685,"('Player',)",School,School
+2686,"('Player',)",TD,TD
+2687,"('Player',)",Yds,Yds
+2688,"('Hassan Beydoun',)",Avg,11.2
+2689,"('Hassan Beydoun',)",Conf,MAC
+2690,"('Hassan Beydoun',)",G,7
+2691,"('Hassan Beydoun',)",Rec,19
+2692,"('Hassan Beydoun',)",Rk,321
+2693,"('Hassan Beydoun',)",School,Eastern Michigan
+2694,"('Hassan Beydoun',)",TD,3
+2695,"('Hassan Beydoun',)",Yds,212
+2696,"('Malik Washington',)",Avg,11.1
+2697,"('Malik Washington',)",Conf,Big Ten
+2698,"('Malik Washington',)",G,6
+2699,"('Malik Washington',)",Rec,34
+2700,"('Malik Washington',)",Rk,322
+2701,"('Malik Washington',)",School,Northwestern
+2702,"('Malik Washington',)",TD,1
+2703,"('Malik Washington',)",Yds,376
+2704,"('Deshon Stoudemire',)",Avg,11.1
+2705,"('Deshon Stoudemire',)",Conf,Sun Belt
+2706,"('Deshon Stoudemire',)",G,8
+2707,"('Deshon Stoudemire',)",Rec,31
+2708,"('Deshon Stoudemire',)",Rk,323
+2709,"('Deshon Stoudemire',)",School,Troy
+2710,"('Deshon Stoudemire',)",TD,1
+2711,"('Deshon Stoudemire',)",Yds,345
+2712,"('Tyjon Lindsey',)",Avg,11.1
+2713,"('Tyjon Lindsey',)",Conf,Pac-12
+2714,"('Tyjon Lindsey',)",G,7
+2715,"('Tyjon Lindsey',)",Rec,16
+2716,"('Tyjon Lindsey',)",Rk,324
+2717,"('Tyjon Lindsey',)",School,Oregon State
+2718,"('Tyjon Lindsey',)",TD,1
+2719,"('Tyjon Lindsey',)",Yds,177
+2720,"('Jaden Walley',)",Avg,11.1
+2721,"('Jaden Walley',)",Conf,SEC
+2722,"('Jaden Walley',)",G,7
+2723,"('Jaden Walley',)",Rec,14
+2724,"('Jaden Walley',)",Rk,325
+2725,"('Jaden Walley',)",School,Mississippi State
+2726,"('Jaden Walley',)",TD,3
+2727,"('Jaden Walley',)",Yds,156
+2728,"('Corey Gammage',)",Avg,11.0
+2729,"('Corey Gammage',)",Conf,Sun Belt
+2730,"('Corey Gammage',)",G,6
+2731,"('Corey Gammage',)",Rec,23
+2732,"('Corey Gammage',)",Rk,326
+2733,"('Corey Gammage',)",School,Marshall
+2734,"('Corey Gammage',)",TD,3
+2735,"('Corey Gammage',)",Yds,254
+2736,"('Brady Hunt',)",Avg,11.0
+2737,"('Brady Hunt',)",Conf,MAC
+2738,"('Brady Hunt',)",G,7
+2739,"('Brady Hunt',)",Rec,22
+2740,"('Brady Hunt',)",Rk,327
+2741,"('Brady Hunt',)",School,Ball State
+2742,"('Brady Hunt',)",TD,3
+2743,"('Brady Hunt',)",Yds,241
+2744,"('LaJohntay Wester',)",Avg,10.9
+2745,"('LaJohntay Wester',)",Conf,CUSA
+2746,"('LaJohntay Wester',)",G,7
+2747,"('LaJohntay Wester',)",Rec,43
+2748,"('LaJohntay Wester',)",Rk,328
+2749,"('LaJohntay Wester',)",School,Florida Atlantic
+2750,"('LaJohntay Wester',)",TD,8
+2751,"('LaJohntay Wester',)",Yds,467
+2752,"('Carlos Carriere',)",Avg,10.9
+2753,"('Carlos Carriere',)",Conf,MAC
+2754,"('Carlos Carriere',)",G,6
+2755,"('Carlos Carriere',)",Rec,36
+2756,"('Carlos Carriere',)",Rk,329
+2757,"('Carlos Carriere',)",School,Central Michigan
+2758,"('Carlos Carriere',)",TD,2
+2759,"('Carlos Carriere',)",Yds,394
+2760,"('Emery Simmons',)",Avg,10.9
+2761,"('Emery Simmons',)",Conf,Big Ten
+2762,"('Emery Simmons',)",G,7
+2763,"('Emery Simmons',)",Rec,28
+2764,"('Emery Simmons',)",Rk,330
+2765,"('Emery Simmons',)",School,Indiana
+2766,"('Emery Simmons',)",TD,1
+2767,"('Emery Simmons',)",Yds,305
+2768,"('Erik Brooks',)",Avg,10.9
+2769,"('Erik Brooks',)",Conf,MWC
+2770,"('Erik Brooks',)",G,6
+2771,"('Erik Brooks',)",Rec,19
+2772,"('Erik Brooks',)",Rk,331
+2773,"('Erik Brooks',)",School,Fresno State
+2774,"('Erik Brooks',)",TD,2
+2775,"('Erik Brooks',)",Yds,208
+2776,"('Brenden Brady',)",Avg,10.9
+2777,"('Brenden Brady',)",Conf,CUSA
+2778,"('Brenden Brady',)",G,7
+2779,"('Brenden Brady',)",Rec,16
+2780,"('Brenden Brady',)",Rk,332
+2781,"('Brenden Brady',)",School,UTSA
+2782,"('Brenden Brady',)",TD,0
+2783,"('Brenden Brady',)",Yds,175
+2784,"('Jake Briningstool',)",Avg,10.9
+2785,"('Jake Briningstool',)",Conf,ACC
+2786,"('Jake Briningstool',)",G,7
+2787,"('Jake Briningstool',)",Rec,15
+2788,"('Jake Briningstool',)",Rk,333
+2789,"('Jake Briningstool',)",School,Clemson
+2790,"('Jake Briningstool',)",TD,4
+2791,"('Jake Briningstool',)",Yds,163
+2792,"('Lincoln Victor',)",Avg,10.9
+2793,"('Lincoln Victor',)",Conf,Pac-12
+2794,"('Lincoln Victor',)",G,7
+2795,"('Lincoln Victor',)",Rec,14
+2796,"('Lincoln Victor',)",Rk,334
+2797,"('Lincoln Victor',)",School,Washington State
+2798,"('Lincoln Victor',)",TD,0
+2799,"('Lincoln Victor',)",Yds,153
+2800,"('Javon Harvey',)",Avg,10.9
+2801,"('Javon Harvey',)",Conf,Sun Belt
+2802,"('Javon Harvey',)",G,6
+2803,"('Javon Harvey',)",Rec,12
+2804,"('Javon Harvey',)",Rk,335
+2805,"('Javon Harvey',)",School,Old Dominion
+2806,"('Javon Harvey',)",TD,0
+2807,"('Javon Harvey',)",Yds,131
+2808,"('Daniel George',)",Avg,10.8
+2809,"('Daniel George',)",Conf,MAC
+2810,"('Daniel George',)",G,7
+2811,"('Daniel George',)",Rec,41
+2812,"('Daniel George',)",Rk,336
+2813,"('Daniel George',)",School,Akron
+2814,"('Daniel George',)",TD,0
+2815,"('Daniel George',)",Yds,441
+2816,"('Michael Mayer',)",Avg,10.8
+2817,"('Michael Mayer',)",Conf,Ind
+2818,"('Michael Mayer',)",G,6
+2819,"('Michael Mayer',)",Rec,38
+2820,"('Michael Mayer',)",Rk,337
+2821,"('Michael Mayer',)",School,Notre Dame
+2822,"('Michael Mayer',)",TD,5
+2823,"('Michael Mayer',)",Yds,411
+2824,"('Jaylin Noel',)",Avg,10.8
+2825,"('Jaylin Noel',)",Conf,Big 12
+2826,"('Jaylin Noel',)",G,7
+2827,"('Jaylin Noel',)",Rec,35
+2828,"('Jaylin Noel',)",Rk,338
+2829,"('Jaylin Noel',)",School,Iowa State
+2830,"('Jaylin Noel',)",TD,2
+2831,"('Jaylin Noel',)",Yds,378
+2832,"('Tanner Koziol',)",Avg,10.8
+2833,"('Tanner Koziol',)",Conf,MAC
+2834,"('Tanner Koziol',)",G,7
+2835,"('Tanner Koziol',)",Rec,21
+2836,"('Tanner Koziol',)",Rk,339
+2837,"('Tanner Koziol',)",School,Ball State
+2838,"('Tanner Koziol',)",TD,5
+2839,"('Tanner Koziol',)",Yds,227
+2840,"('Brant Kuithe',)",Avg,10.8
+2841,"('Brant Kuithe',)",Conf,Pac-12
+2842,"('Brant Kuithe',)",G,4
+2843,"('Brant Kuithe',)",Rec,19
+2844,"('Brant Kuithe',)",Rk,340
+2845,"('Brant Kuithe',)",School,Utah
+2846,"('Brant Kuithe',)",TD,3
+2847,"('Brant Kuithe',)",Yds,206
+2848,"('Player',)",Avg,Avg
+2849,"('Player',)",Conf,Conf
+2850,"('Player',)",G,G
+2851,"('Player',)",Rec,Rec
+2852,"('Player',)",Rk,Rk
+2853,"('Player',)",School,School
+2854,"('Player',)",TD,TD
+2855,"('Player',)",Yds,Yds
+2856,"('Arland Bruce IV',)",Avg,10.8
+2857,"('Arland Bruce IV',)",Conf,Big Ten
+2858,"('Arland Bruce IV',)",G,6
+2859,"('Arland Bruce IV',)",Rec,14
+2860,"('Arland Bruce IV',)",Rk,341
+2861,"('Arland Bruce IV',)",School,Iowa
+2862,"('Arland Bruce IV',)",TD,1
+2863,"('Arland Bruce IV',)",Yds,151
+2864,"('Caleb Ducking',)",Avg,10.7
+2865,"('Caleb Ducking',)",Conf,SEC
+2866,"('Caleb Ducking',)",G,7
+2867,"('Caleb Ducking',)",Rec,33
+2868,"('Caleb Ducking',)",Rk,342
+2869,"('Caleb Ducking',)",School,Mississippi State
+2870,"('Caleb Ducking',)",TD,7
+2871,"('Caleb Ducking',)",Yds,354
+2872,"('Donovan Ollie',)",Avg,10.7
+2873,"('Donovan Ollie',)",Conf,Pac-12
+2874,"('Donovan Ollie',)",G,7
+2875,"('Donovan Ollie',)",Rec,33
+2876,"('Donovan Ollie',)",Rk,343
+2877,"('Donovan Ollie',)",School,Washington State
+2878,"('Donovan Ollie',)",TD,2
+2879,"('Donovan Ollie',)",Yds,354
+2880,"('Kobe Prentice',)",Avg,10.7
+2881,"('Kobe Prentice',)",Conf,SEC
+2882,"('Kobe Prentice',)",G,7
+2883,"('Kobe Prentice',)",Rec,26
+2884,"('Kobe Prentice',)",Rk,344
+2885,"('Kobe Prentice',)",School,Alabama
+2886,"('Kobe Prentice',)",TD,1
+2887,"('Kobe Prentice',)",Yds,278
+2888,"('Konata Mumpfield',)",Avg,10.7
+2889,"('Konata Mumpfield',)",Conf,ACC
+2890,"('Konata Mumpfield',)",G,5
+2891,"('Konata Mumpfield',)",Rec,24
+2892,"('Konata Mumpfield',)",Rk,345
+2893,"('Konata Mumpfield',)",School,Pitt
+2894,"('Konata Mumpfield',)",TD,1
+2895,"('Konata Mumpfield',)",Yds,257
+2896,"('Kayshon Boutte',)",Avg,10.7
+2897,"('Kayshon Boutte',)",Conf,SEC
+2898,"('Kayshon Boutte',)",G,6
+2899,"('Kayshon Boutte',)",Rec,23
+2900,"('Kayshon Boutte',)",Rk,346
+2901,"('Kayshon Boutte',)",School,LSU
+2902,"('Kayshon Boutte',)",TD,1
+2903,"('Kayshon Boutte',)",Yds,245
+2904,"('Derius Davis',)",Avg,10.7
+2905,"('Derius Davis',)",Conf,Big 12
+2906,"('Derius Davis',)",G,6
+2907,"('Derius Davis',)",Rec,21
+2908,"('Derius Davis',)",Rk,347
+2909,"('Derius Davis',)",School,TCU
+2910,"('Derius Davis',)",TD,3
+2911,"('Derius Davis',)",Yds,224
+2912,"('Kobe Paysour',)",Avg,10.7
+2913,"('Kobe Paysour',)",Conf,ACC
+2914,"('Kobe Paysour',)",G,6
+2915,"('Kobe Paysour',)",Rec,18
+2916,"('Kobe Paysour',)",Rk,348
+2917,"('Kobe Paysour',)",School,North Carolina
+2918,"('Kobe Paysour',)",TD,2
+2919,"('Kobe Paysour',)",Yds,192
+2920,"('Johnny Langan',)",Avg,10.7
+2921,"('Johnny Langan',)",Conf,Big Ten
+2922,"('Johnny Langan',)",G,6
+2923,"('Johnny Langan',)",Rec,12
+2924,"('Johnny Langan',)",Rk,349
+2925,"('Johnny Langan',)",School,Rutgers
+2926,"('Johnny Langan',)",TD,1
+2927,"('Johnny Langan',)",Yds,128
+2928,"(""Da'Wain Lofton"",)",Avg,10.6
+2929,"(""Da'Wain Lofton"",)",Conf,ACC
+2930,"(""Da'Wain Lofton"",)",G,7
+2931,"(""Da'Wain Lofton"",)",Rec,15
+2932,"(""Da'Wain Lofton"",)",Rk,350
+2933,"(""Da'Wain Lofton"",)",School,Virginia Tech
+2934,"(""Da'Wain Lofton"",)",TD,1
+2935,"(""Da'Wain Lofton"",)",Yds,159
+2936,"('Adam Jones',)",Avg,10.6
+2937,"('Adam Jones',)",Conf,Sun Belt
+2938,"('Adam Jones',)",G,7
+2939,"('Adam Jones',)",Rec,14
+2940,"('Adam Jones',)",Rk,351
+2941,"('Adam Jones',)",School,Arkansas State
+2942,"('Adam Jones',)",TD,0
+2943,"('Adam Jones',)",Yds,148
+2944,"('Nakai Watson',)",Avg,10.6
+2945,"('Nakai Watson',)",Conf,Pac-12
+2946,"('Nakai Watson',)",G,6
+2947,"('Nakai Watson',)",Rec,14
+2948,"('Nakai Watson',)",Rk,352
+2949,"('Nakai Watson',)",School,Washington State
+2950,"('Nakai Watson',)",TD,2
+2951,"('Nakai Watson',)",Yds,148
+2952,"('Ryan Jones',)",Avg,10.5
+2953,"('Ryan Jones',)",Conf,American
+2954,"('Ryan Jones',)",G,7
+2955,"('Ryan Jones',)",Rec,29
+2956,"('Ryan Jones',)",Rk,353
+2957,"('Ryan Jones',)",School,East Carolina
+2958,"('Ryan Jones',)",TD,4
+2959,"('Ryan Jones',)",Yds,304
+2960,"('Brashard Smith',)",Avg,10.5
+2961,"('Brashard Smith',)",Conf,ACC
+2962,"('Brashard Smith',)",G,6
+2963,"('Brashard Smith',)",Rec,23
+2964,"('Brashard Smith',)",Rk,354
+2965,"('Brashard Smith',)",School,Miami (FL)
+2966,"('Brashard Smith',)",TD,0
+2967,"('Brashard Smith',)",Yds,241
+2968,"('Jordan Moore',)",Avg,10.4
+2969,"('Jordan Moore',)",Conf,ACC
+2970,"('Jordan Moore',)",G,7
+2971,"('Jordan Moore',)",Rec,27
+2972,"('Jordan Moore',)",Rk,355
+2973,"('Jordan Moore',)",School,Duke
+2974,"('Jordan Moore',)",TD,3
+2975,"('Jordan Moore',)",Yds,280
+2976,"('George Takacs',)",Avg,10.4
+2977,"('George Takacs',)",Conf,ACC
+2978,"('George Takacs',)",G,5
+2979,"('George Takacs',)",Rec,17
+2980,"('George Takacs',)",Rk,356
+2981,"('George Takacs',)",School,Boston College
+2982,"('George Takacs',)",TD,1
+2983,"('George Takacs',)",Yds,176
+2984,"('Shermar Thornton',)",Avg,10.4
+2985,"('Shermar Thornton',)",Conf,MAC
+2986,"('Shermar Thornton',)",G,5
+2987,"('Shermar Thornton',)",Rec,16
+2988,"('Shermar Thornton',)",Rk,357
+2989,"('Shermar Thornton',)",School,Northern Illinois
+2990,"('Shermar Thornton',)",TD,0
+2991,"('Shermar Thornton',)",Yds,167
+2992,"('Johnnie Lang',)",Avg,10.4
+2993,"('Johnnie Lang',)",Conf,Sun Belt
+2994,"('Johnnie Lang',)",G,7
+2995,"('Johnnie Lang',)",Rec,15
+2996,"('Johnnie Lang',)",Rk,358
+2997,"('Johnnie Lang',)",School,Arkansas State
+2998,"('Johnnie Lang',)",TD,2
+2999,"('Johnnie Lang',)",Yds,156
+3000,"('Kaden Prather',)",Avg,10.3
+3001,"('Kaden Prather',)",Conf,Big 12
+3002,"('Kaden Prather',)",G,6
+3003,"('Kaden Prather',)",Rec,36
+3004,"('Kaden Prather',)",Rk,359
+3005,"('Kaden Prather',)",School,West Virginia
+3006,"('Kaden Prather',)",TD,3
+3007,"('Kaden Prather',)",Yds,369
+3008,"('Amir Abdur-Rahman',)",Avg,10.3
+3009,"('Amir Abdur-Rahman',)",Conf,MAC
+3010,"('Amir Abdur-Rahman',)",G,7
+3011,"('Amir Abdur-Rahman',)",Rec,20
+3012,"('Amir Abdur-Rahman',)",Rk,360
+3013,"('Amir Abdur-Rahman',)",School,Ball State
+3014,"('Amir Abdur-Rahman',)",TD,1
+3015,"('Amir Abdur-Rahman',)",Yds,206
+3016,"('Player',)",Avg,Avg
+3017,"('Player',)",Conf,Conf
+3018,"('Player',)",G,G
+3019,"('Player',)",Rec,Rec
+3020,"('Player',)",Rk,Rk
+3021,"('Player',)",School,School
+3022,"('Player',)",TD,TD
+3023,"('Player',)",Yds,Yds
+3024,"('Savion Williams',)",Avg,10.3
+3025,"('Savion Williams',)",Conf,Big 12
+3026,"('Savion Williams',)",G,6
+3027,"('Savion Williams',)",Rec,14
+3028,"('Savion Williams',)",Rk,361
+3029,"('Savion Williams',)",School,TCU
+3030,"('Savion Williams',)",TD,2
+3031,"('Savion Williams',)",Yds,144
+3032,"('Joel Wilson',)",Avg,10.2
+3033,"('Joel Wilson',)",Conf,MAC
+3034,"('Joel Wilson',)",G,7
+3035,"('Joel Wilson',)",Rec,33
+3036,"('Joel Wilson',)",Rk,362
+3037,"('Joel Wilson',)",School,Central Michigan
+3038,"('Joel Wilson',)",TD,4
+3039,"('Joel Wilson',)",Yds,337
+3040,"('Jamaal Bell',)",Avg,10.2
+3041,"('Jamaal Bell',)",Conf,MWC
+3042,"('Jamaal Bell',)",G,7
+3043,"('Jamaal Bell',)",Rec,25
+3044,"('Jamaal Bell',)",Rk,363
+3045,"('Jamaal Bell',)",School,Nevada
+3046,"('Jamaal Bell',)",TD,0
+3047,"('Jamaal Bell',)",Yds,254
+3048,"('Frank Ladson Jr.',)",Avg,10.2
+3049,"('Frank Ladson Jr.',)",Conf,ACC
+3050,"('Frank Ladson Jr.',)",G,6
+3051,"('Frank Ladson Jr.',)",Rec,21
+3052,"('Frank Ladson Jr.',)",Rk,364
+3053,"('Frank Ladson Jr.',)",School,Miami (FL)
+3054,"('Frank Ladson Jr.',)",TD,1
+3055,"('Frank Ladson Jr.',)",Yds,215
+3056,"('John Samuel Shenker',)",Avg,10.2
+3057,"('John Samuel Shenker',)",Conf,SEC
+3058,"('John Samuel Shenker',)",G,7
+3059,"('John Samuel Shenker',)",Rec,18
+3060,"('John Samuel Shenker',)",Rk,365
+3061,"('John Samuel Shenker',)",School,Auburn
+3062,"('John Samuel Shenker',)",TD,1
+3063,"('John Samuel Shenker',)",Yds,184
+3064,"('KeSean Carter',)",Avg,10.2
+3065,"('KeSean Carter',)",Conf,American
+3066,"('KeSean Carter',)",G,6
+3067,"('KeSean Carter',)",Rec,13
+3068,"('KeSean Carter',)",Rk,366
+3069,"('KeSean Carter',)",School,Houston
+3070,"('KeSean Carter',)",TD,2
+3071,"('KeSean Carter',)",Yds,133
+3072,"('Nate McCollum',)",Avg,10.1
+3073,"('Nate McCollum',)",Conf,ACC
+3074,"('Nate McCollum',)",G,7
+3075,"('Nate McCollum',)",Rec,34
+3076,"('Nate McCollum',)",Rk,367
+3077,"('Nate McCollum',)",School,Georgia Tech
+3078,"('Nate McCollum',)",TD,1
+3079,"('Nate McCollum',)",Yds,345
+3080,"('Terrell Vaughn',)",Avg,10.1
+3081,"('Terrell Vaughn',)",Conf,MWC
+3082,"('Terrell Vaughn',)",G,7
+3083,"('Terrell Vaughn',)",Rec,27
+3084,"('Terrell Vaughn',)",Rk,368
+3085,"('Terrell Vaughn',)",School,Utah State
+3086,"('Terrell Vaughn',)",TD,3
+3087,"('Terrell Vaughn',)",Yds,273
+3088,"('Jesse Matthews',)",Avg,10.1
+3089,"('Jesse Matthews',)",Conf,MWC
+3090,"('Jesse Matthews',)",G,6
+3091,"('Jesse Matthews',)",Rec,16
+3092,"('Jesse Matthews',)",Rk,369
+3093,"('Jesse Matthews',)",School,San Diego State
+3094,"('Jesse Matthews',)",TD,0
+3095,"('Jesse Matthews',)",Yds,162
+3096,"('Jalen White',)",Avg,10.1
+3097,"('Jalen White',)",Conf,Sun Belt
+3098,"('Jalen White',)",G,7
+3099,"('Jalen White',)",Rec,16
+3100,"('Jalen White',)",Rk,370
+3101,"('Jalen White',)",School,Georgia Southern
+3102,"('Jalen White',)",TD,1
+3103,"('Jalen White',)",Yds,161
+3104,"('Drew Painter',)",Avg,10.1
+3105,"('Drew Painter',)",Conf,Sun Belt
+3106,"('Drew Painter',)",G,6
+3107,"('Drew Painter',)",Rec,13
+3108,"('Drew Painter',)",Rk,371
+3109,"('Drew Painter',)",School,James Madison
+3110,"('Drew Painter',)",TD,1
+3111,"('Drew Painter',)",Yds,131
+3112,"('Myles Price',)",Avg,10.0
+3113,"('Myles Price',)",Conf,Big 12
+3114,"('Myles Price',)",G,5
+3115,"('Myles Price',)",Rec,31
+3116,"('Myles Price',)",Rk,372
+3117,"('Myles Price',)",School,Texas Tech
+3118,"('Myles Price',)",TD,2
+3119,"('Myles Price',)",Yds,309
+3120,"('Luke Schoonmaker',)",Avg,10.0
+3121,"('Luke Schoonmaker',)",Conf,Big Ten
+3122,"('Luke Schoonmaker',)",G,7
+3123,"('Luke Schoonmaker',)",Rec,23
+3124,"('Luke Schoonmaker',)",Rk,373
+3125,"('Luke Schoonmaker',)",School,Michigan
+3126,"('Luke Schoonmaker',)",TD,2
+3127,"('Luke Schoonmaker',)",Yds,229
+3128,"('Brian Casteel',)",Avg,10.0
+3129,"('Brian Casteel',)",Conf,MWC
+3130,"('Brian Casteel',)",G,7
+3131,"('Brian Casteel',)",Rec,22
+3132,"('Brian Casteel',)",Rk,374
+3133,"('Brian Casteel',)",School,Nevada
+3134,"('Brian Casteel',)",TD,1
+3135,"('Brian Casteel',)",Yds,221
+3136,"('Travis Vokolek',)",Avg,10.0
+3137,"('Travis Vokolek',)",Conf,Big Ten
+3138,"('Travis Vokolek',)",G,5
+3139,"('Travis Vokolek',)",Rec,16
+3140,"('Travis Vokolek',)",Rk,375
+3141,"('Travis Vokolek',)",School,Nebraska
+3142,"('Travis Vokolek',)",TD,1
+3143,"('Travis Vokolek',)",Yds,160
+3144,"('Michael Mathison',)",Avg,9.9
+3145,"('Michael Mathison',)",Conf,CUSA
+3146,"('Michael Mathison',)",G,8
+3147,"('Michael Mathison',)",Rec,35
+3148,"('Michael Mathison',)",Rk,376
+3149,"('Michael Mathison',)",School,Western Kentucky
+3150,"('Michael Mathison',)",TD,2
+3151,"('Michael Mathison',)",Yds,346
+3152,"('Rufus Harvey',)",Avg,9.9
+3153,"('Rufus Harvey',)",Conf,SEC
+3154,"('Rufus Harvey',)",G,7
+3155,"('Rufus Harvey',)",Rec,28
+3156,"('Rufus Harvey',)",Rk,377
+3157,"('Rufus Harvey',)",School,Mississippi State
+3158,"('Rufus Harvey',)",TD,2
+3159,"('Rufus Harvey',)",Yds,276
+3160,"('Jahmyr Gibbs',)",Avg,9.9
+3161,"('Jahmyr Gibbs',)",Conf,SEC
+3162,"('Jahmyr Gibbs',)",G,7
+3163,"('Jahmyr Gibbs',)",Rec,27
+3164,"('Jahmyr Gibbs',)",Rk,378
+3165,"('Jahmyr Gibbs',)",School,Alabama
+3166,"('Jahmyr Gibbs',)",TD,3
+3167,"('Jahmyr Gibbs',)",Yds,268
+3168,"('Wayne Taulapapa',)",Avg,9.9
+3169,"('Wayne Taulapapa',)",Conf,Pac-12
+3170,"('Wayne Taulapapa',)",G,7
+3171,"('Wayne Taulapapa',)",Rec,16
+3172,"('Wayne Taulapapa',)",Rk,379
+3173,"('Wayne Taulapapa',)",School,Washington
+3174,"('Wayne Taulapapa',)",TD,1
+3175,"('Wayne Taulapapa',)",Yds,159
+3176,"('Marshawn Lloyd',)",Avg,9.9
+3177,"('Marshawn Lloyd',)",Conf,SEC
+3178,"('Marshawn Lloyd',)",G,6
+3179,"('Marshawn Lloyd',)",Rec,15
+3180,"('Marshawn Lloyd',)",Rk,380
+3181,"('Marshawn Lloyd',)",School,South Carolina
+3182,"('Marshawn Lloyd',)",TD,2
+3183,"('Marshawn Lloyd',)",Yds,149
+3184,"('Player',)",Avg,Avg
+3185,"('Player',)",Conf,Conf
+3186,"('Player',)",G,G
+3187,"('Player',)",Rec,Rec
+3188,"('Player',)",Rk,Rk
+3189,"('Player',)",School,School
+3190,"('Player',)",TD,TD
+3191,"('Player',)",Yds,Yds
+3192,"('Ashtyn Hawkins',)",Avg,9.8
+3193,"('Ashtyn Hawkins',)",Conf,Sun Belt
+3194,"('Ashtyn Hawkins',)",G,7
+3195,"('Ashtyn Hawkins',)",Rec,49
+3196,"('Ashtyn Hawkins',)",Rk,381
+3197,"('Ashtyn Hawkins',)",School,Texas State
+3198,"('Ashtyn Hawkins',)",TD,6
+3199,"('Ashtyn Hawkins',)",Yds,479
+3200,"('Jaylen Hall',)",Avg,9.8
+3201,"('Jaylen Hall',)",Conf,CUSA
+3202,"('Jaylen Hall',)",G,8
+3203,"('Jaylen Hall',)",Rec,29
+3204,"('Jaylen Hall',)",Rk,382
+3205,"('Jaylen Hall',)",School,Western Kentucky
+3206,"('Jaylen Hall',)",TD,1
+3207,"('Jaylen Hall',)",Yds,285
+3208,"('Tre Mosley',)",Avg,9.8
+3209,"('Tre Mosley',)",Conf,Big Ten
+3210,"('Tre Mosley',)",G,7
+3211,"('Tre Mosley',)",Rec,23
+3212,"('Tre Mosley',)",Rk,383
+3213,"('Tre Mosley',)",School,Michigan State
+3214,"('Tre Mosley',)",TD,3
+3215,"('Tre Mosley',)",Yds,226
+3216,"('Travis Dye',)",Avg,9.8
+3217,"('Travis Dye',)",Conf,Pac-12
+3218,"('Travis Dye',)",G,7
+3219,"('Travis Dye',)",Rec,16
+3220,"('Travis Dye',)",Rk,384
+3221,"('Travis Dye',)",School,USC
+3222,"('Travis Dye',)",TD,0
+3223,"('Travis Dye',)",Yds,157
+3224,"('Gunnar Oakes',)",Avg,9.8
+3225,"('Gunnar Oakes',)",Conf,MAC
+3226,"('Gunnar Oakes',)",G,7
+3227,"('Gunnar Oakes',)",Rec,15
+3228,"('Gunnar Oakes',)",Rk,385
+3229,"('Gunnar Oakes',)",School,Eastern Michigan
+3230,"('Gunnar Oakes',)",TD,0
+3231,"('Gunnar Oakes',)",Yds,147
+3232,"('Julian Ortega-Jones',)",Avg,9.8
+3233,"('Julian Ortega-Jones',)",Conf,Sun Belt
+3234,"('Julian Ortega-Jones',)",G,6
+3235,"('Julian Ortega-Jones',)",Rec,15
+3236,"('Julian Ortega-Jones',)",Rk,386
+3237,"('Julian Ortega-Jones',)",School,Texas State
+3238,"('Julian Ortega-Jones',)",TD,1
+3239,"('Julian Ortega-Jones',)",Yds,147
+3240,"('Barrett Banister',)",Avg,9.8
+3241,"('Barrett Banister',)",Conf,SEC
+3242,"('Barrett Banister',)",G,5
+3243,"('Barrett Banister',)",Rec,13
+3244,"('Barrett Banister',)",Rk,387
+3245,"('Barrett Banister',)",School,Missouri
+3246,"('Barrett Banister',)",TD,0
+3247,"('Barrett Banister',)",Yds,127
+3248,"('Kenny McIntosh',)",Avg,9.7
+3249,"('Kenny McIntosh',)",Conf,SEC
+3250,"('Kenny McIntosh',)",G,7
+3251,"('Kenny McIntosh',)",Rec,28
+3252,"('Kenny McIntosh',)",Rk,388
+3253,"('Kenny McIntosh',)",School,Georgia
+3254,"('Kenny McIntosh',)",TD,1
+3255,"('Kenny McIntosh',)",Yds,271
+3256,"('Tyrese Chambers',)",Avg,9.7
+3257,"('Tyrese Chambers',)",Conf,CUSA
+3258,"('Tyrese Chambers',)",G,5
+3259,"('Tyrese Chambers',)",Rec,27
+3260,"('Tyrese Chambers',)",Rk,389
+3261,"('Tyrese Chambers',)",School,Florida International
+3262,"('Tyrese Chambers',)",TD,3
+3263,"('Tyrese Chambers',)",Yds,262
+3264,"('Aron Cruickshank',)",Avg,9.7
+3265,"('Aron Cruickshank',)",Conf,Big Ten
+3266,"('Aron Cruickshank',)",G,6
+3267,"('Aron Cruickshank',)",Rec,25
+3268,"('Aron Cruickshank',)",Rk,390
+3269,"('Aron Cruickshank',)",School,Rutgers
+3270,"('Aron Cruickshank',)",TD,2
+3271,"('Aron Cruickshank',)",Yds,243
+3272,"('Toa Taua',)",Avg,9.7
+3273,"('Toa Taua',)",Conf,MWC
+3274,"('Toa Taua',)",G,7
+3275,"('Toa Taua',)",Rec,22
+3276,"('Toa Taua',)",Rk,391
+3277,"('Toa Taua',)",School,Nevada
+3278,"('Toa Taua',)",TD,1
+3279,"('Toa Taua',)",Yds,213
+3280,"('Micah Bernard',)",Avg,9.7
+3281,"('Micah Bernard',)",Conf,Pac-12
+3282,"('Micah Bernard',)",G,7
+3283,"('Micah Bernard',)",Rec,20
+3284,"('Micah Bernard',)",Rk,392
+3285,"('Micah Bernard',)",School,Utah
+3286,"('Micah Bernard',)",TD,0
+3287,"('Micah Bernard',)",Yds,194
+3288,"('Benjamin Yurosek',)",Avg,9.6
+3289,"('Benjamin Yurosek',)",Conf,Pac-12
+3290,"('Benjamin Yurosek',)",G,6
+3291,"('Benjamin Yurosek',)",Rec,18
+3292,"('Benjamin Yurosek',)",Rk,393
+3293,"('Benjamin Yurosek',)",School,Stanford
+3294,"('Benjamin Yurosek',)",TD,0
+3295,"('Benjamin Yurosek',)",Yds,172
+3296,"('Bub Means',)",Avg,9.6
+3297,"('Bub Means',)",Conf,ACC
+3298,"('Bub Means',)",G,6
+3299,"('Bub Means',)",Rec,16
+3300,"('Bub Means',)",Rk,394
+3301,"('Bub Means',)",School,Pitt
+3302,"('Bub Means',)",TD,0
+3303,"('Bub Means',)",Yds,154
+3304,"('Terrance Ferguson',)",Avg,9.6
+3305,"('Terrance Ferguson',)",Conf,Pac-12
+3306,"('Terrance Ferguson',)",G,6
+3307,"('Terrance Ferguson',)",Rec,16
+3308,"('Terrance Ferguson',)",Rk,395
+3309,"('Terrance Ferguson',)",School,Oregon
+3310,"('Terrance Ferguson',)",TD,4
+3311,"('Terrance Ferguson',)",Yds,153
+3312,"('Drake Stoops',)",Avg,9.6
+3313,"('Drake Stoops',)",Conf,Big 12
+3314,"('Drake Stoops',)",G,7
+3315,"('Drake Stoops',)",Rec,15
+3316,"('Drake Stoops',)",Rk,396
+3317,"('Drake Stoops',)",School,Oklahoma
+3318,"('Drake Stoops',)",TD,1
+3319,"('Drake Stoops',)",Yds,144
+3320,"('Jalen Cropper',)",Avg,9.5
+3321,"('Jalen Cropper',)",Conf,MWC
+3322,"('Jalen Cropper',)",G,6
+3323,"('Jalen Cropper',)",Rec,37
+3324,"('Jalen Cropper',)",Rk,397
+3325,"('Jalen Cropper',)",School,Fresno State
+3326,"('Jalen Cropper',)",TD,0
+3327,"('Jalen Cropper',)",Yds,353
+3328,"('Luke Wysong',)",Avg,9.5
+3329,"('Luke Wysong',)",Conf,MWC
+3330,"('Luke Wysong',)",G,6
+3331,"('Luke Wysong',)",Rec,20
+3332,"('Luke Wysong',)",Rk,398
+3333,"('Luke Wysong',)",School,New Mexico
+3334,"('Luke Wysong',)",TD,1
+3335,"('Luke Wysong',)",Yds,189
+3336,"('Latrell Caples',)",Avg,9.5
+3337,"('Latrell Caples',)",Conf,MWC
+3338,"('Latrell Caples',)",G,6
+3339,"('Latrell Caples',)",Rec,18
+3340,"('Latrell Caples',)",Rk,399
+3341,"('Latrell Caples',)",School,Boise State
+3342,"('Latrell Caples',)",TD,2
+3343,"('Latrell Caples',)",Yds,171
+3344,"('Kade Warner',)",Avg,9.5
+3345,"('Kade Warner',)",Conf,Big 12
+3346,"('Kade Warner',)",G,6
+3347,"('Kade Warner',)",Rec,14
+3348,"('Kade Warner',)",Rk,400
+3349,"('Kade Warner',)",School,Kansas State
+3350,"('Kade Warner',)",TD,1
+3351,"('Kade Warner',)",Yds,133
+3352,"('Player',)",Avg,Avg
+3353,"('Player',)",Conf,Conf
+3354,"('Player',)",G,G
+3355,"('Player',)",Rec,Rec
+3356,"('Player',)",Rk,Rk
+3357,"('Player',)",School,School
+3358,"('Player',)",TD,TD
+3359,"('Player',)",Yds,Yds
+3360,"(""Yo'Heinz Tyler"",)",Avg,9.4
+3361,"(""Yo'Heinz Tyler"",)",Conf,MAC
+3362,"(""Yo'Heinz Tyler"",)",G,7
+3363,"(""Yo'Heinz Tyler"",)",Rec,38
+3364,"(""Yo'Heinz Tyler"",)",Rk,401
+3365,"(""Yo'Heinz Tyler"",)",School,Ball State
+3366,"(""Yo'Heinz Tyler"",)",TD,1
+3367,"(""Yo'Heinz Tyler"",)",Yds,356
+3368,"('Payne Durham',)",Avg,9.4
+3369,"('Payne Durham',)",Conf,Big Ten
+3370,"('Payne Durham',)",G,7
+3371,"('Payne Durham',)",Rec,33
+3372,"('Payne Durham',)",Rk,402
+3373,"('Payne Durham',)",School,Purdue
+3374,"('Payne Durham',)",TD,3
+3375,"('Payne Durham',)",Yds,310
+3376,"('Roman Hemby',)",Avg,9.4
+3377,"('Roman Hemby',)",Conf,Big Ten
+3378,"('Roman Hemby',)",G,7
+3379,"('Roman Hemby',)",Rec,24
+3380,"('Roman Hemby',)",Rk,403
+3381,"('Roman Hemby',)",School,Maryland
+3382,"('Roman Hemby',)",TD,1
+3383,"('Roman Hemby',)",Yds,225
+3384,"('Devin Maddox',)",Avg,9.4
+3385,"('Devin Maddox',)",Conf,MAC
+3386,"('Devin Maddox',)",G,6
+3387,"('Devin Maddox',)",Rec,19
+3388,"('Devin Maddox',)",Rk,404
+3389,"('Devin Maddox',)",School,Toledo
+3390,"('Devin Maddox',)",TD,2
+3391,"('Devin Maddox',)",Yds,178
+3392,"('Taylor Morin',)",Avg,9.4
+3393,"('Taylor Morin',)",Conf,ACC
+3394,"('Taylor Morin',)",G,6
+3395,"('Taylor Morin',)",Rec,17
+3396,"('Taylor Morin',)",Rk,405
+3397,"('Taylor Morin',)",School,Wake Forest
+3398,"('Taylor Morin',)",TD,2
+3399,"('Taylor Morin',)",Yds,159
+3400,"('T.J. Banks',)",Avg,9.4
+3401,"('T.J. Banks',)",Conf,MAC
+3402,"('T.J. Banks',)",G,7
+3403,"('T.J. Banks',)",Rec,16
+3404,"('T.J. Banks',)",Rk,406
+3405,"('T.J. Banks',)",School,Akron
+3406,"('T.J. Banks',)",TD,0
+3407,"('T.J. Banks',)",Yds,151
+3408,"('Austin Williams',)",Avg,9.4
+3409,"('Austin Williams',)",Conf,SEC
+3410,"('Austin Williams',)",G,7
+3411,"('Austin Williams',)",Rec,15
+3412,"('Austin Williams',)",Rk,407
+3413,"('Austin Williams',)",School,Mississippi State
+3414,"('Austin Williams',)",TD,4
+3415,"('Austin Williams',)",Yds,141
+3416,"('Jalen Walker',)",Avg,9.4
+3417,"('Jalen Walker',)",Conf,MAC
+3418,"('Jalen Walker',)",G,7
+3419,"('Jalen Walker',)",Rec,15
+3420,"('Jalen Walker',)",Rk,408
+3421,"('Jalen Walker',)",School,Miami (OH)
+3422,"('Jalen Walker',)",TD,0
+3423,"('Jalen Walker',)",Yds,141
+3424,"('Charles Montgomery',)",Avg,9.4
+3425,"('Charles Montgomery',)",Conf,Sun Belt
+3426,"('Charles Montgomery',)",G,6
+3427,"('Charles Montgomery',)",Rec,14
+3428,"('Charles Montgomery',)",Rk,409
+3429,"('Charles Montgomery',)",School,Marshall
+3430,"('Charles Montgomery',)",TD,0
+3431,"('Charles Montgomery',)",Yds,131
+3432,"('Josiah Miamen',)",Avg,9.4
+3433,"('Josiah Miamen',)",Conf,CUSA
+3434,"('Josiah Miamen',)",G,6
+3435,"('Josiah Miamen',)",Rec,14
+3436,"('Josiah Miamen',)",Rk,410
+3437,"('Josiah Miamen',)",School,Florida International
+3438,"('Josiah Miamen',)",TD,0
+3439,"('Josiah Miamen',)",Yds,131
+3440,"('Sam Laporta',)",Avg,9.3
+3441,"('Sam Laporta',)",Conf,Big Ten
+3442,"('Sam Laporta',)",G,6
+3443,"('Sam Laporta',)",Rec,30
+3444,"('Sam Laporta',)",Rk,411
+3445,"('Sam Laporta',)",School,Iowa
+3446,"('Sam Laporta',)",TD,0
+3447,"('Sam Laporta',)",Yds,279
+3448,"('Xzavier Henderson',)",Avg,9.3
+3449,"('Xzavier Henderson',)",Conf,SEC
+3450,"('Xzavier Henderson',)",G,7
+3451,"('Xzavier Henderson',)",Rec,27
+3452,"('Xzavier Henderson',)",Rk,412
+3453,"('Xzavier Henderson',)",School,Florida
+3454,"('Xzavier Henderson',)",TD,1
+3455,"('Xzavier Henderson',)",Yds,252
+3456,"('Josh Whyle',)",Avg,9.3
+3457,"('Josh Whyle',)",Conf,American
+3458,"('Josh Whyle',)",G,6
+3459,"('Josh Whyle',)",Rec,15
+3460,"('Josh Whyle',)",Rk,413
+3461,"('Josh Whyle',)",School,Cincinnati
+3462,"('Josh Whyle',)",TD,2
+3463,"('Josh Whyle',)",Yds,139
+3464,"('Jordan Bly',)",Avg,9.3
+3465,"('Jordan Bly',)",Conf,Sun Belt
+3466,"('Jordan Bly',)",G,5
+3467,"('Jordan Bly',)",Rec,12
+3468,"('Jordan Bly',)",Rk,414
+3469,"('Jordan Bly',)",School,Old Dominion
+3470,"('Jordan Bly',)",TD,0
+3471,"('Jordan Bly',)",Yds,112
+3472,"('Keyon Lesane',)",Avg,9.2
+3473,"('Keyon Lesane',)",Conf,ACC
+3474,"('Keyon Lesane',)",G,7
+3475,"('Keyon Lesane',)",Rec,20
+3476,"('Keyon Lesane',)",Rk,415
+3477,"('Keyon Lesane',)",School,North Carolina State
+3478,"('Keyon Lesane',)",TD,1
+3479,"('Keyon Lesane',)",Yds,183
+3480,"('Michael Trigg',)",Avg,9.2
+3481,"('Michael Trigg',)",Conf,SEC
+3482,"('Michael Trigg',)",G,6
+3483,"('Michael Trigg',)",Rec,17
+3484,"('Michael Trigg',)",Rk,416
+3485,"('Michael Trigg',)",School,Ole Miss
+3486,"('Michael Trigg',)",TD,3
+3487,"('Michael Trigg',)",Yds,156
+3488,"('Ty McCullouch',)",Avg,9.2
+3489,"('Ty McCullouch',)",Conf,MWC
+3490,"('Ty McCullouch',)",G,4
+3491,"('Ty McCullouch',)",Rec,13
+3492,"('Ty McCullouch',)",Rk,417
+3493,"('Ty McCullouch',)",School,Colorado State
+3494,"('Ty McCullouch',)",TD,0
+3495,"('Ty McCullouch',)",Yds,119
+3496,"('Parker Christensen',)",Avg,9.1
+3497,"('Parker Christensen',)",Conf,MWC
+3498,"('Parker Christensen',)",G,7
+3499,"('Parker Christensen',)",Rec,15
+3500,"('Parker Christensen',)",Rk,418
+3501,"('Parker Christensen',)",School,Wyoming
+3502,"('Parker Christensen',)",TD,1
+3503,"('Parker Christensen',)",Yds,137
+3504,"('Sieh Bangura',)",Avg,9.1
+3505,"('Sieh Bangura',)",Conf,MAC
+3506,"('Sieh Bangura',)",G,6
+3507,"('Sieh Bangura',)",Rec,15
+3508,"('Sieh Bangura',)",Rk,419
+3509,"('Sieh Bangura',)",School,Ohio
+3510,"('Sieh Bangura',)",TD,1
+3511,"('Sieh Bangura',)",Yds,136
+3512,"('Darryl Jones',)",Avg,9.1
+3513,"('Darryl Jones',)",Conf,ACC
+3514,"('Darryl Jones',)",G,7
+3515,"('Darryl Jones',)",Rec,14
+3516,"('Darryl Jones',)",Rk,420
+3517,"('Darryl Jones',)",School,North Carolina State
+3518,"('Darryl Jones',)",TD,1
+3519,"('Darryl Jones',)",Yds,128
+3520,"('Player',)",Avg,Avg
+3521,"('Player',)",Conf,Conf
+3522,"('Player',)",G,G
+3523,"('Player',)",Rec,Rec
+3524,"('Player',)",Rk,Rk
+3525,"('Player',)",School,School
+3526,"('Player',)",TD,TD
+3527,"('Player',)",Yds,Yds
+3528,"('Izaiah Gathings',)",Avg,9.0
+3529,"('Izaiah Gathings',)",Conf,CUSA
+3530,"('Izaiah Gathings',)",G,7
+3531,"('Izaiah Gathings',)",Rec,39
+3532,"('Izaiah Gathings',)",Rk,421
+3533,"('Izaiah Gathings',)",School,Middle Tennessee State
+3534,"('Izaiah Gathings',)",TD,1
+3535,"('Izaiah Gathings',)",Yds,352
+3536,"('Aaron Turner',)",Avg,8.9
+3537,"('Aaron Turner',)",Conf,Ind
+3538,"('Aaron Turner',)",G,8
+3539,"('Aaron Turner',)",Rec,31
+3540,"('Aaron Turner',)",Rk,422
+3541,"('Aaron Turner',)",School,Connecticut
+3542,"('Aaron Turner',)",TD,3
+3543,"('Aaron Turner',)",Yds,275
+3544,"('Talik Keaton',)",Avg,8.9
+3545,"('Talik Keaton',)",Conf,Sun Belt
+3546,"('Talik Keaton',)",G,6
+3547,"('Talik Keaton',)",Rec,19
+3548,"('Talik Keaton',)",Rk,423
+3549,"('Talik Keaton',)",School,Marshall
+3550,"('Talik Keaton',)",TD,0
+3551,"('Talik Keaton',)",Yds,169
+3552,"('Mavin Anderson',)",Avg,8.9
+3553,"('Mavin Anderson',)",Conf,Pac-12
+3554,"('Mavin Anderson',)",G,6
+3555,"('Mavin Anderson',)",Rec,18
+3556,"('Mavin Anderson',)",Rk,424
+3557,"('Mavin Anderson',)",School,California
+3558,"('Mavin Anderson',)",TD,1
+3559,"('Mavin Anderson',)",Yds,160
+3560,"('Asa Martin',)",Avg,8.9
+3561,"('Asa Martin',)",Conf,American
+3562,"('Asa Martin',)",G,7
+3563,"('Asa Martin',)",Rec,17
+3564,"('Asa Martin',)",Rk,425
+3565,"('Asa Martin',)",School,Memphis
+3566,"('Asa Martin',)",TD,1
+3567,"('Asa Martin',)",Yds,151
+3568,"('James Phillips',)",Avg,8.7
+3569,"('James Phillips',)",Conf,MWC
+3570,"('James Phillips',)",G,5
+3571,"('James Phillips',)",Rec,17
+3572,"('James Phillips',)",Rk,426
+3573,"('James Phillips',)",School,Hawaii
+3574,"('James Phillips',)",TD,0
+3575,"('James Phillips',)",Yds,148
+3576,"('Devin Culp',)",Avg,8.7
+3577,"('Devin Culp',)",Conf,Pac-12
+3578,"('Devin Culp',)",G,7
+3579,"('Devin Culp',)",Rec,14
+3580,"('Devin Culp',)",Rk,427
+3581,"('Devin Culp',)",School,Washington
+3582,"('Devin Culp',)",TD,1
+3583,"('Devin Culp',)",Yds,122
+3584,"('Victor Tucker',)",Avg,8.6
+3585,"('Victor Tucker',)",Conf,CUSA
+3586,"('Victor Tucker',)",G,7
+3587,"('Victor Tucker',)",Rec,32
+3588,"('Victor Tucker',)",Rk,428
+3589,"('Victor Tucker',)",School,Charlotte
+3590,"('Victor Tucker',)",TD,5
+3591,"('Victor Tucker',)",Yds,274
+3592,"('Donny Navarro III',)",Avg,8.6
+3593,"('Donny Navarro III',)",Conf,Big Ten
+3594,"('Donny Navarro III',)",G,6
+3595,"('Donny Navarro III',)",Rec,24
+3596,"('Donny Navarro III',)",Rk,429
+3597,"('Donny Navarro III',)",School,Northwestern
+3598,"('Donny Navarro III',)",TD,2
+3599,"('Donny Navarro III',)",Yds,206
+3600,"('Sean Tucker',)",Avg,8.6
+3601,"('Sean Tucker',)",Conf,ACC
+3602,"('Sean Tucker',)",G,6
+3603,"('Sean Tucker',)",Rec,23
+3604,"('Sean Tucker',)",Rk,430
+3605,"('Sean Tucker',)",School,Syracuse
+3606,"('Sean Tucker',)",TD,1
+3607,"('Sean Tucker',)",Yds,198
+3608,"('Lawrence Keys III',)",Avg,8.6
+3609,"('Lawrence Keys III',)",Conf,American
+3610,"('Lawrence Keys III',)",G,6
+3611,"('Lawrence Keys III',)",Rec,15
+3612,"('Lawrence Keys III',)",Rk,431
+3613,"('Lawrence Keys III',)",School,Tulane
+3614,"('Lawrence Keys III',)",TD,1
+3615,"('Lawrence Keys III',)",Yds,129
+3616,"('Stefan Cobbs',)",Avg,8.5
+3617,"('Stefan Cobbs',)",Conf,MWC
+3618,"('Stefan Cobbs',)",G,6
+3619,"('Stefan Cobbs',)",Rec,17
+3620,"('Stefan Cobbs',)",Rk,432
+3621,"('Stefan Cobbs',)",School,Boise State
+3622,"('Stefan Cobbs',)",TD,2
+3623,"('Stefan Cobbs',)",Yds,144
+3624,"('Will Shipley',)",Avg,8.5
+3625,"('Will Shipley',)",Conf,ACC
+3626,"('Will Shipley',)",G,7
+3627,"('Will Shipley',)",Rec,16
+3628,"('Will Shipley',)",Rk,433
+3629,"('Will Shipley',)",School,Clemson
+3630,"('Will Shipley',)",TD,0
+3631,"('Will Shipley',)",Yds,136
+3632,"('Princeton Fant',)",Avg,8.5
+3633,"('Princeton Fant',)",Conf,SEC
+3634,"('Princeton Fant',)",G,6
+3635,"('Princeton Fant',)",Rec,13
+3636,"('Princeton Fant',)",Rk,434
+3637,"('Princeton Fant',)",School,Tennessee
+3638,"('Princeton Fant',)",TD,0
+3639,"('Princeton Fant',)",Yds,111
+3640,"('TJ Jones',)",Avg,8.4
+3641,"('TJ Jones',)",Conf,CUSA
+3642,"('TJ Jones',)",G,7
+3643,"('TJ Jones',)",Rec,19
+3644,"('TJ Jones',)",Rk,435
+3645,"('TJ Jones',)",School,UAB
+3646,"('TJ Jones',)",TD,0
+3647,"('TJ Jones',)",Yds,160
+3648,"('Mason Taylor',)",Avg,8.4
+3649,"('Mason Taylor',)",Conf,SEC
+3650,"('Mason Taylor',)",G,7
+3651,"('Mason Taylor',)",Rec,16
+3652,"('Mason Taylor',)",Rk,436
+3653,"('Mason Taylor',)",School,LSU
+3654,"('Mason Taylor',)",TD,0
+3655,"('Mason Taylor',)",Yds,134
+3656,"('Dalvin Smith',)",Avg,8.4
+3657,"('Dalvin Smith',)",Conf,CUSA
+3658,"('Dalvin Smith',)",G,8
+3659,"('Dalvin Smith',)",Rec,15
+3660,"('Dalvin Smith',)",Rk,437
+3661,"('Dalvin Smith',)",School,Western Kentucky
+3662,"('Dalvin Smith',)",TD,2
+3663,"('Dalvin Smith',)",Yds,126
+3664,"('George Holani',)",Avg,8.4
+3665,"('George Holani',)",Conf,MWC
+3666,"('George Holani',)",G,6
+3667,"('George Holani',)",Rec,14
+3668,"('George Holani',)",Rk,438
+3669,"('George Holani',)",School,Boise State
+3670,"('George Holani',)",TD,3
+3671,"('George Holani',)",Yds,118
+3672,"('Nolan McCormick',)",Avg,8.3
+3673,"('Nolan McCormick',)",Conf,MAC
+3674,"('Nolan McCormick',)",G,7
+3675,"('Nolan McCormick',)",Rec,17
+3676,"('Nolan McCormick',)",Rk,439
+3677,"('Nolan McCormick',)",School,Ohio
+3678,"('Nolan McCormick',)",TD,1
+3679,"('Nolan McCormick',)",Yds,141
+3680,"('Nicky Dalmolin',)",Avg,8.3
+3681,"('Nicky Dalmolin',)",Conf,ACC
+3682,"('Nicky Dalmolin',)",G,7
+3683,"('Nicky Dalmolin',)",Rec,16
+3684,"('Nicky Dalmolin',)",Rk,440
+3685,"('Nicky Dalmolin',)",School,Duke
+3686,"('Nicky Dalmolin',)",TD,2
+3687,"('Nicky Dalmolin',)",Yds,133
+3688,"('Player',)",Avg,Avg
+3689,"('Player',)",Conf,Conf
+3690,"('Player',)",G,G
+3691,"('Player',)",Rec,Rec
+3692,"('Player',)",Rk,Rk
+3693,"('Player',)",School,School
+3694,"('Player',)",TD,TD
+3695,"('Player',)",Yds,Yds
+3696,"('Jack Bradley',)",Avg,8.3
+3697,"('Jack Bradley',)",Conf,CUSA
+3698,"('Jack Bradley',)",G,6
+3699,"('Jack Bradley',)",Rec,13
+3700,"('Jack Bradley',)",Rk,441
+3701,"('Jack Bradley',)",School,Rice
+3702,"('Jack Bradley',)",TD,1
+3703,"('Jack Bradley',)",Yds,108
+3704,"('Christian Sims',)",Avg,8.2
+3705,"('Christian Sims',)",Conf,MAC
+3706,"('Christian Sims',)",G,6
+3707,"('Christian Sims',)",Rec,23
+3708,"('Christian Sims',)",Rk,442
+3709,"('Christian Sims',)",School,Bowling Green State
+3710,"('Christian Sims',)",TD,2
+3711,"('Christian Sims',)",Yds,189
+3712,"('Melquan Stovall',)",Avg,8.2
+3713,"('Melquan Stovall',)",Conf,MWC
+3714,"('Melquan Stovall',)",G,3
+3715,"('Melquan Stovall',)",Rec,13
+3716,"('Melquan Stovall',)",Rk,443
+3717,"('Melquan Stovall',)",School,Colorado State
+3718,"('Melquan Stovall',)",TD,0
+3719,"('Melquan Stovall',)",Yds,106
+3720,"('Xazavian Valladay',)",Avg,8.2
+3721,"('Xazavian Valladay',)",Conf,Pac-12
+3722,"('Xazavian Valladay',)",G,6
+3723,"('Xazavian Valladay',)",Rec,13
+3724,"('Xazavian Valladay',)",Rk,444
+3725,"('Xazavian Valladay',)",School,Arizona State
+3726,"('Xazavian Valladay',)",TD,2
+3727,"('Xazavian Valladay',)",Yds,106
+3728,"('Keaton Mitchell',)",Avg,7.9
+3729,"('Keaton Mitchell',)",Conf,American
+3730,"('Keaton Mitchell',)",G,6
+3731,"('Keaton Mitchell',)",Rec,15
+3732,"('Keaton Mitchell',)",Rk,445
+3733,"('Keaton Mitchell',)",School,East Carolina
+3734,"('Keaton Mitchell',)",TD,0
+3735,"('Keaton Mitchell',)",Yds,119
+3736,"('Michael Wiley',)",Avg,7.8
+3737,"('Michael Wiley',)",Conf,Pac-12
+3738,"('Michael Wiley',)",G,6
+3739,"('Michael Wiley',)",Rec,16
+3740,"('Michael Wiley',)",Rk,446
+3741,"('Michael Wiley',)",School,Arizona
+3742,"('Michael Wiley',)",TD,2
+3743,"('Michael Wiley',)",Yds,125
+3744,"('Henry Parrish Jr.',)",Avg,7.8
+3745,"('Henry Parrish Jr.',)",Conf,ACC
+3746,"('Henry Parrish Jr.',)",G,5
+3747,"('Henry Parrish Jr.',)",Rec,13
+3748,"('Henry Parrish Jr.',)",Rk,447
+3749,"('Henry Parrish Jr.',)",School,Miami (FL)
+3750,"('Henry Parrish Jr.',)",TD,2
+3751,"('Henry Parrish Jr.',)",Yds,101
+3752,"('Errol Rogers Jr.',)",Avg,7.8
+3753,"('Errol Rogers Jr.',)",Conf,Sun Belt
+3754,"('Errol Rogers Jr.',)",G,6
+3755,"('Errol Rogers Jr.',)",Rec,12
+3756,"('Errol Rogers Jr.',)",Rk,448
+3757,"('Errol Rogers Jr.',)",School,Louisiana
+3758,"('Errol Rogers Jr.',)",TD,0
+3759,"('Errol Rogers Jr.',)",Yds,93
+3760,"('Taron Keith',)",Avg,7.7
+3761,"('Taron Keith',)",Conf,MAC
+3762,"('Taron Keith',)",G,7
+3763,"('Taron Keith',)",Rec,22
+3764,"('Taron Keith',)",Rk,449
+3765,"('Taron Keith',)",School,Bowling Green State
+3766,"('Taron Keith',)",TD,3
+3767,"('Taron Keith',)",Yds,170
+3768,"('Grant Misch',)",Avg,7.7
+3769,"('Grant Misch',)",Conf,ACC
+3770,"('Grant Misch',)",G,7
+3771,"('Grant Misch',)",Rec,16
+3772,"('Grant Misch',)",Rk,450
+3773,"('Grant Misch',)",School,Virginia
+3774,"('Grant Misch',)",TD,0
+3775,"('Grant Misch',)",Yds,123
+3776,"('Yusuf Ali',)",Avg,7.6
+3777,"('Yusuf Ali',)",Conf,CUSA
+3778,"('Yusuf Ali',)",G,7
+3779,"('Yusuf Ali',)",Rec,30
+3780,"('Yusuf Ali',)",Rk,451
+3781,"('Yusuf Ali',)",School,Middle Tennessee State
+3782,"('Yusuf Ali',)",TD,2
+3783,"('Yusuf Ali',)",Yds,229
+3784,"('Finn Hogan',)",Avg,7.6
+3785,"('Finn Hogan',)",Conf,MAC
+3786,"('Finn Hogan',)",G,7
+3787,"('Finn Hogan',)",Rec,14
+3788,"('Finn Hogan',)",Rk,452
+3789,"('Finn Hogan',)",School,Central Michigan
+3790,"('Finn Hogan',)",TD,1
+3791,"('Finn Hogan',)",Yds,106
+3792,"('Shane Calhoun',)",Avg,7.5
+3793,"('Shane Calhoun',)",Conf,American
+3794,"('Shane Calhoun',)",G,7
+3795,"('Shane Calhoun',)",Rec,16
+3796,"('Shane Calhoun',)",Rk,453
+3797,"('Shane Calhoun',)",School,East Carolina
+3798,"('Shane Calhoun',)",TD,1
+3799,"('Shane Calhoun',)",Yds,120
+3800,"('Harrison Waylee',)",Avg,7.5
+3801,"('Harrison Waylee',)",Conf,MAC
+3802,"('Harrison Waylee',)",G,7
+3803,"('Harrison Waylee',)",Rec,15
+3804,"('Harrison Waylee',)",Rk,454
+3805,"('Harrison Waylee',)",School,Northern Illinois
+3806,"('Harrison Waylee',)",TD,0
+3807,"('Harrison Waylee',)",Yds,113
+3808,"('Eric Gray',)",Avg,7.5
+3809,"('Eric Gray',)",Conf,Big 12
+3810,"('Eric Gray',)",G,7
+3811,"('Eric Gray',)",Rec,14
+3812,"('Eric Gray',)",Rk,455
+3813,"('Eric Gray',)",School,Oklahoma
+3814,"('Eric Gray',)",TD,0
+3815,"('Eric Gray',)",Yds,105
+3816,"('Lexington Joseph',)",Avg,7.5
+3817,"('Lexington Joseph',)",Conf,CUSA
+3818,"('Lexington Joseph',)",G,6
+3819,"('Lexington Joseph',)",Rec,14
+3820,"('Lexington Joseph',)",Rk,456
+3821,"('Lexington Joseph',)",School,Florida International
+3822,"('Lexington Joseph',)",TD,2
+3823,"('Lexington Joseph',)",Yds,105
+3824,"('Isaiah Williams',)",Avg,7.4
+3825,"('Isaiah Williams',)",Conf,Big Ten
+3826,"('Isaiah Williams',)",G,7
+3827,"('Isaiah Williams',)",Rec,47
+3828,"('Isaiah Williams',)",Rk,457
+3829,"('Isaiah Williams',)",School,Illinois
+3830,"('Isaiah Williams',)",TD,2
+3831,"('Isaiah Williams',)",Yds,346
+3832,"('Tyrone Tracy Jr.',)",Avg,7.4
+3833,"('Tyrone Tracy Jr.',)",Conf,Big Ten
+3834,"('Tyrone Tracy Jr.',)",G,7
+3835,"('Tyrone Tracy Jr.',)",Rec,23
+3836,"('Tyrone Tracy Jr.',)",Rk,458
+3837,"('Tyrone Tracy Jr.',)",School,Purdue
+3838,"('Tyrone Tracy Jr.',)",TD,0
+3839,"('Tyrone Tracy Jr.',)",Yds,170
+3840,"('Nick Gallo',)",Avg,7.3
+3841,"('Nick Gallo',)",Conf,ACC
+3842,"('Nick Gallo',)",G,7
+3843,"('Nick Gallo',)",Rec,23
+3844,"('Nick Gallo',)",Rk,459
+3845,"('Nick Gallo',)",School,Virginia Tech
+3846,"('Nick Gallo',)",TD,0
+3847,"('Nick Gallo',)",Yds,167
+3848,"('Blake Bosma',)",Avg,7.3
+3849,"('Blake Bosma',)",Conf,MAC
+3850,"('Blake Bosma',)",G,7
+3851,"('Blake Bosma',)",Rec,20
+3852,"('Blake Bosma',)",Rk,460
+3853,"('Blake Bosma',)",School,Western Michigan
+3854,"('Blake Bosma',)",TD,1
+3855,"('Blake Bosma',)",Yds,145
+3856,"('Player',)",Avg,Avg
+3857,"('Player',)",Conf,Conf
+3858,"('Player',)",G,G
+3859,"('Player',)",Rec,Rec
+3860,"('Player',)",Rk,Rk
+3861,"('Player',)",School,School
+3862,"('Player',)",TD,TD
+3863,"('Player',)",Yds,Yds
+3864,"('Juju McDowell',)",Avg,7.2
+3865,"('Juju McDowell',)",Conf,SEC
+3866,"('Juju McDowell',)",G,6
+3867,"('Juju McDowell',)",Rec,14
+3868,"('Juju McDowell',)",Rk,461
+3869,"('Juju McDowell',)",School,South Carolina
+3870,"('Juju McDowell',)",TD,0
+3871,"('Juju McDowell',)",Yds,101
+3872,"('Sean Dollars',)",Avg,7.2
+3873,"('Sean Dollars',)",Conf,Pac-12
+3874,"('Sean Dollars',)",G,6
+3875,"('Sean Dollars',)",Rec,12
+3876,"('Sean Dollars',)",Rk,462
+3877,"('Sean Dollars',)",School,Oregon
+3878,"('Sean Dollars',)",TD,0
+3879,"('Sean Dollars',)",Yds,86
+3880,"('Kazmeir Allen',)",Avg,7.1
+3881,"('Kazmeir Allen',)",Conf,Pac-12
+3882,"('Kazmeir Allen',)",G,6
+3883,"('Kazmeir Allen',)",Rec,28
+3884,"('Kazmeir Allen',)",Rk,463
+3885,"('Kazmeir Allen',)",School,UCLA
+3886,"('Kazmeir Allen',)",TD,1
+3887,"('Kazmeir Allen',)",Yds,199
+3888,"('Ben Sims',)",Avg,7.1
+3889,"('Ben Sims',)",Conf,Big 12
+3890,"('Ben Sims',)",G,5
+3891,"('Ben Sims',)",Rec,22
+3892,"('Ben Sims',)",Rk,464
+3893,"('Ben Sims',)",School,Baylor
+3894,"('Ben Sims',)",TD,2
+3895,"('Ben Sims',)",Yds,157
+3896,"('Chase Brown',)",Avg,7.1
+3897,"('Chase Brown',)",Conf,Big Ten
+3898,"('Chase Brown',)",G,7
+3899,"('Chase Brown',)",Rec,15
+3900,"('Chase Brown',)",Rk,465
+3901,"('Chase Brown',)",School,Illinois
+3902,"('Chase Brown',)",TD,2
+3903,"('Chase Brown',)",Yds,107
+3904,"('Chris Smith',)",Avg,7.1
+3905,"('Chris Smith',)",Conf,Sun Belt
+3906,"('Chris Smith',)",G,5
+3907,"('Chris Smith',)",Rec,15
+3908,"('Chris Smith',)",Rk,466
+3909,"('Chris Smith',)",School,Louisiana
+3910,"('Chris Smith',)",TD,0
+3911,"('Chris Smith',)",Yds,107
+3912,"('Dillon Johnson',)",Avg,6.9
+3913,"('Dillon Johnson',)",Conf,SEC
+3914,"('Dillon Johnson',)",G,7
+3915,"('Dillon Johnson',)",Rec,31
+3916,"('Dillon Johnson',)",Rk,467
+3917,"('Dillon Johnson',)",School,Mississippi State
+3918,"('Dillon Johnson',)",TD,0
+3919,"('Dillon Johnson',)",Yds,215
+3920,"('Devin Miller',)",Avg,6.9
+3921,"('Devin Miller',)",Conf,Sun Belt
+3922,"('Devin Miller',)",G,6
+3923,"('Devin Miller',)",Rec,14
+3924,"('Devin Miller',)",Rk,468
+3925,"('Devin Miller',)",School,Marshall
+3926,"('Devin Miller',)",TD,1
+3927,"('Devin Miller',)",Yds,97
+3928,"('Dior Scott',)",Avg,6.8
+3929,"('Dior Scott',)",Conf,MWC
+3930,"('Dior Scott',)",G,6
+3931,"('Dior Scott',)",Rec,21
+3932,"('Dior Scott',)",Rk,469
+3933,"('Dior Scott',)",School,Hawaii
+3934,"('Dior Scott',)",TD,0
+3935,"('Dior Scott',)",Yds,143
+3936,"(""Re'Mahn Davis"",)",Avg,6.8
+3937,"(""Re'Mahn Davis"",)",Conf,SEC
+3938,"(""Re'Mahn Davis"",)",G,7
+3939,"(""Re'Mahn Davis"",)",Rec,19
+3940,"(""Re'Mahn Davis"",)",Rk,470
+3941,"(""Re'Mahn Davis"",)",School,Vanderbilt
+3942,"(""Re'Mahn Davis"",)",TD,2
+3943,"(""Re'Mahn Davis"",)",Yds,130
+3944,"('Jordan Mims',)",Avg,6.8
+3945,"('Jordan Mims',)",Conf,MWC
+3946,"('Jordan Mims',)",G,6
+3947,"('Jordan Mims',)",Rec,12
+3948,"('Jordan Mims',)",Rk,471
+3949,"('Jordan Mims',)",School,Fresno State
+3950,"('Jordan Mims',)",TD,1
+3951,"('Jordan Mims',)",Yds,81
+3952,"(""Jo'quavious Marks"",)",Avg,6.7
+3953,"(""Jo'quavious Marks"",)",Conf,SEC
+3954,"(""Jo'quavious Marks"",)",G,6
+3955,"(""Jo'quavious Marks"",)",Rec,30
+3956,"(""Jo'quavious Marks"",)",Rk,472
+3957,"(""Jo'quavious Marks"",)",School,Mississippi State
+3958,"(""Jo'quavious Marks"",)",TD,0
+3959,"(""Jo'quavious Marks"",)",Yds,200
+3960,"('Jalen Bracey',)",Avg,6.6
+3961,"('Jalen Bracey',)",Conf,CUSA
+3962,"('Jalen Bracey',)",G,6
+3963,"('Jalen Bracey',)",Rec,23
+3964,"('Jalen Bracey',)",Rk,473
+3965,"('Jalen Bracey',)",School,Florida International
+3966,"('Jalen Bracey',)",TD,1
+3967,"('Jalen Bracey',)",Yds,151
+3968,"('Tank Bigsby',)",Avg,6.5
+3969,"('Tank Bigsby',)",Conf,SEC
+3970,"('Tank Bigsby',)",G,7
+3971,"('Tank Bigsby',)",Rec,15
+3972,"('Tank Bigsby',)",Rk,474
+3973,"('Tank Bigsby',)",School,Auburn
+3974,"('Tank Bigsby',)",TD,0
+3975,"('Tank Bigsby',)",Yds,97
+3976,"('Lew Nichols',)",Avg,6.4
+3977,"('Lew Nichols',)",Conf,MAC
+3978,"('Lew Nichols',)",G,6
+3979,"('Lew Nichols',)",Rec,20
+3980,"('Lew Nichols',)",Rk,475
+3981,"('Lew Nichols',)",School,Central Michigan
+3982,"('Lew Nichols',)",TD,0
+3983,"('Lew Nichols',)",Yds,128
+3984,"('Luther Burden',)",Avg,6.3
+3985,"('Luther Burden',)",Conf,SEC
+3986,"('Luther Burden',)",G,6
+3987,"('Luther Burden',)",Rec,18
+3988,"('Luther Burden',)",Rk,476
+3989,"('Luther Burden',)",School,Missouri
+3990,"('Luther Burden',)",TD,1
+3991,"('Luther Burden',)",Yds,114
+3992,"('Brandon Campbell',)",Avg,6.3
+3993,"('Brandon Campbell',)",Conf,American
+3994,"('Brandon Campbell',)",G,5
+3995,"('Brandon Campbell',)",Rec,12
+3996,"('Brandon Campbell',)",Rk,477
+3997,"('Brandon Campbell',)",School,Houston
+3998,"('Brandon Campbell',)",TD,0
+3999,"('Brandon Campbell',)",Yds,75
+4000,"('Jaydn Ott',)",Avg,6.2
+4001,"('Jaydn Ott',)",Conf,Pac-12
+4002,"('Jaydn Ott',)",G,6
+4003,"('Jaydn Ott',)",Rec,19
+4004,"('Jaydn Ott',)",Rk,478
+4005,"('Jaydn Ott',)",School,California
+4006,"('Jaydn Ott',)",TD,2
+4007,"('Jaydn Ott',)",Yds,117
+4008,"('Chris Tyree',)",Avg,6.1
+4009,"('Chris Tyree',)",Conf,Ind
+4010,"('Chris Tyree',)",G,6
+4011,"('Chris Tyree',)",Rec,14
+4012,"('Chris Tyree',)",Rk,479
+4013,"('Chris Tyree',)",School,Notre Dame
+4014,"('Chris Tyree',)",TD,1
+4015,"('Chris Tyree',)",Yds,86
+4016,"('Tahj Brooks',)",Avg,5.8
+4017,"('Tahj Brooks',)",Conf,Big 12
+4018,"('Tahj Brooks',)",G,6
+4019,"('Tahj Brooks',)",Rec,18
+4020,"('Tahj Brooks',)",Rk,480
+4021,"('Tahj Brooks',)",School,Texas Tech
+4022,"('Tahj Brooks',)",TD,1
+4023,"('Tahj Brooks',)",Yds,105
+4024,"('Player',)",Avg,Avg
+4025,"('Player',)",Conf,Conf
+4026,"('Player',)",G,G
+4027,"('Player',)",Rec,Rec
+4028,"('Player',)",Rk,Rk
+4029,"('Player',)",School,School
+4030,"('Player',)",TD,TD
+4031,"('Player',)",Yds,Yds
+4032,"('Aidan Robbins',)",Avg,5.6
+4033,"('Aidan Robbins',)",Conf,MWC
+4034,"('Aidan Robbins',)",G,7
+4035,"('Aidan Robbins',)",Rec,14
+4036,"('Aidan Robbins',)",Rk,481
+4037,"('Aidan Robbins',)",School,UNLV
+4038,"('Aidan Robbins',)",TD,1
+4039,"('Aidan Robbins',)",Yds,78
+4040,"('Xavier Townsend',)",Avg,5.6
+4041,"('Xavier Townsend',)",Conf,American
+4042,"('Xavier Townsend',)",G,6
+4043,"('Xavier Townsend',)",Rec,12
+4044,"('Xavier Townsend',)",Rk,482
+4045,"('Xavier Townsend',)",School,UCF
+4046,"('Xavier Townsend',)",TD,0
+4047,"('Xavier Townsend',)",Yds,67
+4048,"('Kimani Vidal',)",Avg,5.4
+4049,"('Kimani Vidal',)",Conf,Sun Belt
+4050,"('Kimani Vidal',)",G,8
+4051,"('Kimani Vidal',)",Rec,17
+4052,"('Kimani Vidal',)",Rk,483
+4053,"('Kimani Vidal',)",School,Troy
+4054,"('Kimani Vidal',)",TD,0
+4055,"('Kimani Vidal',)",Yds,92
+4056,"('SaRodorick Thompson',)",Avg,5.4
+4057,"('SaRodorick Thompson',)",Conf,Big 12
+4058,"('SaRodorick Thompson',)",G,6
+4059,"('SaRodorick Thompson',)",Rec,13
+4060,"('SaRodorick Thompson',)",Rk,484
+4061,"('SaRodorick Thompson',)",School,Texas Tech
+4062,"('SaRodorick Thompson',)",TD,1
+4063,"('SaRodorick Thompson',)",Yds,70
+4064,"('Kairee Robinson',)",Avg,5.3
+4065,"('Kairee Robinson',)",Conf,MWC
+4066,"('Kairee Robinson',)",G,6
+4067,"('Kairee Robinson',)",Rec,12
+4068,"('Kairee Robinson',)",Rk,485
+4069,"('Kairee Robinson',)",School,San Jose State
+4070,"('Kairee Robinson',)",TD,0
+4071,"('Kairee Robinson',)",Yds,64
+4072,"('Hassan Hall',)",Avg,5.2
+4073,"('Hassan Hall',)",Conf,ACC
+4074,"('Hassan Hall',)",G,7
+4075,"('Hassan Hall',)",Rec,17
+4076,"('Hassan Hall',)",Rk,486
+4077,"('Hassan Hall',)",School,Georgia Tech
+4078,"('Hassan Hall',)",TD,0
+4079,"('Hassan Hall',)",Yds,89
+4080,"('Devon Achane',)",Avg,5.1
+4081,"('Devon Achane',)",Conf,SEC
+4082,"('Devon Achane',)",G,6
+4083,"('Devon Achane',)",Rec,19
+4084,"('Devon Achane',)",Rk,487
+4085,"('Devon Achane',)",School,Texas A&M
+4086,"('Devon Achane',)",TD,1
+4087,"('Devon Achane',)",Yds,97
+4088,"('Shaun Shivers',)",Avg,5.1
+4089,"('Shaun Shivers',)",Conf,Big Ten
+4090,"('Shaun Shivers',)",G,7
+4091,"('Shaun Shivers',)",Rec,19
+4092,"('Shaun Shivers',)",Rk,488
+4093,"('Shaun Shivers',)",School,Indiana
+4094,"('Shaun Shivers',)",TD,1
+4095,"('Shaun Shivers',)",Yds,97
+4096,"('Deuce Vaughn',)",Avg,4.9
+4097,"('Deuce Vaughn',)",Conf,Big 12
+4098,"('Deuce Vaughn',)",G,6
+4099,"('Deuce Vaughn',)",Rec,15
+4100,"('Deuce Vaughn',)",Rk,489
+4101,"('Deuce Vaughn',)",School,Kansas State
+4102,"('Deuce Vaughn',)",TD,0
+4103,"('Deuce Vaughn',)",Yds,74
+4104,"('Clyde Price',)",Avg,4.7
+4105,"('Clyde Price',)",Conf,MAC
+4106,"('Clyde Price',)",G,7
+4107,"('Clyde Price',)",Rec,21
+4108,"('Clyde Price',)",Rk,490
+4109,"('Clyde Price',)",School,Akron
+4110,"('Clyde Price',)",TD,1
+4111,"('Clyde Price',)",Yds,98
+4112,"('Johnny Richardson',)",Avg,4.7
+4113,"('Johnny Richardson',)",Conf,American
+4114,"('Johnny Richardson',)",G,6
+4115,"('Johnny Richardson',)",Rec,12
+4116,"('Johnny Richardson',)",Rk,491
+4117,"('Johnny Richardson',)",School,UCF
+4118,"('Johnny Richardson',)",TD,1
+4119,"('Johnny Richardson',)",Yds,56
+4120,"('Jirehl Brock',)",Avg,4.6
+4121,"('Jirehl Brock',)",Conf,Big 12
+4122,"('Jirehl Brock',)",G,7
+4123,"('Jirehl Brock',)",Rec,16
+4124,"('Jirehl Brock',)",Rk,492
+4125,"('Jirehl Brock',)",School,Iowa State
+4126,"('Jirehl Brock',)",TD,1
+4127,"('Jirehl Brock',)",Yds,73
+4128,"('Cam Wiley',)",Avg,4.5
+4129,"('Cam Wiley',)",Conf,MAC
+4130,"('Cam Wiley',)",G,6
+4131,"('Cam Wiley',)",Rec,16
+4132,"('Cam Wiley',)",Rk,493
+4133,"('Cam Wiley',)",School,Akron
+4134,"('Cam Wiley',)",TD,0
+4135,"('Cam Wiley',)",Yds,72
+4136,"('Carson Steele',)",Avg,4.5
+4137,"('Carson Steele',)",Conf,MAC
+4138,"('Carson Steele',)",G,7
+4139,"('Carson Steele',)",Rec,15
+4140,"('Carson Steele',)",Rk,494
+4141,"('Carson Steele',)",School,Ball State
+4142,"('Carson Steele',)",TD,0
+4143,"('Carson Steele',)",Yds,68
+4144,"('Eric Wilson Jr.',)",Avg,4.1
+4145,"('Eric Wilson Jr.',)",Conf,CUSA
+4146,"('Eric Wilson Jr.',)",G,6
+4147,"('Eric Wilson Jr.',)",Rec,14
+4148,"('Eric Wilson Jr.',)",Rk,495
+4149,"('Eric Wilson Jr.',)",School,Florida International
+4150,"('Eric Wilson Jr.',)",TD,0
+4151,"('Eric Wilson Jr.',)",Yds,58
