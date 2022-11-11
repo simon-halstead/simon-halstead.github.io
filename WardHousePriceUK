@@ -1,0 +1,45 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 500,
+  "height": 500,
+  "title": {
+    "text": "Birmingham Wards",
+    "subtitle":["Mercator projection"],
+    "subtitleFontStyle":"italic",
+    "subtitleFontSize":10,
+    "subtitlePadding":5,
+    "anchor": "middle",
+    "color": "black"
+  },
+
+  "data": {
+    "url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/geoUKlad.json",
+    "format": {"type":"topojson","feature": "lad"}},
+
+    "transform": [{
+    "lookup": "properties.LAD13NM",
+    "from": {
+      "key": "Local authority name",
+      "fields": ["Year ending Mar 2022", "Local authority code"],
+      "data": {"url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/hpssadataset9medianpricepaidforadministrativegeographies.csv"}}
+      },
+      {"calculate":"parseFloat(datum.Year ending Mar 2022)", "as": "2022"}],
+    
+  "projection": {"type": "mercator"},
+  "mark": {
+      "type": "geoshape",
+      "stroke": "darkgray",
+      "strokeWidth":0.5},
+  "encoding": {
+    "color":{
+      "field":"2022",
+      "type": "quantitative",
+      "scale":{"scheme":"lightmulti"},
+      "legend":{
+        "orient": "top-left",
+        "direction": "vertical"
+      }
+    },
+    "tooltip":[{"field":"properties.LAD13NM"},
+    {"field":"properties.2022"}]}
+}
