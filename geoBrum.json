@@ -1,0 +1,1139 @@
+{
+    "55095": {
+    "id": 55095,
+    "name": "New Frankley in Birmingham",
+    "parent_area": 2514,
+    "type": "CPC",
+    "type_name": "Civil parish/community",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 12,
+    "generation_high": 47,
+    "codes": {
+    "ons": "00CN001",
+    "gss": "E04000142",
+    "unit_id": "41562"
+    },
+    "all_names": {}
+    },
+    "148736": {
+    "id": 148736,
+    "name": "Sutton Coldfield",
+    "parent_area": 2514,
+    "type": "CPC",
+    "type_name": "Civil parish/community",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 28,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E04012653",
+    "unit_id": "44694"
+    },
+    "all_names": {}
+    },
+    "151879": {
+    "id": 151879,
+    "name": "Sutton Mere Green",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011175",
+    "unit_id": "44818"
+    },
+    "all_names": {}
+    },
+    "151880": {
+    "id": 151880,
+    "name": "Nechells",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011155",
+    "unit_id": "44816"
+    },
+    "all_names": {}
+    },
+    "151881": {
+    "id": 151881,
+    "name": "Perry Barr",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "unit_id": "142",
+    "gss": "E05011160"
+    },
+    "all_names": {}
+    },
+    "151882": {
+    "id": 151882,
+    "name": "Sutton Vesey",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011179",
+    "unit_id": "69"
+    },
+    "all_names": {}
+    },
+    "151883": {
+    "id": 151883,
+    "name": "Sutton Walmley & Minworth",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011180",
+    "unit_id": "42451"
+    },
+    "all_names": {}
+    },
+    "151884": {
+    "id": 151884,
+    "name": "Rubery & Rednal",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011164",
+    "unit_id": "44819"
+    },
+    "all_names": {}
+    },
+    "151885": {
+    "id": 151885,
+    "name": "Frankley Great Park",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011136",
+    "unit_id": "44820"
+    },
+    "all_names": {}
+    },
+    "151886": {
+    "id": 151886,
+    "name": "Longbridge & West Heath",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "unit_id": "44813",
+    "gss": "E05011152"
+    },
+    "all_names": {}
+    },
+    "151887": {
+    "id": 151887,
+    "name": "Northfield",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011158",
+    "unit_id": "44843"
+    },
+    "all_names": {}
+    },
+    "151888": {
+    "id": 151888,
+    "name": "Allens Cross",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011119",
+    "unit_id": "44822"
+    },
+    "all_names": {}
+    },
+    "151889": {
+    "id": 151889,
+    "name": "King's Norton North",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "unit_id": "91",
+    "gss": "E05011148"
+    },
+    "all_names": {}
+    },
+    "151890": {
+    "id": 151890,
+    "name": "Stirchley",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011172",
+    "unit_id": "44823"
+    },
+    "all_names": {}
+    },
+    "151891": {
+    "id": 151891,
+    "name": "Bartley Green",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011123",
+    "unit_id": "94"
+    },
+    "all_names": {}
+    },
+    "151892": {
+    "id": 151892,
+    "name": "Weoley & Selly Oak",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011184",
+    "unit_id": "95"
+    },
+    "all_names": {}
+    },
+    "151893": {
+    "id": 151893,
+    "name": "Bournville & Cotteridge",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011129",
+    "unit_id": "87"
+    },
+    "all_names": {}
+    },
+    "151894": {
+    "id": 151894,
+    "name": "Quinton",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011163",
+    "unit_id": "98"
+    },
+    "all_names": {}
+    },
+    "151895": {
+    "id": 151895,
+    "name": "Harborne",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011144",
+    "unit_id": "99"
+    },
+    "all_names": {}
+    },
+    "151896": {
+    "id": 151896,
+    "name": "Edgbaston",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011134",
+    "unit_id": "85"
+    },
+    "all_names": {}
+    },
+    "151897": {
+    "id": 151897,
+    "name": "North Edgbaston",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011157",
+    "unit_id": "44844"
+    },
+    "all_names": {}
+    },
+    "151898": {
+    "id": 151898,
+    "name": "Ladywood",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011151",
+    "unit_id": "84"
+    },
+    "all_names": {}
+    },
+    "151899": {
+    "id": 151899,
+    "name": "Billesley",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011124",
+    "unit_id": "89"
+    },
+    "all_names": {}
+    },
+    "151900": {
+    "id": 151900,
+    "name": "Hall Green South",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011141",
+    "unit_id": "16"
+    },
+    "all_names": {}
+    },
+    "151901": {
+    "id": 151901,
+    "name": "Brandwood & King's Heath",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011130",
+    "unit_id": "90"
+    },
+    "all_names": {}
+    },
+    "151902": {
+    "id": 151902,
+    "name": "Moseley",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011154",
+    "unit_id": "44814"
+    },
+    "all_names": {}
+    },
+    "151903": {
+    "id": 151903,
+    "name": "Hall Green North",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011140",
+    "unit_id": "44829"
+    },
+    "all_names": {}
+    },
+    "151904": {
+    "id": 151904,
+    "name": "Sparkhill",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011171",
+    "unit_id": "44827"
+    },
+    "all_names": {}
+    },
+    "151905": {
+    "id": 151905,
+    "name": "Acocks Green",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011118",
+    "unit_id": "185"
+    },
+    "all_names": {}
+    },
+    "151906": {
+    "id": 151906,
+    "name": "Sparkbrook & Balsall Heath East",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011170",
+    "unit_id": "44828"
+    },
+    "all_names": {}
+    },
+    "151907": {
+    "id": 151907,
+    "name": "Bordesley & Highgate",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011126",
+    "unit_id": "44815"
+    },
+    "all_names": {}
+    },
+    "151908": {
+    "id": 151908,
+    "name": "Tyseley & Hay Mills",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011182",
+    "unit_id": "44817"
+    },
+    "all_names": {}
+    },
+    "151909": {
+    "id": 151909,
+    "name": "South Yardley",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011169",
+    "unit_id": "186"
+    },
+    "all_names": {}
+    },
+    "151910": {
+    "id": 151910,
+    "name": "Small Heath",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011167",
+    "unit_id": "44833"
+    },
+    "all_names": {}
+    },
+    "151911": {
+    "id": 151911,
+    "name": "Yardley East",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011185",
+    "unit_id": "44834"
+    },
+    "all_names": {}
+    },
+    "151912": {
+    "id": 151912,
+    "name": "Sheldon",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011166",
+    "unit_id": "62"
+    },
+    "all_names": {}
+    },
+    "151913": {
+    "id": 151913,
+    "name": "Garretts Green",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "unit_id": "44835",
+    "gss": "E05011137"
+    },
+    "all_names": {}
+    },
+    "151914": {
+    "id": 151914,
+    "name": "Soho & Jewellery Quarter",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011168",
+    "unit_id": "83"
+    },
+    "all_names": {}
+    },
+    "151915": {
+    "id": 151915,
+    "name": "Handsworth Wood",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011143",
+    "unit_id": "140"
+    },
+    "all_names": {}
+    },
+    "151916": {
+    "id": 151916,
+    "name": "Oscott",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011159",
+    "unit_id": "143"
+    },
+    "all_names": {}
+    },
+    "151917": {
+    "id": 151917,
+    "name": "Alum Rock",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011120",
+    "unit_id": "63"
+    },
+    "all_names": {}
+    },
+    "151918": {
+    "id": 151918,
+    "name": "Gravelly Hill",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011139",
+    "unit_id": "44837"
+    },
+    "all_names": {}
+    },
+    "151919": {
+    "id": 151919,
+    "name": "Pype Hayes",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011162",
+    "unit_id": "67"
+    },
+    "all_names": {}
+    },
+    "151920": {
+    "id": 151920,
+    "name": "Erdington",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011135",
+    "unit_id": "68"
+    },
+    "all_names": {}
+    },
+    "151921": {
+    "id": 151921,
+    "name": "Glebe Farm & Tile Cross",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011138",
+    "unit_id": "44812"
+    },
+    "all_names": {}
+    },
+    "151922": {
+    "id": 151922,
+    "name": "Shard End",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011165",
+    "unit_id": "26"
+    },
+    "all_names": {}
+    },
+    "151923": {
+    "id": 151923,
+    "name": "Bromford & Hodge Hill",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011131",
+    "unit_id": "24"
+    },
+    "all_names": {}
+    },
+    "151924": {
+    "id": 151924,
+    "name": "Kingstanding",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011150",
+    "unit_id": "144"
+    },
+    "all_names": {}
+    },
+    "151925": {
+    "id": 151925,
+    "name": "Sutton Wylde Green",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011181",
+    "unit_id": "44840"
+    },
+    "all_names": {}
+    },
+    "151926": {
+    "id": 151926,
+    "name": "Sutton Trinity",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011178",
+    "unit_id": "66"
+    },
+    "all_names": {}
+    },
+    "151927": {
+    "id": 151927,
+    "name": "Sutton Four Oaks",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011174",
+    "unit_id": "70"
+    },
+    "all_names": {}
+    },
+    "151928": {
+    "id": 151928,
+    "name": "Sutton Reddicap",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011176",
+    "unit_id": "44841"
+    },
+    "all_names": {}
+    },
+    "151929": {
+    "id": 151929,
+    "name": "Sutton Roughley",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011177",
+    "unit_id": "44842"
+    },
+    "all_names": {}
+    },
+    "151930": {
+    "id": 151930,
+    "name": "King's Norton South",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011149",
+    "unit_id": "44821"
+    },
+    "all_names": {}
+    },
+    "151931": {
+    "id": 151931,
+    "name": "Druids Heath & Monyhull",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011133",
+    "unit_id": "44825"
+    },
+    "all_names": {}
+    },
+    "151932": {
+    "id": 151932,
+    "name": "Bournbrook & Selly Park",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011128",
+    "unit_id": "44824"
+    },
+    "all_names": {}
+    },
+    "151933": {
+    "id": 151933,
+    "name": "Balsall Heath West",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011122",
+    "unit_id": "21"
+    },
+    "all_names": {}
+    },
+    "151934": {
+    "id": 151934,
+    "name": "Highter's Heath",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011146",
+    "unit_id": "44826"
+    },
+    "all_names": {}
+    },
+    "151935": {
+    "id": 151935,
+    "name": "Bordesley Green",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011127",
+    "unit_id": "17"
+    },
+    "all_names": {}
+    },
+    "151936": {
+    "id": 151936,
+    "name": "Heartlands",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011145",
+    "unit_id": "44832"
+    },
+    "all_names": {}
+    },
+    "151937": {
+    "id": 151937,
+    "name": "Yardley West & Stechford",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011186",
+    "unit_id": "25"
+    },
+    "all_names": {}
+    },
+    "151938": {
+    "id": 151938,
+    "name": "Holyhead",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011147",
+    "unit_id": "44845"
+    },
+    "all_names": {}
+    },
+    "151939": {
+    "id": 151939,
+    "name": "Newtown",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011156",
+    "unit_id": "44830"
+    },
+    "all_names": {}
+    },
+    "151940": {
+    "id": 151940,
+    "name": "Handsworth",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011142",
+    "unit_id": "141"
+    },
+    "all_names": {}
+    },
+    "151941": {
+    "id": 151941,
+    "name": "Lozells",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011153",
+    "unit_id": "44831"
+    },
+    "all_names": {}
+    },
+    "151942": {
+    "id": 151942,
+    "name": "Birchfield",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011125",
+    "unit_id": "44846"
+    },
+    "all_names": {}
+    },
+    "151943": {
+    "id": 151943,
+    "name": "Aston",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "unit_id": "22",
+    "gss": "E05011121"
+    },
+    "all_names": {}
+    },
+    "151944": {
+    "id": 151944,
+    "name": "Ward End",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "unit_id": "44836",
+    "gss": "E05011183"
+    },
+    "all_names": {}
+    },
+    "151945": {
+    "id": 151945,
+    "name": "Stockland Green",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011173",
+    "unit_id": "23"
+    },
+    "all_names": {}
+    },
+    "151946": {
+    "id": 151946,
+    "name": "Perry Common",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "gss": "E05011161",
+    "unit_id": "44838"
+    },
+    "all_names": {}
+    },
+    "151947": {
+    "id": 151947,
+    "name": "Castle Vale",
+    "parent_area": 2514,
+    "type": "MTW",
+    "type_name": "Metropolitan district ward",
+    "country": "E",
+    "country_name": "England",
+    "generation_low": 33,
+    "generation_high": 47,
+    "codes": {
+    "unit_id": "44839",
+    "gss": "E05011132"
+    },
+    "all_names": {}
+    }
+    }
