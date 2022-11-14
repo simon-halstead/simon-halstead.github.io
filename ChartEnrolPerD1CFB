@@ -1,0 +1,57 @@
+
+
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 500,
+  "height": 300,
+  "title": {
+    "text": "Enrollment per University - D1 CFB programs",
+    "subtitle":["Albers USA projection"],
+    "subtitleFontStyle":"italic",
+    "subtitleFontSize":10,
+    "subtitlePadding":5,
+    "anchor": "middle",
+    "color": "black"
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/geoUSstates.json",
+    "format": {"property": "features"}
+  },
+
+  "transform": [{
+    "lookup": "properties.NAME",
+    "from": {
+      "key": "State",
+      "fields": ["Team","Enrollment"],
+      "data": {"url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/dataGroupv1ofCFBD1.json"}}      
+      },
+      {
+        "calculate": "datum.Enrollment/datum.Team",
+        "as":"EnrolperTeam"
+        
+      }], 
+
+
+
+  "projection": {"type":"albersUsa"},
+  "mark": {
+      "type": "geoshape",
+      "stroke": "darkgray",
+      "strokeWidth":0.5},
+  "encoding": {
+    "tooltip":[{"field":"properties.NAME","title":"State"},{"field":"Team","title":"No of Teams"},{"field":"EnrolperTeam","title":"Enrollment per School"}],
+    "color":{
+        
+        "condition": [{"test": "datum.Team === null", "value": "lightgrey"}],
+        "field":"EnrolperTeam",
+        "type": "quantitative",
+        
+    "legend":{
+        "title":"Enrollment per School"
+    },
+    "scale":{
+        "reverse": false
+    }
+    }
+    }
+}
