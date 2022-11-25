@@ -182,12 +182,13 @@
           "type":"json",
           "property": "quarters"
         }},
+        "width":200,
         "title":"UK Passenger Air Transport Services",
         "mark": "line",
         "encoding": {
           "x": {
-            "timeUnit": "quarter",
-            "field": "date",
+            "timeUnit": "year",
+            "field": "year",
             "type": "ordinal",
             "title":null
           },
