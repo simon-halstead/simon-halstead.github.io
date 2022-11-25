@@ -1,7 +1,5 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "description": "Two vertically concatenated charts that show a histogram of precipitation in Seattle and the relationship between min and max temperature.",
-    
     "columns": 3,
     "vconcat": [
       {
@@ -13,7 +11,7 @@
         "mark": "line",
         "encoding": {
           "x": {
-            "timeUnit": "year",
+            
             "field": "date",
             "type": "temporal",
             "title":null
@@ -35,7 +33,7 @@
         "mark": "line",
         "encoding": {
           "x": {
-            "timeUnit": "year",
+            
             "field": "date",
             "type": "temporal",
             "title":null
@@ -56,7 +54,7 @@
         "mark": "line",
         "encoding": {
           "x": {
-            "timeUnit": "year",
+            
             "field": "date",
             "type": "temporal",
             "title":null
@@ -78,7 +76,7 @@
         "mark": "line",
         "encoding": {
           "x": {
-            "timeUnit": "year",
+          
             "field": "date",
             "type": "temporal",
             "title":null
@@ -99,7 +97,7 @@
         "mark": "line",
         "encoding": {
           "x": {
-            "timeUnit": "year",
+            
             "field": "date",
             "type": "temporal",
             "title":null
@@ -121,7 +119,7 @@
         "mark": "line",
         "encoding": {
           "x": {
-            "timeUnit": "year",
+            
             "field": "date",
             "type": "temporal",
             "title":null
@@ -142,7 +140,7 @@
         "mark": "line",
         "encoding": {
           "x": {
-            "timeUnit": "year",
+            
             "field": "date",
             "type": "temporal",
             "title":null
@@ -164,7 +162,7 @@
         "mark": "line",
         "encoding": {
           "x": {
-            "timeUnit": "year",
+            
             "field": "date",
             "type": "temporal",
             "title":null
