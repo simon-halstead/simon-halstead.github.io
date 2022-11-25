@@ -1,0 +1,70 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "columns": 1,
+    "vconcat": [
+      {
+        "data":{"url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/ONSdash/data_ONS-LMSKAC3.json",
+        "format": {
+             "type":"json",
+             "property": "months"}},
+  
+        "title":"Whole Economy Three Month Average Pay Growth",
+        "mark": "line",
+        "encoding": {
+          "x": {
+            "field": "date",
+            "type": "temporal",
+            "title":null
+          },
+          "y": {
+            "field": "value",
+            "type": "quantitative",
+            "title": "% change"
+          }
+        }
+      },
+      {
+        "data":{"url":"https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/ONSdash/data_ONS-LMSKAC6.json",
+        "format":{
+          "type":"json",
+          "property": "months"
+        }},
+        "title":"Private Sector Three Month Average Pay Growth",
+        "mark": "line",
+        "encoding": {
+          "x": {
+            
+            "field": "date",
+            "type": "temporal",
+            "title":null
+          },
+          "y": {
+            "field": "value",
+            "type": "quantitative",
+            "title": "% change"
+          }
+        }},
+        {
+        "data":{"url":"https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/ONSdash/data_ONS-LMSKAC9.json",
+        "format":{
+          "type":"json",
+          "property": "months"
+        }},
+        "title":"Public Sector Three Month Average Pay Growth",
+        "mark": "line",
+        "encoding": {
+          "x": {
+            
+            "field": "date",
+            "type": "temporal",
+            "title":null
+          },
+          "y": {
+            "field": "value",
+            "type": "quantitative",
+            "title": "% change"
+          }
+        }
+      }
+]
+}
