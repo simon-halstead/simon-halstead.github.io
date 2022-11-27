@@ -1,0 +1,64 @@
+
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 300,
+  "height": 300,
+  "title": {
+    "text": "Republic of Ireland Tax Revenues 2021",
+    "subtitle":["Millions of Euros"],
+    "subtitleFontStyle":"italic",
+    "subtitleFontSize":10,
+    "subtitlePadding":5,
+    "anchor": "middle",
+    "color": "black"
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/geoIreland.json",
+    "format": {"type":"topojson","feature": "IRL_adm1"}
+  },
+
+  "params": [
+      {"name": "Select",
+        "value": "total_tax",
+        "bind": {
+          "input": "select",
+          "options": [
+            "Total Tax","Internal VAT","PAYE Income Tax","Self-Employed Income Tax","Corporation Tax","Capital Gains Tax"]}}],
+
+  "transform": [
+
+    {
+    "lookup": "properties.NAME_1",
+      "from": {
+        "data": {"url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/dataIreTaxRev.csv"},
+        "key": "county",
+        "fields": ["total_tax","vat_internal_€m","paye_income_tax_and_usc_€m","self_employed_income_tax_€m","corporation_tax_€m","capital_gains_tax_€m"]},
+        "as":["Total Tax","Internal VAT","PAYE Income Tax","Self-Employed Income Tax","Corporation Tax","Capital Gains Tax"]},
+        
+        
+        {"calculate": "datum[Select]","as": "varSelected"}],
+
+  "projection": {"type":"mercator"},
+  "mark": {
+      "type": "geoshape",
+      "stroke": "darkgray",
+      "strokeWidth":0.5},
+      "encoding": {
+    "tooltip":[{"field":"properties.NAME_1","title":"County"},{"field":"varSelected","title":"Value","format":",d"}],
+      "color":{
+        "field":"varSelected",
+        "type": "quantitative",
+        
+        
+    "legend":{
+        "title":"",
+        "orient": "top-left",
+        "direction": "vertical"
+    },
+    "scale":{
+        "reverse": false,
+        "scheme":"turbo"
+    }
+  
+  }
+}}
