@@ -1,0 +1,65 @@
+{"$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+  "description": "International Territorial Level Map, to change regional hierarchy: replace x in 'ITLx_2021_20m' in URL, and 'ITLx21NM' in tooltip, with 1, 2 or 3.",
+
+  "title": {
+    "text": "United Kingdom",
+    "subtitle":["ITL1 regions, Mercator Projection",""],
+    "subtitleFontStyle":"italic",
+    "subtitleFontSize":10,
+    "anchor": "middle",
+    "color": "black"},
+
+  "config": {
+      "background":"white",
+      "view": {"stroke": "transparent"}},
+  
+  "width": 360,
+  "height": 200,
+  
+  "data": {
+    "url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/geoUK.json",
+    "format":{"type": "topojson","feature": "wpc"}},
+  
+  "params": [
+      {"name": "Select",
+        "value": "Fuel",
+        "bind": {
+          "input": "select",
+          "options": [
+            "Diesel","Petrol","Other"]}},
+            
+       {"name":"yearSelector", "value":2012,
+       "bind":{
+         "input": "range",
+         "min": 2012, 
+         "max": 2021, 
+         "step": 1,
+         "name": "Year:"}}],
+
+  "transform": [
+
+    {
+    "lookup": "properties.PCON13NM",
+      "from": {
+        "data": {"url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/dataUKcars.json", "format":{"type": "json"}},
+        "key": "location",
+        "fields": ["Value","Fuel"]}},
+
+        {"calculate": "datum[Select]","as": "varSelected"}],
+
+  "projection": {"type": "mercator"},
+  
+  "mark": {
+      "type": "geoshape",
+      "stroke": "lightslategray",
+      "strokeWidth":0.5},
+
+  "encoding": {
+    "tooltip": 
+      {"field": "properties.PCON13NM"},
+    "color": {
+        "field":"varSelected",
+        "type": "quantitative"}
+  }
+}
