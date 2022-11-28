@@ -1,0 +1,37 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {"url": ""},
+    "mark": "bar",
+    "title": {
+        "text": "College Football - Weekly AP Top 25",
+        "subtitle":["Number of Teams by Conference","Week 1 = preseason, week 2 = poll after week 1, etc"],
+        "subtitleFontStyle":"",
+        "subtitleFontSize":12,
+        "anchor": "start",
+        "color": "black"},
+    "height":300,
+    "width":300,         
+    
+    "encoding": {
+      "x": {
+        "field": "Wk",
+        "type": "ordinal",
+        "title": "Week"
+      },
+      "y": {
+        "aggregate": "count",
+        "type": "quantitative",
+        "title": ""
+      },
+      "color": {
+        "field": "Confr",
+        "type": "nominal",
+        "scale": {
+          "domain": ["SEC", "ACC", "BigTen", "Big12", "Pac-12","Ind","American","SunBelt"],
+          "range": ["#ADD8E6", "#A7A8A9", "#030500", "#E8463C", "#154733", "#C99700", "#004B8D","#4F2D7F"]
+        },
+        "title": "Conference"
+      }
+    }
+  }
+  
