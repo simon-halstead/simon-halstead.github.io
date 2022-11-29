@@ -1,9 +1,10 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "data": {"url": ""},
-    "mark": "bar",
+    "data": {"url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/APpoll281122.json"},
     "background":"#f4f2e5",
-    "title": {
+    "layer": [ {
+      "mark": "bar",
+      "title": {
         "text": "College Football - Weekly AP Top 25",
         "subtitle":["Number of Teams by Conference","Week 1 = preseason, week 2 = poll after week 1, etc"],
         "subtitleFontStyle":"",
@@ -12,7 +13,6 @@
         "color": "black"},
     "height":300,
     "width":500,         
-    
     "encoding": {
       "x": {
         "field": "Wk",
@@ -33,5 +33,28 @@
         },
         "title": "Conference"
       }
-    }
+    }},
+    {
+      "mark":{"type":"text",
+      "color":"white","opacity":0.9},
+      "encoding":{
+        "x": {
+        "field": "Wk",
+        "type": "ordinal",
+        "title": "Week"
+      },
+      "y": {
+        "aggregate": "count",
+        "type": "nominal",
+        "field":"Confr",
+        "bandPosition": 0.5,
+        "stack":"center"
+      },
+        "text":{
+          "aggregate":"count","field":"Confr"
+        },
+        "detail":{"field":"Confr"}
+      }
+    }]
+    
   }
