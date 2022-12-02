@@ -1,0 +1,101 @@
+,Name,Pos,Rating,Followers,state,Hometown,FollowersT,NILvalue2,NILVal
+0,Bryce Young,QB,99.51,315K,CA,Mater DeiSanta Ana,315000.0,3.4M,3400000.0
+1,Caleb Williams,QB,98.76,203K,DC,Gonzaga Washington,203000.0,2.5M,2500000.0
+2,CJ Stroud,QB,96.3,218K,CA,Rancho CucamongaRancho Cucamonga,218000.0,2.4M,2400000.0
+3,Will Anderson,EDGE,97.7,102K,GA,DutchtownHampton,102000.0,1.7M,1700000.0
+4,Bijan Robinson,RB,97.82,190K,AZ,Salpointe CatholicTucson,190000.0,1.7M,1700000.0
+5,Marvin Harrison Jr.,WR,95.08,192K,PA,St. Joseph's Prep SchoolPhiladelphia,192000.0,1.5M,1500000.0
+6,Shedeur Sanders,QB,89.16,1.1M,TX,Trinity Christian SchoolCedar Hill,1100000.0,1.4M,1400000.0
+7,Jordan Addison,WR,91.15,46K,MD,TuscaroraFrederick,46000.0,1.2M,1200000.0
+8,Hendon Hooker,QB,89.26,164K,NC,DudleyGreensboro,164000.0,1.1M,1100000.0
+9,Brock Bowers,TE,95.28,74K,CA,NapaNapa,74000.0,1.1M,1100000.0
+10,Kayshon Boutte,WR,96.86,87K,LA,WestgateNew Iberia,87000.0,972K,972000.0
+11,Evan Stewart,WR,98.43,2.4M,TX,LibertyFrisco,2400000.0,926K,926000.0
+12,Drake Maye,QB,96.11,47K,NC,Myers ParkCharlotte,47000.0,926K,926000.0
+13,Jalen Carter,DL,98.2,23K,FL,ApopkaApopka,23000.0,888K,888000.0
+14,Spencer Rattler,QB,97.85,595K,AZ,PinnaclePhoenix,595000.0,883K,883000.0
+15,Michael Mayer,TE,96.4,50K,KY,Covington CatholicAlexandria,50000.0,870K,870000.0
+16,Stetson Bennett IV,QB,81.72,123K,GA,Pierce CountyBlackshear,123000.0,866K,866000.0
+17,Drew Sanders,LB,97.14,24K,TX,RyanDenton,24000.0,856K,856000.0
+18,Blake Corum,RB,93.42,142K,MD,St. Frances AcademyLaurel,142000.0,844K,844000.0
+19,Isaiah Foskey,EDGE,91.55,23K,CA,De La SalleConcord,23000.0,817K,817000.0
+20,Bo Nix,QB,96.61,173K,AL,Scottsboro SchPinson,173000.0,816K,816000.0
+21,Jalin Hyatt,WR,92.14,127K,SC,Dutch ForkIrmo,127000.0,816K,816000.0
+22,Ga'Quincy McKinstry,CB,97.83,153K,AL,Pinson ValleyPinson,153000.0,794K,794000.0
+23,Quinn Ewers,QB,99.24,209K,TX,Southlake CarrollSouthlake,209000.0,780K,780000.0
+24,Sam Hartman,QB,85.63,97K,SC,Oceanside Collegiate AcademyMount Pleasant,97000.0,772K,772000.0
+25,Harold Perkins,LB,98.41,55K,TX,Cy ParkCypress,55000.0,762K,762000.0
+26,Nathaniel Dell,WR,82.76,116K,FL,MainlandDaytona Beach,116000.0,739K,739000.0
+27,Jahmyr Gibbs,RB,94.62,76K,GA,DaltonDalton,76000.0,736K,736000.0
+28,Dorian Thompson-Robinson,QB,95.96,767K,NV,Bishop GormanLas Vegas,767000.0,709K,709000.0
+29,Christopher Smith,S,89.42,32K,GA,Hapeville CharterAtlanta,32000.0,667K,667000.0
+30,Xavier Worthy,WR,95.76,154K,CA,Central EastFresno,154000.0,657K,657000.0
+31,J.J. McCarthy,QB,96.08,215K,IL,IMG AcademyLa Grange Park,215000.0,652K,652000.0
+32,Travis Hunter,WR,99.56,1.1M,GA,Collins HillSuwanee,1100000.0,639K,639000.0
+33,Dawand Jones,OT,86.5,31K,IN,Ben DavisIndianapolis,31000.0,630K,630000.0
+34,Brian Branch,S,94.82,26K,GA,Sandy CreekTyrone,26000.0,612K,612000.0
+35,Joey Porter Jr.,CB,90.86,25K,PA,North AlleghenyWexford,25000.0,585K,585000.0
+36,Zach Charbonnet,RB,96.01,22K,CA,Oaks ChristianWestlake Village,22000.0,572K,572000.0
+37,Jordan Battle,S,95.79,76K,FL,St. Thomas AquinasFort Lauderdale,76000.0,566K,566000.0
+38,Peter Skoronski,IOL,93.99,4.9K,IL,Maine SouthPark Ridge,4900.0,561K,561000.0
+39,Xavier Hutchinson,WR,,17.7K,FL,Bartram TrailJacksonville,17700.0,559K,559000.0
+40,KJ Jefferson,QB,90.27,41K,MS,North PanolaSardis,41000.0,549K,549000.0
+41,Tyree Wilson,EDGE,88.17,6.7K,TX,West RuskNew London,6700.0,542K,542000.0
+42,Shilo Sanders,S,87.54,684K,TX,Trinity Christian SchoolCedar Hill,684000.0,540K,540000.0
+43,Joe Alt,OT,89.7,3K,MN,Totino-GraceMinneapolis,3000.0,540K,540000.0
+44,Devon Witherspoon,CB,,4.2K,FL,Pine ForestPensacola,4200.0,536K,536000.0
+45,Quinshon Judkins,RB,88.28,94K,AL,Pike RoadPike Road,94000.0,529K,529000.0
+46,Tank Bigsby,RB,96.36,68K,GA,CallawayHogansville,68000.0,523K,523000.0
+47,Chandler Zavala,IOL,,1.7K,VA,Forest ParkWoodbridge,1700.0,517K,517000.0
+48,Devon Achane,RB,92.84,25K,TX,Fort Bend MarshallMissouri City,25000.0,508K,508000.0
+49,Michael Penix Jr.,QB,87.4,34K,FL,Tampa Bay TechTampa,34000.0,504K,504000.0
+50,Jayden Daniels,QB,95.6,88K,CA,CajonSan Bernardino,88000.0,485K,485000.0
+51,Broderick Jones,OT,98.77,30K,GA,LithoniaLithonia,30000.0,468K,468000.0
+52,Will Levis,QB,86.53,258K,CT,XavierMiddletown,258000.0,464K,464000.0
+53,Rashee Rice,WR,85.63,29K,TX,RichlandNorth Richland Hills,29000.0,464K,464000.0
+54,Emmanuel Forbes,CB,92.25,18.7K,MS,GrenadaGrenada,18700.0,458K,458000.0
+55,Darnell Wright,OT,98.58,15.6K,WV,HuntingtonHuntington,15600.0,455K,455000.0
+56,Mohamed Ibrahim,RB,86.23,19.4K,MD,Good CounselOlney,19400.0,455K,455000.0
+57,Kelee Ringo,CB,99.1,112K,AZ,SaguaroScottsdale,112000.0,444K,444000.0
+58,Tuli Tuipulotu,DL,89.3,5K,CA,LawndaleLawndale,5000.0,443K,443000.0
+59,Olu Fashanu,OT,88.7,6.3K,DC,Gonzaga Washington,6300.0,440K,440000.0
+60,Jaxon Smith-Njigba,WR,96.94,180K,TX,RockwallRockwall,180000.0,440K,440000.0
+61,Dalton Kincaid,TE,,6.1K,NV,Las Vegas,6100.0,432K,432000.0
+62,Eli Ricks,CB,97.67,84K,CA,IMG AcademyRancho Cucamonga,84000.0,431K,431000.0
+63,DeWayne Carter,DL,88.37,7.7K,OH,Pickerington CentralPickerington,7700.0,425K,425000.0
+64,Aydan White,CB,85.97,2.3K,NC,Christ SchoolArden,2300.0,423K,423000.0
+65,Cameron Rising,QB,90.68,28K,CA,Newbury ParkNewbury Park,28000.0,422K,422000.0
+66,Eric Gray,RB,92.22,41K,TN,Lausanne Collegiate SchoolMemphis,41000.0,420K,420000.0
+67,Trey Palmer,WR,94.46,48K,LA,KentwoodKentwood,48000.0,419K,419000.0
+68,Warren McClendon,OT,92.03,11.7K,GA,BrunswickBrunswick,11700.0,415K,415000.0
+69,Dillon Gabriel,QB,86.8,97K,HI,MililaniMililani,97000.0,414K,414000.0
+70,Taulia Tagovailoa,QB,91.89,157K,AL,ThompsonAlabaster,157000.0,413K,413000.0
+71,Zay Flowers,WR,84.0,21K,FL,University SchoolFort Lauderdale,21000.0,412K,412000.0
+72,Derick Hall,EDGE,92.56,27K,MS,GulfportGulfport,27000.0,402K,402000.0
+73,Justin Flowe,LB,99.05,339K,CA,UplandUpland,339000.0,401K,401000.0
+74,D.J. Johnson,LB,94.82,326K,CA,Luther BurbankSacramento,326000.0,400K,400000.0
+75,Anthony Richardson,QB,91.89,117K,FL,EastsideGainesville,117000.0,400K,400000.0
+76,DJ Uiagalelei,QB,98.32,198K,CA,St. John BoscoBellflower,198000.0,396K,396000.0
+77,Jordan Travis,QB,85.0,89K,FL,The Benjamin SchoolNorth Palm Beach,89000.0,386K,386000.0
+78,Emeka Egbuka,WR,97.86,70K,WA,SteilacoomSteilacoom,70000.0,382K,382000.0
+79,Dwight McGlothern,CB,90.37,30K,TX,Klein OakSpring,30000.0,381K,381000.0
+80,Paris Johnson Jr.,OT,98.73,112K,OH,PrincetonCincinnati,112000.0,376K,376000.0
+81,Kamren Kinchens,S,89.9,23K,FL,NorthwesternMiami,23000.0,375K,375000.0
+82,Max Duggan,QB,91.5,27K,IA,Lewis CentralCouncil Bluffs,27000.0,374K,374000.0
+83,Antonio Johnson,CB,95.48,21K,IL,East St. LouisEast Saint Louis,21000.0,373K,373000.0
+84,Brett Neilon,IOL,91.95,4.8K,CA,Santa Margarita CatholicRancho Santa Margarita,4800.0,371K,371000.0
+85,TreVeyon Henderson,RB,97.5,121K,VA,HopewellHopewell,121000.0,370K,370000.0
+86,Will Rogers,QB,87.1,45K,MS,BrandonBrandon,45000.0,363K,363000.0
+87,Jaylen Harrell,LB,89.94,9.7K,FL,Berkeley PrepTampa,9700.0,362K,362000.0
+88,Mekhi Blackmon,CB,,12.7K,CA,Menlo-AthertonSan Mateo,12700.0,361K,361000.0
+89,BJ Ojulari,EDGE,94.71,26K,GA,MariettaMarietta,26000.0,358K,358000.0
+90,Payton Thorne,QB,83.53,30K,IL,Naperville CentralNaperville,30000.0,356K,356000.0
+91,Luke Wypler,IOL,93.21,16.4K,NJ,St Joseph RegionalMontvale,16400.0,354K,354000.0
+92,Tommy Eichenberg,LB,89.41,13.4K,OH,St IgnatiusCleveland,13400.0,352K,352000.0
+93,Ryan Hayes,OT,89.39,6.5K,MI,Traverse City WestTraverse City,6500.0,350K,350000.0
+94,Charlie Jones,WR,76.32,11.1K,IL,DeerfieldDeerfield,11100.0,349K,349000.0
+95,Josh Downs,WR,94.87,43K,GA,North GwinnettSuwanee,43000.0,348K,348000.0
+96,Kendre Miller,ATH,82.32,13.9K,TX,Mount EnterpriseMount Enterprise,13900.0,344K,344000.0
+97,Sydney Brown,S,81.45,7.3K,FL,St Stephen's Episcopal SchoolBradenton,7300.0,340K,340000.0
+98,Cory Trice,CB,83.8,6.2K,KY,Christian CountyHopkinsville,6200.0,339K,339000.0
+99,Israel Abanikanda,RB,87.81,12.9K,NY,Abraham LincolnBrooklyn,12900.0,339K,339000.0
