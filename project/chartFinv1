@@ -1,0 +1,14 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Stock prices of 5 Tech Companies over Time.",
+  "data": {"url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/project/dataNCAAFinanceCLEAN.csv"},
+  "mark": {"point":true,"type": "line"},
+  "width":500,
+  "height":500,
+  "encoding": {
+    "x": {"field": "Year", "type": "temporal"},
+    "y": {"field": "Total Expenses", "type": "quantitative"},
+    "color": {"field": "Data", "type": "nominal"},
+    "tooltip":{"field":"Data"}
+  }
+}
