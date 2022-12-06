@@ -1,0 +1,39 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 200,
+  "height": {"step": 16},
+  "data": {"url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/project/dataNCAARevbySportCLEAN.csv"},
+  "transform": [
+    {"filter": "datum.Sport != 'Total'"},
+    {"filter": "datum.Total >= 50000000"}
+    ],
+  "encoding": {
+    "y": {
+      "field": "Sport",
+      "type": "nominal",
+      "axis": null
+    }
+  },
+  "layer": [{
+    "mark": {"type": "bar"},
+    "encoding": {
+      "x": {
+        "field": "Total",
+        "type": "quantitative"
+      },
+      "y":{
+        "sort":"-x",
+        "field": "Sport",
+        "type": "nominal"
+      }
+    }
+  }, 
+    {
+    "mark": {"type": "text", "align": "left","x": 5},
+    "encoding": {
+      "text": {"field": "Sport"},
+    "y":{"field":"Sport",
+    "sort":""},
+    "detail":{"field":"Sport"}}
+  }]
+}
