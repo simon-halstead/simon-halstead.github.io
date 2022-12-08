@@ -1,0 +1,27 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Stock prices of 5 Tech Companies over Time.",
+  "data": {"url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/project/dataNCAAFinanceCLEAN.csv"},
+  "mark": {"point":true,"type": "line"},
+  "title":{"text":"Average Athletics Profit by Conference","subtitle":"Data from the Knight Comisssion"},
+  "width":500,
+  "height":500,
+  "selection": {
+      "paintbrush": {"type": "multi", "on": "mouseover", "nearest": true},
+      "division": {"type": "multi", "fields": ["FBSConference"], "bind": "legend"}
+    },
+
+  "transform": [{
+    "filter": "datum.TotalExpenses != 0"},
+    {"groupby": ["FBSConference","Year"],"aggregate": [{"field": "TotalRevenues","as": "TotalRevbyConf","op": "mean"},{"field": "TotalExpenses","as": "TotalExpbyConf","op": "mean"}]},
+    {"calculate": "datum.TotalRevbyConf - datum.TotalExpbyConf","as":"RevminusExp"},
+    {"calculate": "datum.RevminusExp / 1000000","as": "RevByExpMill"},
+    {"filter":"datum.FBSConference != 'nan'"}],
+  "encoding": {
+    "x": {"field": "Year", "type": "temporal"},
+    "y": {"field": "RevByExpMill","type": "quantitative", "title":"Millions of Dollars"},
+    "color": {"field": "FBSConference", "type": "nominal"},
+    "opacity": {"condition": {"selection": "division", "value": 1}, "value": 0},
+    "tooltip":{"field":"FBSConference"}
+  }
+}
