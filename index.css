@@ -1,4 +1,3 @@
-/*Data Science for Economists */
 
 /* Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
@@ -6,11 +5,154 @@
 
 /* Set the background color for my page: */
 body{
-    background-color: rgb(210, 242, 250);
+    /* background-color: #f4f2e5; */
+    background-color: #F0F2FF;
+    /* background-color: rgb(210, 242, 250); */
     
 }
 
+.wrap{
+    background-color: black;
+    /* min-height: 30px; */
+    /* border: 5px; */
+    /* border-color:#1E5162; */
+    /* border-style: solid; */ */
+    position: fixed;
+    width: 100%;
+    z-index:1;
+    top: 0%;
+
+  
+    
+}
+
+.rpb{
+    padding:0 8px;
+}
+
+.col{
+    width:24.99999%
+    border: none;
+    
+    display:inline-block;
+    padding:8px 16px;
+    vertical-align:middle;
+    overflow:hidden;
+    text-decoration:none;
+    color: white;
+    /* background-color:#9cc6b0; */
+    text-align:center;
+    cursor:pointer;
+    white-space:nowrap;
+    background-color:black;
+    color:white
+    width:100%;text-align:left;padding:8px 16px
+}
+
+.col:hover{
+    color:black!important;
+    background-color:#F0F2FF!important
+}
+
+/* buttons */
+
+a{
+    /* border: 1px; */
+    border-color:#C3D7BC;
+    border-style: ;
+    margin:30px 0; 
+    font-size: 26px; 
+    background-color: ;
+    margin-top: 10px;
+    padding: 50px;
+    color:white
+
+    
+    
+   
+    
+}
+
+a:hover{
+    color: black;
+}
+
+#link1{
+    font-size: 26px;
+    margin-top: 30px;
+  
+}
+
+#link5{
+    font-size: 20px;
+    margin-top: 30px;
+    color:black;
+    text-decoration: underline;
+    color:rgb(17, 17, 17);
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    text-align: center;
+    margin: 10;
+    font-size: 16px;
+    padding: 0px;
+}
+
+#link3{
+    /* background-color: rgba(0, 47, 167, .5);
+
+    
+    
+    border:2px;
+    border-color:rgba(0, 47, 167);
+    border-style: solid;
+    border-radius: 10px;
+
+
+    color:white;
+    
+    text-decoration: none; */
+    
+}
+
+#link3:hover{
+
+    /* background-color: white;
+
+    border:2px;
+    border-color:#C3D7BC;
+    border-style: solid; */
+    
+}
+
+#link4{
+    /* background-color: rgb(210, 242, 250); */
+    border: 0px;
+    padding: 10px;
+
+
+}
+
+.bgbeige{
+    color:#000!important;
+    background-color:#fdf5e6!important;
+    font-size:18px!important
+}
+
+.weekcontainer{
+    padding:0.01em 16px;
+    content:"";
+    display:table;
+    clear:both
+}
+
+.weekcontent{
+    margin-left:auto!important;
+    margin-right:auto!important;
+    max-width:980px
+}
+
 h1{
+    padding: 30px;
     color:black;
     font-family: 'Inter', sans-serif;
     font-size: 48px;
@@ -83,6 +225,96 @@ p{
     
 }
 
+.myWeek3{
+    margin: auto;
+    margin-top: 20px;
+    max-width: 600px;
+    background-color: white;
+
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #1E5162;
+
+    
+   
+
+
+    
+}
+
+.myWeek4{
+    margin: auto;
+    margin-top: 20px;
+    max-width: 600px;
+    background-color: white;
+
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #1E5162;
+
+    
+   
+
+
+    
+}
+
+.myWeek5{
+    margin: auto;
+    margin-top: 20px;
+    max-width: 600px;
+    background-color: white;
+
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #1E5162;
+
+    
+   
+
+
+    
+}
+
+.myWeek7{
+    margin: auto;
+    margin-top: 20px;
+    max-width: 600px;
+    background-color: white;
+
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #1E5162;
+
+    
+   
+
+
+    
+}
+
+.myWeek8{
+    margin: auto;
+    margin-top: 20px;
+    max-width: 600px;
+    background-color: white;
+
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #1E5162;
+
+    
+   
+
+
+    
+}
+
 /* Set the apperance of the class, chart */
 .chart{
     background-color: rgb(255, 255, 255);
@@ -92,8 +324,8 @@ p{
     border-radius: 5px;
    
     display: flex;
-    justify-content: center;
-    align-items: center;
+    /* justify-content: center; */
+    /* align-items: center; */
     margin: auto;
     border-color: #C3D7BC;
     

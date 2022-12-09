@@ -1,0 +1,167 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap');
+
+/* Set the background color for my page: */
+body{
+    background-color: rgb(210, 242, 250);
+    
+}
+
+wrap{
+    background-color: #1E5162;
+    min-height: 40px;
+    position:fixed;
+    width:100%;
+    z-index:1
+}
+
+
+col{
+    background-color: #1E5162;
+}
+
+.col:hover{
+    color:#000!important;background-color:#ccc!important
+}
+/* buttons */
+
+a{
+    border: 1px;
+    border-color:#1E5162;
+    border-style: solid;
+    margin:20px;
+    font-size: 26px;
+    background-color: white;
+    margin-top: 20px;
+    
+}
+
+#link1{
+    font-size: 26px;
+}
+
+
+
+
+
+h1{
+    color:black;
+    font-family: 'Inter', sans-serif;
+    font-size: 48px;
+    font-weight: 500;
+    text-align: center;
+   
+}
+
+h2{
+    color:#1E5162;
+    font-family: 'Inter', sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    text-align: center;
+    text-decoration: underline;
+    
+}
+
+h3{
+    color:rgb(17, 17, 17);
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    text-align: center;
+    margin: 0;
+}
+
+p{
+    color:rgb(17, 17, 17);
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    text-align: center;
+    margin: 10;
+    font-size: 16px;
+} 
+    
+.myWeek1{
+    margin: auto;
+    max-width: 600px;
+    background-color: white;
+
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #1E5162;
+
+     
+    
+    
+
+
+    
+}
+
+.myWeek2{
+    margin: auto;
+    margin-top: 20px;
+    max-width: 600px;
+    background-color: white;
+
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #1E5162;
+
+    
+    
+
+
+    
+}
+
+/* Set the apperance of the class, chart */
+.chart{
+    background-color: rgb(255, 255, 255);
+    width:360px;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 5px;
+   
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: center; */
+    margin: auto;
+    border-color: #C3D7BC;
+    
+    
+
+    
+}
+
+
+
+#Chart1{
+    border-color: #C3D7BC;
+    width:360px;
+
+}
+#Chart2{
+    border-color: #C3D7BC;
+    width:400px;
+
+}
+#Chart3{
+    border-color: #C3D7BC;
+    width:320px;
+
+}
+#Chart4{
+    border-color: #C3D7BC;
+    width:320px;
+
+}
+
+#Chart7{
+    border-color: #C3D7BC;
+    width:500px;
+
+}
