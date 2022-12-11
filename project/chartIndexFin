@@ -1,0 +1,168 @@
+{
+  "$schema": "https://vega.github.io/schema/vega/v5.json",
+  "description": "An interactive line chart of stock prices, with returns shown relative to a selected date.",
+  "width": 650,
+  "height": 300,
+  "padding": 5,
+  "autosize": {"type": "fit", "contains": "padding"},
+
+  "signals": [
+    {
+      "name": "indexDate",
+      "update": "time('2005')",
+      "on": [
+        {
+          "events": "mousemove",
+          "update": "invert('x', clamp(x(), 0, width))"
+        }
+      ]
+    },
+    {
+      "name": "maxDate",
+      "update": "time('2021')"
+    }
+  ],
+
+  "data": [
+    {
+      "name": "stocks",
+      "url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/project/dataNCAAFinanceCLEANMeanByConf.csv",
+      "format": {"type": "csv", "parse": {"RevMinExp":"number", "Year":"date"}}
+    },
+    {
+      "name": "index",
+      "source": "stocks",
+      "transform": [
+        {
+          "type": "filter",
+          "expr": "year(datum.Year) == year(indexDate)"
+        }
+      ]
+    },
+    {
+      "name": "indexed_stocks",
+      "source": "stocks",
+      "transform": [
+        {
+          "type": "lookup", "from": "index", "key": "FBSConference",
+          "fields": ["FBSConference"], "as": ["index"], "default": {"RevMinExp": 0}
+        },
+        {
+          "type": "formula",
+          "as": "indexed_price",
+          "expr": "datum.index.RevMinExp > 0 ? (datum.RevMinExp - datum.index.RevMinExp)/datum.index.RevMinExp : 0"
+        }
+      ]
+    }
+  ],
+
+  "scales": [
+    {
+      "name": "x",
+      "type": "time",
+      "domain": {"data": "stocks", "field": "Year"},
+      "range": "width"
+    },
+    {
+      "name": "y",
+      "type": "linear",
+      "domain": {"data": "indexed_stocks", "field": "indexed_price"},
+      "nice": true, "zero": true,
+      "range": "height"
+    },
+    {
+      "name": "color",
+      "type": "ordinal",
+      "range": "category",
+      "domain": {"data": "stocks", "field": "FBSConference"}
+    }
+  ],
+
+  "axes": [
+    {"orient": "left", "scale": "y", "grid": true}
+  ],
+
+  "marks": [
+    {
+      "type": "group",
+      "from": {
+        "facet": {
+          "name": "series",
+          "data": "indexed_stocks",
+          "groupby": "FBSConference"
+        }
+      },
+      "data": [
+        {
+          "name": "label",
+          "source": "series",
+          "transform": [
+            { "type": "filter", "expr": "datum.Year == maxDate" }
+          ]
+        }
+      ],
+      "marks": [
+        {
+          "type": "line",
+          "from": {"data": "series"},
+          "encode": {
+            "update": {
+              "x": {"scale": "x", "field": "Year"},
+              "y": {"scale": "y", "field": "indexed_price"},
+              "stroke": {"scale": "color", "field": "FBSConference"},
+              "strokeWidth": {"value": 2}
+            }
+          }
+        },
+        {
+          "type": "text",
+          "from": {"data": "label"},
+          "encode": {
+            "update": {
+              "x": {"scale": "x", "field": "Year", "offset": 2},
+              "y": {"scale": "y", "field": "indexed_price"},
+              "fill": {"scale": "color", "field": "FBSConference"},
+              "text": {"field": "FBSConference"},
+              "baseline": {"value": "middle"}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "rule",
+      "encode": {
+        "update": {
+          "x": {"field": {"group": "x"}},
+          "x2": {"field": {"group": "width"}},
+          "y": {"value": 0.5, "offset": {"scale": "y", "value": 0, "round": true}},
+          "stroke": {"value": "black"},
+          "strokeWidth": {"value": 1}
+        }
+      }
+    },
+    {
+      "type": "rule",
+      "encode": {
+        "update": {
+          "x": {"scale": "x", "signal": "indexDate", "offset": 0.5},
+          "y": {"value": 0},
+          "y2": {"field": {"group": "height"}},
+          "stroke": {"value": "firebrick"}
+        }
+      }
+    },
+    {
+      "type": "text",
+      "encode": {
+        "update": {
+          "x": {"scale": "x", "signal": "indexDate"},
+          "y2": {"field": {"group": "height"}, "offset": 15},
+          "align": {"value": "center"},
+          "text": {"signal": "timeFormat(indexDate, '%Y')"},
+          "fill": {"value": "firebrick"}
+        }
+      }
+    }
+  ]
+}
