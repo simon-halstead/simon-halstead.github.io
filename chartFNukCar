@@ -1,0 +1,34 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {"url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/dataUKCarsClean.csv"},
+  "mark": "bar",
+
+  "transform": [{"filter":"datum.location == 'United Kingdom'"},
+  {"filter":"datum.date >= 1409526000000"}],
+    "encoding": {
+    "x": {
+      "field": "date",
+      "type": "ordinal",
+      "title":null,
+      "timeUnit":"yearquarter",
+      "axis":{
+        "labelSeparation":2
+      }
+    },
+    "y": {
+      "field":"Value",
+      "type": "quantitative",
+      "title":"No. of Cars, Thousands"
+    },
+    "color": {
+      "field": "Fuel",
+      "type": "nominal",
+      "scale":{
+        "domain":["Diesel","Petrol","Other fuels"],
+        "range":["red","blue","lime"]
+      },
+      "legend":{"orient": "top"}
+      }
+    }
+}
+
