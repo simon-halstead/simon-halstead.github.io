@@ -1,0 +1,47 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 300,
+  "height": {"step": 16},
+  "data": {"url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/project/dataNCAARevbySportCLEAN.csv"},
+  "title":{
+    "text":"College Sport: Revenues",
+    "subtitle":"Source: Equity in Athletics Database",
+    "subtitleFontSize":10
+  },
+  "transform": [
+    {"filter": "datum.Sport != 'Total'"},
+    {"filter": "datum.Total >= 50000000"},
+    {"calculate": "datum.Total / 1000000000","as":"ValueBill"}
+    ],
+  "encoding": {
+    "y": {
+      "field": "Sport",
+      "type": "nominal",
+      "axis": null
+    }
+  },
+  "layer": [{
+    "mark": {"type": "bar"},
+    "encoding": {
+      "x": {
+        "field": "ValueBill",
+        "type": "quantitative",
+        "title": "Billions of $"
+      },
+      "y":{
+        "sort":"-x",
+        "field": "Sport",
+        "type": "nominal"
+      },
+      "color":{"value":"lightblue"},
+    }
+  }, 
+    {
+    "mark": {"type": "text", "align": "left","x": 5},
+    "encoding": {
+      "text": {"field": "Sport"},
+    "y":{"field":"Sport",
+    "sort":""},
+    "detail":{"field":"Sport"}}
+  }]
+}
