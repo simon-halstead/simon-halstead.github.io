@@ -1,0 +1,40 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title":{
+    "text":"On3 NIL valuation for the top 100 male and female college basketball players","subtitle":["Female Athletes in red, Male in blue"]
+  },
+  "width": 500,"height": 300,
+  "data": {
+    "url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/project/dataNILBbll.csv"
+  },
+  "transform": [
+    {"calculate": "datum.FollowersT / 1000000","as":"FOllowers"},
+    {"calculate": "datum.NILVal / 10000","as":"NILVAL2"}
+  ],
+  "params": [{
+    "name": "view",
+    "select": "interval",
+    "bind": "scales"
+  }],
+  "mark": "circle",
+  "encoding": {
+    "y": {
+      "field": "FOllowers",
+      "type": "quantitative",
+      "scale": {"zero": false},
+      "axis": {"minExtent": 30},
+      "title":"Total Social Media Followers - Millions"
+    },
+    "x": {
+      "field": "NILVAL2",
+      "scale": {"type": "log"},
+      "title":"On3 NIL Valuation, Tens of Thousands of $"
+    },
+    "size": {"value":50},
+    "color": {
+      "condition":
+      {"test":"datum.basketball == 1", "value":"blue"},
+      "value":"red"
+    }
+  }
+}
