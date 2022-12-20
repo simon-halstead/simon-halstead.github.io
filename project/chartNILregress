@@ -1,0 +1,72 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title":{"text":"college bball womens top 100"},
+  "data": {
+    "url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/project/dataNILBbll.csv"
+  },
+  "transform": [{
+    "filter":"datum.basketball == 0"
+  }],
+  "layer": [
+
+    {
+      "mark": {
+        "type": "point",
+        "filled": true
+      },
+      "encoding": {
+        "x": {
+          "field": "NILVal",
+          "type": "quantitative"
+        },
+        "y": {
+          "field": "FollowersT",
+          "type": "quantitative"
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "line",
+        "color": "black"
+      },
+      "transform": [
+        {
+          "regression": "NILVal",
+          "on": "FollowersT",
+          "extent": [0,5000000]
+        }
+      ],
+      "encoding": {
+        "x": {
+          "field": "NILVal",
+          "type": "quantitative"
+        },
+        "y": {
+          "field": "FollowersT",
+          "type": "quantitative"
+        }
+      }
+    },
+    {
+      "transform": [
+        {
+          "regression": "NILVal",
+          "on": "FollowersT",
+          "params": true
+        },
+        {"calculate": "'R²: '+format(datum.rSquared, '.2f')", "as": "R2"}
+      ],
+      "mark": {
+        "type": "text",
+        "color": "firebrick",
+        "x": "width",
+        "align": "right",
+        "y": -5
+      },
+      "encoding": {
+        "text": {"type": "nominal", "field": "R2"}
+      }
+    }
+  ]
+}
