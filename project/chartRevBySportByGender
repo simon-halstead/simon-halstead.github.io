@@ -1,0 +1,73 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "A population pyramid for the US in 2000.",
+  "data": { "url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/project/dataRevbySportbyGenderCLEAN.csv"},
+  "title":{"text":"Revenues"},
+  "transform": [
+    {"filter": "datum.Sport != 'Total'"},
+    {"filter":"datum.Total >= 10000000"}
+
+  ],
+  "spacing": 0,
+  "hconcat": [{
+    "height":400,
+    "transform": [],
+    "title": "Female",
+    "mark": "bar",
+    "encoding": {
+      "y": {
+        "field": "Sport", "axis":null, "type": "ordinal"
+      },
+      "x": {
+        "field": "Women",
+        "title": "Total",
+        "type": "quantitative",
+        "sort":"descending",
+        "axis":{"format":"~"},
+        "scale":{"domainMax":4500000000}
+      },
+      "color": {
+        "value":"blue",
+        "legend": null
+      }
+    }
+  }, {
+    "width": 20,
+    "view": {"stroke": null},
+    "height":400,
+    "mark": {
+      "type": "text",
+      "align": "center"
+    },
+    "encoding": {
+      "y": {"field": "Sport", "type": "ordinal", "axis": null},
+      "text": {"field": "Sport", "type": "nominal"}
+    }
+  }, {
+    "transform": [],
+    "title": "Male",
+    "mark": "bar",
+    "height":400,
+    "encoding": {
+      "y": {
+        "field": "Sport", "title": null,
+        "type": "ordinal",
+        "axis" : null
+      },
+      "x": {
+        "field": "Men",
+        "title": "Total",
+        "type": "quantitative",
+        "axis":{"format":"~"}
+      },
+      "color": {
+        "legend": null,
+        "value": "red"
+      }
+    }
+  }],
+  "config": {
+    "view": {"stroke": null},
+    "axis": {"grid": false}
+  }
+}
