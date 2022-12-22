@@ -1,0 +1,77 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- working issues - fonts, graphs and alignment - continued formatting -->
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Title for the page -->
+    <title>Project</title>
+
+    <!-- Link to my style sheet -->
+    <link rel="stylesheet" href="index.css">
+
+    <!--The next three lines allow the Vega embed-->
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.17.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.17.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.12.2"></script>
+
+   
+</head>
+
+
+
+<body>
+
+    <div class="wrap">
+        <div class="col"><a href="index.html" id="link3">Home</a></div>
+        
+        <div class="col"><a href="project.html" id="link2">Project</a></div>
+      
+        <div class="col"><a href="hw.html" id="link1">Homeworks</a></div>
+    </div>
+
+
+    <header class="top" id="homeworks">
+        <h1>Project</h1>
+    </header>
+
+
+    <h1>Gender Inequalities in American College Sports</h1>
+  
+    <div class="block1">
+
+        <div class="chart" id="Chart1"></div>
+       
+        <p>
+
+        </p>
+    </div>
+    
+
+</body>
+
+<script>
+    //Define charts:
+   
+    var myChart1 = "chartNILBballRegress.json";
+    var myChart3 = "IMFlending.json";
+
+    // Embed charts:
+
+    vegaEmbed('#Chart1', myChart1);
+    vegaEmbed('#Chart3', myChart3);
+    
+    
+
+</script>
+
+
+
+</html>
+
+
