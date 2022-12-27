@@ -44,6 +44,8 @@
     {
       "mark": "bar",
       "encoding": {
+        "tooltip":[{"field":"SportRev","title":"Sport"},
+        {"field":"Womens Sports","format":".3f","title":"Womens' Profit"}],
         "x": {
           
           "field": "SportRev",
@@ -59,11 +61,13 @@
         },
         "color":{"datum":"Womens Sports","value":"blue"},
         "opacity":{"value":0.5}
-      }
+      },
     },
     {
       "mark": "bar",
       "encoding": {
+        "tooltip":[{"field":"SportRev","title":"Sport"},
+        {"field":"Mens Sports","format":".3f","title":"Mens' Profit"}],
         "x": {
           "field": "SportRev",
           "type": "ordinal"
