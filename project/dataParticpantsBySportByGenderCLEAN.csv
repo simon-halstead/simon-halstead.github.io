@@ -1,0 +1,39 @@
+,Sport,Male Teams,Female Teams,Coed Teams 
+0,Archery ,7.0,6.0,6.0
+1,Badminton ,,1.0,
+2,Baseball ,1520.0,,
+3,Basketball ,1457.0,1419.0,
+4,Beach Volleyball ,,120.0,
+5,Bowling ,91.0,159.0,1.0
+6,All Track Combined ,612.0,673.0,
+7,Diving ,3.0,5.0,
+8,Equestrian ,,32.0,10.0
+9,Fencing ,19.0,24.0,1.0
+10,Field Hockey ,,183.0,
+11,Football ,629.0,,
+12,Golf ,1090.0,890.0,1.0
+13,Gymnastics ,12.0,87.0,
+14,Ice Hockey ,111.0,77.0,
+15,Lacrosse ,412.0,511.0,
+16,Rifle ,1.0,8.0,29.0
+17,Rodeo ,56.0,57.0,11.0
+18,Rowing ,59.0,129.0,
+19,Sailing ,2.0,12.0,19.0
+20,Skiing ,27.0,26.0,
+21,Soccer ,1043.0,1221.0,
+22,Softball ,,1491.0,
+23,Squash ,5.0,4.0,
+24,Swimming ,207.0,238.0,
+25,Swimming and Diving ,198.0,265.0,
+26,Synchronized Swimming ,,4.0,
+27,Table Tennis ,,,
+28,Team Handball ,,,
+29,Tennis ,800.0,954.0,1.0
+30,"Track and Field, Indoor ",153.0,161.0,
+31,"Track and Field, Outdoor ",441.0,466.0,
+32,"Track and Field, X-Country ",420.0,417.0,
+33,Volleyball ,182.0,1292.0,
+34,Water Polo ,41.0,58.0,
+35,Weight Lifting ,7.0,7.0,2.0
+36,Wrestling ,306.0,65.0,1.0
+37,Other Sports ,47.0,118.0,123.0
