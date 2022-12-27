@@ -1,0 +1,80 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 300,
+  "height": 300,
+  "title": {
+    "text": "College Sports by participants",
+    "subtitle": ["Sports with at least 100 Mens' and Womens' Teams each", "source: Equity in Athlethics (US DoE)"],
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 12,
+    "fontSize":16,
+    "anchor": "start",
+    "color": "black"
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/project/dataParticpantsBySportByGenderCLEAN.csv"
+  },
+
+
+  "transform": [{
+    "filter": "datum.Sport != 'Total'"
+  },
+  {"filter": "datum.FemaleTeams >= 200"},
+  {"filter": "datum.MaleTeams >= 200"},
+  {"filter": "datum.Sport != 'Track and Field, Indoor '"},
+  {"filter": "datum.Sport != 'Track and Field, Outdoor '"},
+  {"filter": "datum.Sport != 'Track and Field, X-Country '"}],
+
+
+
+  "encoding": {"color": {"legend":{
+    "orient": "top-right"
+    }
+  }
+  },
+  "layer": [
+    {
+      "mark": "bar",
+      "encoding": {
+        "tooltip":[{"field":"Sport","title":"Sport"},
+        {"field":"FemaleTeams","format":".0f","title":"No. of Womens Teams"}],
+        "x": {
+          
+          "field": "Sport",
+          "title":"",
+          "type": "ordinal",
+          "axis":{"labelFontSize":14}
+        },
+        "y": {
+        
+          "field": "FemaleTeams",
+          "type": "quantitative",
+          "title":"No. of Teams",
+          "axis":{"titleFontSize":16}
+        },
+        "color":{"datum":"Womens Sports","value":"blue"},
+        "opacity":{"value":0.5}
+      },
+    },
+    {
+      "mark": "bar",
+      "encoding": {
+        "tooltip":[{"field":"Sport","title":"Sport"},
+        {"field":"MaleTeams","format":".0f","title":"No. of Mens Teams"}],
+        "x": {
+          "field": "Sport",
+          "type": "ordinal"
+
+        },
+        "y": {
+          "field": "MaleTeams",
+          "type": "quantitative"
+
+        },
+        "color":{"datum":"Mens Sports","title":"Gender"},
+        "opacity":{"value":0.5}
+      
+      }
+    }
+  ]
+}
