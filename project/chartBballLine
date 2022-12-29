@@ -1,0 +1,20 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Stock prices of 5 Tech Companies over Time.",
+  "data": {"url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/project/dataLONGQuartileTenthBballFinancesYearonYearCLEAN.csv"},
+  "mark": "line",
+  "transform": [
+    {"filter":"datum.Val != 0"},
+    {"filter":"datum.level_1 != 0.9"},
+    {"filter":"datum.level_2 == 'RevenuesMensTeam' | datum.level_2 == 'RevenuesWomensTeam'"}
+    ],
+  "encoding": {
+    "x": {"field": "SurveyYear", "type": "temporal"},
+    "y": {"field": "Val", "type": "quantitative"},
+    "color": {"field": "type", "type": "nominal",
+    "scale": {
+        "domain": ["RevenuesMensTeam0.1", "RevenuesMensTeam0.25", "RevenuesMensTeam0.5", "RevenuesMensTeam0.75","RevenuesMensTeam0.9"],
+        "range": ["black", "#127153", "#C91A3C", "#0C71AB"]}
+  }
+}
+}
