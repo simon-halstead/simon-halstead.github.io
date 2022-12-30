@@ -1,0 +1,14 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {"url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/project/dataBasketballSchoolbySchoolSummary.csv"},
+  "mark": "rect",
+  "encoding": {
+    "y": {"field": "stat", "type": "nominal","axis":null},
+    "x": {"field": "variable", "type": "nominal","axis":null},
+    "color": {"field": "Val","type": "quantitative",
+    "scale":{"scheme":"blueorange"},"legend":null}
+  },
+  "config": {
+    "axis": {"grid": true, "tickBand": "extent"}
+  }
+}
