@@ -1,0 +1,119 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width":300,
+  "height":300,
+  "title":{"text":"College Basketball top 100 Women's Athletes","subtitle":"by On3 NIL Valuation, source: On3",
+  "subtitleFontStyle": "italic",
+    "subtitleFontSize": 12,
+    "anchor": "start",
+    "color": "black"},
+  "data": {
+    "url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/project/dataBasketballSchoolbySchoolRegression.csv"
+  },
+
+  // "params": [
+  //     {"name": "Select",
+  //       "value": "Mens",
+  //       "bind": {
+  //         "input": "select",
+  //         "options": [
+  //           "Mens","Womens"],
+  //           "name": "Gender:"}}],
+
+  // https://carnegieclassifications.acenet.edu/classification_descriptions/size_setting.php
+
+  "transform": [
+  //   {
+  //   "filter":"datum.gender == Select"
+  // },
+  {"filter":"datum.UGratioBG <= 1.5"},
+  {"filter":"datum.SurveyYear == 2020"},
+  {"filter":"datum.FemaleUndergraduates >= 1000"},
+  {"filter":"datum.MaleUndergraduates >= 1000"}
+  ],
+  "config": {
+    "view": {"stroke": null},
+    "axis": {"grid": false},
+    "selection": {}
+  },
+  "layer": [
+
+    {
+      "mark": {
+        "type": "point",
+        
+        "filled": true,
+        "tooltip":true,
+        "size":60
+      },
+      
+      "encoding": {
+        "x": {
+          "field": "MaleUndergraduates",
+          "type": "quantitative",
+          "title":"O",
+          // "axis":{"format":"~s",
+          // "titleFontSize":14}
+          
+          
+        },
+        "y": {
+          "field": "OperatingExpensesperTeamMensTeam",
+          "type": "quantitative",
+          "title":"Social Media Followers",
+          "axis":{"format":"~s",
+          "titleFontSize":14}
+        },
+        "tooltip":[{"field":"InstitutionName"},
+        {"field":"MaleUndergraduates","title":"On3 NIL Valuation"},
+        {"field":"RevenuesMensTeam","title":"Social Meida Following","format":"~s"}],
+        "color":{"field":"MaleUndergraduates","type": "quantitative", "scale":{"scheme":"redblue","reverse":false},
+        "legend":{"orient": "top-left"}},
+        "opacity":{"value":0.5}
+      }
+    },
+    {
+      "mark": {
+        "type": "line",
+        "color": "black"
+      },
+      "transform": [
+        {
+          "regression": "MaleUndergraduates",
+          "on": "OperatingExpensesperTeamMensTeam",
+          "extent": [0,6500000]
+        }
+      ],
+      "encoding": {
+        "x": {
+          "field": "MaleUndergraduates",
+          "type": "quantitative"
+        },
+        "y": {
+          "field": "OperatingExpensesperTeamMensTeam",
+          "type": "quantitative"
+        }
+      }
+    },
+    {
+      "transform": [
+        {
+          "regression": "MaleUndergraduates",
+          "on": "OperatingExpensesperTeamMensTeam",
+          "params": true
+        },
+        {"calculate": "'R²: '+format(datum.rSquared, '.2f')", "as": "R2"}
+      ],
+      "mark": {
+        "type": "text",
+        "color": "firebrick",
+        "x": "width",
+        "align": "right",
+        "y": -5
+      },
+      "encoding": {
+        "text": {"type": "nominal", "field": "R2"}
+      }
+    }
+  ]
+}
