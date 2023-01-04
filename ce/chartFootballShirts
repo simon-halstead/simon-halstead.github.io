@@ -1,0 +1,216 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Google's stock price over time.",
+  "data": {"url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/detrendingFootballShirts.csv"},
+  "title":{"text":"The Price of Football Shirts - UK All Regions","subtitle":["Split by Gender (click gender in legend to isolate)","Source: ONS & Davies"],
+  "subtitleFontStyle": "italic",
+    "subtitleFontSize": 12,
+    "fontSize": 16,
+    "anchor": "start",
+    "color": "black"},
+  "width":500,
+  "height":500,
+  "transform": [
+    {"filter":"datum.regionDesc != 'Catalogue'"},
+    {"filter":"datum.regionDesc != 'undefined'"},
+    {"filter":"datum.date >= 300"}
+  ],
+
+  "layer":[
+  
+  /////////////////////////////////
+  {"mark": "line",
+  "encoding": {
+    "x": {"field": "quote_date", "type": "temporal","timeUnit":"yearmonth","axis": {"grid": false, "ticks": false},
+    "title":null
+
+},
+    "y": {"field": "priceMean_error", "type": "quantitative","axis": {"grid": true, "ticks": true},
+    "title":"Difference from predicted growth trend"},
+    "color":{"value":"#002af7"}
+  }
+  },
+//////////////////////////////////////////////
+  {
+   "mark": {"type":"rule","strokeDash":"4,4"},
+   "data":{
+    "values":[
+      {
+        "start": 202112,
+        "event":"Euro 2016"
+      }
+    ],
+    "format":{"parse":{"start":"date:'%Y%m'"}}
+   },
+      "encoding": {
+        "x": {
+          "field": "start",
+          "timeUnit": "yearmonth",
+          "type": "temporal"
+        },
+        "color": {"value": "black"}
+      }
+    },
+    {
+   "mark": {"type":"rule","strokeDash":"4,4"},
+   "data":{
+    "values":[
+      {
+        "start": 202012,
+        "event":"Euro 2016"
+      }
+    ],
+    "format":{"parse":{"start":"date:'%Y%m'"}}
+   },
+      "encoding": {
+        "x": {
+          "field": "start",
+          "timeUnit": "yearmonth",
+          "type": "temporal"
+        },
+        "color": {"value": "black"}
+      }
+    },
+    {
+   "mark": {"type":"rule","strokeDash":"4,4"},
+   "data":{
+    "values":[
+      {
+        "start": 201912,
+        "event":"Euro 2016"
+      }
+    ],
+    "format":{"parse":{"start":"date:'%Y%m'"}}
+   },
+      "encoding": {
+        "x": {
+          "field": "start",
+          "timeUnit": "yearmonth",
+          "type": "temporal"
+        },
+        "color": {"value": "black"}
+      }
+    },
+    {
+   "mark": {"type":"rule","strokeDash":"4,4"},
+   "data":{
+    "values":[
+      {
+        "start": 201812,
+        "event":"Euro 2016"
+      }
+    ],
+    "format":{"parse":{"start":"date:'%Y%m'"}}
+   },
+      "encoding": {
+        "x": {
+          "field": "start",
+          "timeUnit": "yearmonth",
+          "type": "temporal"
+        },
+        "color": {"value": "black"}
+      }
+    },
+    {
+   "mark": {"type":"rule","strokeDash":"4,4"},
+   "data":{
+    "values":[
+      {
+        "start": 201712,
+        "event":"Euro 2016"
+      }
+    ],
+    "format":{"parse":{"start":"date:'%Y%m'"}}
+   },
+      "encoding": {
+        "x": {
+          "field": "start",
+          "timeUnit": "yearmonth",
+          "type": "temporal"
+        },
+        "color": {"value": "black"}
+      }
+    },
+    {
+   "mark": {"type":"rule","strokeDash":"4,4"},
+   "data":{
+    "values":[
+      {
+        "start": 201612,
+        "event":"Euro 2016"
+      }
+    ],
+    "format":{"parse":{"start":"date:'%Y%m'"}}
+   },
+      "encoding": {
+        "x": {
+          "field": "start",
+          "timeUnit": "yearmonth",
+          "type": "temporal"
+        },
+        "color": {"value": "black"}
+      }
+    },
+    {
+   "mark": {"type":"rule","strokeDash":"4,4"},
+   "data":{
+    "values":[
+      {
+        "start": 201512,
+        "event":"Euro 2016"
+      }
+    ],
+    "format":{"parse":{"start":"date:'%Y%m'"}}
+   },
+      "encoding": {
+        "x": {
+          "field": "start",
+          "timeUnit": "yearmonth",
+          "type": "temporal"
+        },
+        "color": {"value": "black"}
+      }
+    },
+    {
+   "mark": {"type":"rule","strokeDash":"4,4"},
+   "data":{
+    "values":[
+      {
+        "start": 201412,
+        "event":"Euro 2016"
+      }
+    ],
+    "format":{"parse":{"start":"date:'%Y%m'"}}
+   },
+      "encoding": {
+        "x": {
+          "field": "start",
+          "timeUnit": "yearmonth",
+          "type": "temporal"
+        },
+        "color": {"value": "black"}
+      }
+    },
+    {
+   "mark": {"type":"rule","strokeDash":"4,4"},
+   "data":{
+    "values":[
+      {
+        "start": 201312,
+        "event":"Euro 2016"
+      }
+    ],
+    "format":{"parse":{"start":"date:'%Y%m'"}}
+   },
+      "encoding": {
+        "x": {
+          "field": "start",
+          "timeUnit": "yearmonth",
+          "type": "temporal"
+        },
+        "color": {"value": "black"}
+      }
+    }
+  ],
+
+}
