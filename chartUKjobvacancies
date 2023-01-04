@@ -1,0 +1,15 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Google's stock price over time.",
+  "data": {"url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/dataUKJobVacanciesCLEAN.csv"},
+"width":400,
+"transform": [{
+  "groupby": ["year"],
+  "aggregate": [{"field": "Thousands","op": "average","as": "MonthlyAve"}]
+}],
+  "mark": "line",
+  "encoding": {
+    "x": {"field": "year", "type": "temporal"},
+    "y": {"field": "MonthlyAve", "type": "quantitative"}
+  }
+}
