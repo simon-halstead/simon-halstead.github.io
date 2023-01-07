@@ -1,0 +1,55 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {"url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/dataHDI.csv"},
+  "title":{"text":"HDI Heatmap","subtitle":"Source: UN Human Development Reports",
+  "subtitleFontStyle": "italic",
+    "subtitleFontSize": 12,
+    "fontSize":16,
+    "anchor": "start",
+    "color": "black"},
+ 
+  "params": [
+      {"name": "Select",
+        "value": "Expected years of schooling",
+        "bind": {
+          "input": "select",
+          "options": [
+            "Life expectancy at birth","Expected years of schooling","Mean years of schooling","Gross national income (GNI) per capita"],
+            "name": " "}}],
+
+  "transform": [{
+    "filter": {"and": [
+      {"field": "Mean years of schooling", "valid": true},
+      {"field": "Life expectancy at birth", "valid": true}
+    ]}
+  },
+  {"calculate": "datum[Select]","as": "varSelected"}],
+  "mark": "rect",
+  "width": 300,
+  "height": 300,
+  "encoding": {
+    "x": {
+      "bin": {"maxbins":40},
+      "field": "varSelected",
+      "type": "quantitative",
+       "title":"Selected Variable"
+    },
+    "y": {
+      "bin": {"maxbins": 30},
+      "field": "HDIValue",
+      "type": "quantitative",
+          "title":"HDI",
+          "axis":{"titleFontSize":16}
+    },
+    "color": {
+      "aggregate":"count",
+      "type": "quantitative",
+      "legend":{"orient": "bottom-right"}
+    }
+  },
+  "config": {
+    "view": {
+      "stroke": "transparent"
+    }
+  }
+}
