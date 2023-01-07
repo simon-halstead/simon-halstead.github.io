@@ -1,0 +1,95 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/dataHDI.csv"
+  },
+
+  "title":{"text":"HDI Regressed on its Components","subtitle":"Source: UN Human Development Reports",
+  "subtitleFontStyle": "italic",
+    "subtitleFontSize": 12,
+    "fontSize":16,
+    "anchor": "start",
+    "color": "black"},
+
+  "width":300,
+  "height":300,
+  "params": [
+      {"name": "Select",
+        "value": "Expected years of schooling",
+        "bind": {
+          "input": "select",
+          "options": [
+            "Life expectancy at birth","Expected years of schooling","Mean years of schooling","Gross national income (GNI) per capita"],
+            "name": " "}}],
+
+    "transform": [{"calculate": "datum[Select]","as": "varSelected"}],
+
+  "layer": [
+    {
+      "mark": {
+        "type": "point",
+        "filled": true,
+        "size":40
+      },
+      "encoding": {
+        "x": {
+          "field": "varSelected",
+          "type": "quantitative",
+          "title":"Selected Variable"
+        },
+        "y": {
+          "field": "HDIValue",
+          "type": "quantitative",
+          "title":"HDI",
+          "axis":{"titleFontSize":16}
+        },
+        "color":{"field":"Group","type": "nominal",
+        "legend":{"orient":"bottom-right"}},
+        "tooltip":[{"field":"Country"}]
+      }
+    },
+    {
+      "mark": {
+        "type": "line",
+        "color": "firebrick"
+      },
+      "transform": [
+        {
+          "regression": "varSelected",
+          "on": "HDIValue",
+          "extent": [0.2,1]
+        }
+      ],
+      "encoding": {
+        "x": {
+          "field": "varSelected",
+          "type": "quantitative"
+        },
+        "y": {
+          "field": "HDIValue",
+          "type": "quantitative"
+        }
+      }
+    },
+    {
+      "transform": [
+        {
+          "regression": "varSelected",
+          "on": "HDIValue",
+          "params": true
+        },
+        {"calculate": "'R²: '+format(datum.rSquared, '.2f')", "as": "R2"}
+      ],
+      "mark": {
+        "type": "text",
+        "color": "firebrick",
+        "x": "width",
+        "align": "right",
+        "y": -5
+      },
+      "encoding": {
+        "text": {"type": "nominal", "field": "R2"}
+      }
+    }
+  ]
+}
