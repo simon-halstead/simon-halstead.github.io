@@ -1,0 +1,52 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+ 
+  "data": {"url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/project/dataParticpantsBySportByGenderCLEAN.csv"
+  },
+  "title": {
+    "text": "College Sports Participation",
+    "subtitle": [
+      "Dasahed lines are mean no. of teams by gender",
+      "source: Equity in Athlethics (US DoE)"
+    ],
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 12,
+    "fontSize": 16,
+    "anchor": "start",
+    "color": "black"
+  },
+  "width":300,
+  "height":300,
+  "transform": [{
+    "filter":"datum.Sport != 'Total'"
+  }],
+  "layer":[{
+  "mark": {"type":"point","filled":true},
+  "encoding": {
+    "x": {"field": "MaleTeams", "type": "quantitative","title":"No. of Male Teams",
+    "axis":{"titleFontSize":16}},
+    "y": {"field": "FemaleTeams", "type": "quantitative","title":"No. of Female Teams",
+    "axis":{"titleFontSize":16}},
+    
+    "color":{"field":"TotalParticpants","type":"quantitative", "legend":{"title":"Total Participants","orient": "bottom","offset":0,"direction": "horizontal"},
+    "scale":{"scheme":"viridis"}},
+    
+    "tooltip":[{"field":"Sport"},{"field":"Total","title":"Total Teams","format":".0f"},
+    {"field":"TotalParticpants","title":"Total Participants","format":".0f"}],
+    
+    "size":{"field":"Total","type": "quantitative","legend":{"orient": "bottom-right","title":"Total Teams","labelFontSize":12,"offset":10}}
+  }
+  },
+  {"mark":{"type": "rule","strokeDash":[4]},
+  "encoding": {
+    "x":{"aggregate":"mean","field":"MaleTeams"}
+ 
+  }
+  },
+  {"mark":{"type": "rule","strokeDash":[4]},
+  "encoding": {
+   "y":{"aggregate":"mean","field":"FemaleTeams"}
+  }
+  }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+  "title": {
+    "text": "Combining EiA and KNCA",
+    "subtitle":["Operating expenses is for basketball teams"],
+    
+    "align": "left",
+    "anchor": "start"
+  },
+
+  "transform": [
+    {"calculate": "datum.TotalUG","as": "Total Undergrads"},
+    {"calculate": "datum.OperatingExpensesperTeamMensTeam","as": "Operating Expenses / Mens Team"},
+    {"calculate": "datum.OperatingExpensesperTeamWomensTeam","as": "Operating Expenses / Womens Team"},
+    {"calculate": "datum.TotalAcademicSpendingUniversityWide","as": "Total Academic Spending"},
+    {"calculate": "datum.TotalInstitutionalGovernmentSupportandStudentFees","as": "Student Fees and Government Support"},
+    {"calculate": "datum.CompGuaranteesRev","as": "Competition Prize Money"}
+
+    ],
+  "repeat": {
+    "row": ["Operating Expenses / Mens Team", "Operating Expenses / Womens Team", "Total Undergrads"],
+    "column": ["Total Academic Spending", "Student Fees and Government Support", "Competition Prize Money"]
+  },
+
+  "spec": {
+    "data": {"url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/project/dataEIAKNcomb.csv"},
+    "width":200,
+    "height":200,
+    "mark": "circle",
+    
+    "encoding": {
+      "x": {"field": {"repeat": "column"}, "type": "quantitative","axis":{"format":"~s"}},
+      "y": {
+        "field": {"repeat": "row"},
+        "type": "quantitative",
+        "axis": {"minExtent": 30}
+      },
+      "color": {
+        
+          "field": "SurveyYear",
+          "type": "temporal",
+          "timeUnit":"year",
+          "scale":{"scheme":"blueorange"},
+          "legend":{"title":"Year","orient": "top"}
+       
+  
+      }
+    }
+  }
+}

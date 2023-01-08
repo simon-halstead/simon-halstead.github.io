@@ -1,0 +1,23 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title":["Goals and Expected Goals","Premier League, 22/23"],
+    "description": "Goals and Expected Goals by week, Premier League",
+    "data": {"url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/dataxgvtgfpl251122v4.csv"},
+    "width": 400,
+    "height": 400,
+    "mark": {
+      "type": "line",
+      "point": true
+    },
+    "encoding": {
+      "x": {"field": "Wk", "type": "quantitative","title": "Week"},
+      "y": {"aggregate":"sum", "field": "Count", "type": "quantitative","title": ""}, 
+  
+      "color": {"field":"GvxG", "type": "nominal",
+      "scale": {"range": ["blue","red"]},
+      "legend":{"labelExpr": "{'TG':'G','TxG':'xG'}[datum.label]",
+      "title": null}
+  
+      }
+      }
+    }

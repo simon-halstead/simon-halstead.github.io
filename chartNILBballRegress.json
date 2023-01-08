@@ -1,0 +1,109 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width":300,
+    "height":300,
+    "title":{"text":"College Basketball Top 100 Athletes","subtitle":"by On3 NIL Valuation, source: On3",
+    "subtitleFontStyle": "italic",
+      "subtitleFontSize": 12,
+      "anchor": "start",
+      "color": "black"},
+    "data": {
+      "url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/project/dataNILBbll.csv"
+    },
+  
+    "params": [
+        {"name": "Select",
+          "value": "Mens",
+          "bind": {
+            "input": "select",
+            "options": [
+              "Mens","Womens"],
+              "name": "Gender:"}}],
+  
+    "transform": [{
+      "filter":"datum.gender == Select"
+    }],
+    "config": {
+      "view": {"stroke": null},
+      "axis": {"grid": false},
+      "selection": {}
+    },
+    "layer": [
+  
+      {
+        "mark": {
+          "type": "point",
+          
+          "filled": true,
+          "tooltip":true,
+          "size":60
+        },
+        
+        "encoding": {
+          "x": {
+            "field": "NILVal",
+            "type": "quantitative",
+            "title":"On3 NIL Valuation",
+            "axis":{"format":"~s",
+            "titleFontSize":14}
+            
+          },
+          "y": {
+            "field": "FollowersT",
+            "type": "quantitative",
+            "title":"Social Media Followers",
+            "axis":{"format":"~s",
+            "titleFontSize":14}
+          },
+          "tooltip":[{"field":"Name"},
+          {"field":"NILVal","title":"On3 NIL Valuation","format":"~s"},
+          {"field":"FollowersT","title":"Social Meida Following","format":"~s"}],
+          "color":{"field":"Rank","type": "quantitative", "scale":{"scheme":"redblue","reverse":false},
+          "legend":{"orient": "top-left"}}
+        }
+      },
+      {
+        "mark": {
+          "type": "line",
+          "color": "black"
+        },
+        "transform": [
+          {
+            "regression": "NILVal",
+            "on": "FollowersT",
+            "extent": [0,5000000]
+          }
+        ],
+        "encoding": {
+          "x": {
+            "field": "NILVal",
+            "type": "quantitative"
+          },
+          "y": {
+            "field": "FollowersT",
+            "type": "quantitative"
+          }
+        }
+      },
+      {
+        "transform": [
+          {
+            "regression": "NILVal",
+            "on": "FollowersT",
+            "params": true
+          },
+          {"calculate": "'R²: '+format(datum.rSquared, '.2f')", "as": "R2"}
+        ],
+        "mark": {
+          "type": "text",
+          "color": "firebrick",
+          "x": "width",
+          "align": "right",
+          "y": -5
+        },
+        "encoding": {
+          "text": {"type": "nominal", "field": "R2"}
+        }
+      }
+    ]
+  }

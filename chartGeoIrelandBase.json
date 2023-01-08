@@ -1,35 +1,36 @@
 
 {
-  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 300,
-  "height": 300,
-  "title": {
-    "text": "Republic of Ireland",
-    "subtitle":["Mercator projection"],
-    "subtitleFontStyle":"italic",
-    "subtitleFontSize":10,
-    "subtitlePadding":5,
-    "anchor": "middle",
-    "color": "black"
-  },
-  "data": {
-    "url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/geoIreland.json",
-    "format": {"type":"topojson","feature": "IRL_adm1"}
-  },
-
-
-
-
-
-  "projection": {"type":"mercator"},
-  "mark": {
-      "type": "geoshape",
-      "stroke": "darkgray",
-      "fill": "aliceblue",
-      "strokeWidth":0.5},
-      "encoding": {
-    "tooltip":[{"field":"properties.NAME_1","title":"Country"}]}
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 300,
+    "height": 300,
+    "title": {
+      "text": "Republic of Ireland",
+      "subtitle":["Mercator projection"],
+      "subtitleFontStyle":"italic",
+      "subtitleFontSize":10,
+      "subtitlePadding":5,
+      "anchor": "middle",
+      "color": "black"
+    },
+    "data": {
+      "url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/geoIreland.json",
+      "format": {"type":"topojson","feature": "IRL_adm1"}
+    },
   
-}
-
-
+  
+  
+  
+  
+    "projection": {"type":"mercator"},
+    "mark": {
+        "type": "geoshape",
+        "stroke": "darkgray",
+        "fill": "aliceblue",
+        "strokeWidth":0.5},
+        "encoding": {
+      "tooltip":[{"field":"properties.NAME_1","title":"Country"}]}
+    
+  }
+  
+  
+  

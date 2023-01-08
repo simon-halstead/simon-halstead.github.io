@@ -1,0 +1,28 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  
+    "width":200,
+    "height":150,
+    
+        "data":{"url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/ONSdash/data_ONS-LMSKAC3.json",
+  
+        
+        "format": {
+             "type":"json",
+             "property": "months"}},
+        "title":["Whole Economy","Three Month Average Pay Growth"],
+        "mark": "line",
+        "encoding": {
+          "x": {
+            "timeUnit": "yearmonth",
+            "field": "date",
+            "type": "temporal",
+            "title":null
+          },
+          "y": {
+            "field": "value",
+            "type": "quantitative",
+            "title": "% change"
+          }
+        }
+      }

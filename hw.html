@@ -76,7 +76,7 @@
         <p>The second chart shows this lending as a ratio of global Gross 
             Domestic Product </p>
         <div class="chart" id="Chart4"></div>
-        <p>Which is riskier plus change chart to make clearer it is a ratio?</p>
+        <p>When adjusting for GDP, 1984 appears to actually be the more risky year for investing.</p>
     </div>
 
     <div class="myWeek3">
@@ -91,7 +91,7 @@
 
         <p></p>
         <div class="chart" id="Chart6"></div>
-        <p>check diff visual coding maybe change opacity of dots in second</p>
+        <p></p>
     </div>
 
     <div class="myWeek4">
@@ -99,11 +99,16 @@
 
         <h3>Colours</h3>
 
-        <P>.</P>    
+        <P><a href="https://htmlcolorcodes.com/color-names/"
+            id="link5">This site</a> listed all colours supported in HTML and CSS, <BR>
+            with RGB values to plot,
+            and HEX codes to format the chart.
+        </P>    
         <div class="chart" id="Chart7"></div>
 
+
         <p>Here is the link to the
-            <a href=""
+            <a href="https://colab.research.google.com/drive/1uCsTHWcqHSK9AZiLOOUxIeT06ju136EH?usp=sharing"
              id="link5">Colab Notebook</a>
         </p>
     </div>
@@ -113,11 +118,27 @@
 
         <h3>ONS data</h3>
 
-        <P>work out fotmatting</P>    
+        <P>Pay Growth</P>    
         
-        <div class="chart" id="Chart8"></div>
-        <p>Here is the link to the Colab notebook
-            <a href="https://www.ft.com/content/eddedee3-669d-42cc-9597-33609a8bff99"
+        <div class="chartmult" id="multONS1">
+            <div class="chart" id="ChartONS1"></div>
+            <div class="chart" id="ChartONS2"></div>
+            <div class="chart" id="ChartONS3"></div>
+        </div>
+        <p>Economic Inactivity</p>
+        <div class="chartmult" id="multONS2">
+            <div class="chart" id="ChartONS4"></div>
+            <div class="chart" id="ChartONS5"></div>
+            <div class="chart" id="ChartONS6"></div>
+        </div>
+        <p>Tourism</p>
+        <div class="chartmult" id="multONS3">
+            <div class="chart" id="ChartONS7"></div>
+            <div class="chart" id="ChartONS8"></div>
+            <div class="chart" id="ChartONS9"></div>
+        </div>
+        <p>Here is the link to the 
+            <a href="https://colab.research.google.com/drive/1LyED_sOnOiS-yZ-cYAhUDINjMf10a_JM?usp=sharing"
              id="link5">Colab Notebook</a>
         </p>
     </div>
@@ -141,12 +162,55 @@
 
         <h3>Difference in Wage Growth between Public and Private sectors.</h3>
 
-        <P>Base Map</P>    
+        <P>At the Festival of Economics the difference in public and private sector wages was discussed, public wages are not inflating at the rate of private wages, due to them being linked to government spending.</P>    
         
         <div class="chart" id="Chart11"></div>
-        <p>The below map presents a breakdown of internal tax revenues collected by the Irish government in 2021, and highlights the key role of Dublin in the Irish economy.</p>
 
+        
+        <p>With an increasing number of vacancies, there was a suggestion that we may see labour move from the public to the private market.</p>
         <div class="chart" id="Chart12"></div>
+        <!-- <div class="chart" id="Chart12"></div> -->
+    </div>
+
+    <div class="myWeek9">
+        <h2>Week 9: Advanced Charts</h2>
+
+        <h3>Human Development Index</h3>
+
+        <P>These two advanced charts show different ways of presenting the same data.</P>    
+        <div class="chart" id="Chart13"></div>
+ 
+
+        <div class="chart" id="Chart14"></div>
+
+    </div>
+
+    <div class="myWeek10">
+        <h2>Week 10: Machine Learning</h2>
+
+        <h3>Unsupervised Learning</h3>
+
+        <P>In American college football, there are two different groups of sports conferences with different levels of finance, called the G5 and P5.</P>    
+        <img src="RecruitingDendro.png" 
+        style="max-width:100%" alt="" />
+        <p>
+            Testing several variables, I have found that spending on recruiting is where the conference cluster into their two groups most accurately.
+            </p>
+
+            <p><a href="https://colab.research.google.com/drive/1fKHISk903LNdVYdEefXZqVE5iNR6E4Wx?usp=sharing"
+             id="link5">Colab Notebook</a>
+            </p>
+        <h3>Supervised Learning</h3>
+
+        <P>Using HDI variables, I wanted to try and classify countries into their designated UN level of development only using the components of HDI.</P>    
+        <img src="HDIClassification.png" 
+        style="max-width:100%" alt="" />
+        <p>My classification had a 91.7% accuracy score, though some of the errors were predicting a label of very high levels of development for low human development countries.
+            </p>
+
+           <p> <a href="https://colab.research.google.com/drive/17uSHheM_CQn3hUJ-feSzS8UVzV7zGn5F?usp=sharing"
+             id="link5">Colab Notebook</a>
+            </p>
     </div>
 
 </body>
@@ -155,8 +219,8 @@
 <script>
     //Define charts:
     // week 1
-    var myChart2 = "charts/chart1_wwelectricitygen.json";
-    var myChart1 = "charts/chart2_coalinUSegen.json";
+    var myChart2 = "chart1_wwelectricitygen.json";
+    var myChart1 = "chart2_coalinUSegen.json";
     
     // week 2
     var myChart3 = "IMFlending.json";
@@ -167,19 +231,33 @@
     var myChart6 = "RECvTGTv2.json";
 
     //Week 4
-    //var myChart7 = "week9AP.json"
-    var MyChart7 = "chartColorRGB.json"
+    var myChart7 = "chartColorRGB.json";
 
     //Week 5
-    var myChart8 = "ChartONSDash.json"
+    var myChartONS1 = "chartONS1.json"; 
+    var myChartONS2 = "chartONS2.json"; 
+    var myChartONS3 = "chartONS3.json"; 
+    var myChartONS4 = "chartONS4.json"; 
+    var myChartONS5 = "chartONS5.json"; 
+    var myChartONS6 = "chartONS6.json"; 
+    var myChartONS7 = "chartONS7.json"; 
+    var myChartONS8 = "chartONS8.json"; 
+    var myChartONS9 = "chartONS9.json"; 
+    
 
     //Week 7
-    var myChart9 = "chartGeoIrelandBase.json"
-    var myChart10 = "chartGeoIRERevv2.json"
+    var myChart9 = "chartGeoIrelandBase.json";
+    var myChart10 = "chartGeoIRERevv2.json";
 
     //Week 8
-    var myChart11 = "chartUKPubvPrivWages.json"
-    var myChart12 = ".json"
+    var myChart11 = "chartUKPubvPrivWages.json";
+    var myChart12 = "chartUKjobvacancies.json";
+
+    //Week 8
+    var myChart13 = "chartHDIheatmap.json";
+    var myChart14 = "chartHDIregressions.json";
+    
+    
 
     // Embed charts:
     // week 1
@@ -195,11 +273,18 @@
     vegaEmbed('#Chart6', myChart6);
 
     //week 4
-    //vegaEmbed('#Chart7', myChart7);
     vegaEmbed('#Chart7', myChart7);
 
     //week 5
-    vegaEmbed('#Chart8', myChart8);
+    vegaEmbed('#ChartONS1', myChartONS1);
+    vegaEmbed('#ChartONS2', myChartONS2);
+    vegaEmbed('#ChartONS3', myChartONS3);
+    vegaEmbed('#ChartONS4', myChartONS4);
+    vegaEmbed('#ChartONS5', myChartONS5);
+    vegaEmbed('#ChartONS6', myChartONS6);
+    vegaEmbed('#ChartONS7', myChartONS7);
+    vegaEmbed('#ChartONS8', myChartONS8);
+    vegaEmbed('#ChartONS9', myChartONS9);
 
     //week 7
     vegaEmbed('#Chart9', myChart9);
@@ -208,6 +293,14 @@
     //week 8
     vegaEmbed('#Chart11', myChart11);
     vegaEmbed('#Chart12', myChart12);
+
+
+    //week 9
+    vegaEmbed('#Chart13', myChart13);
+    vegaEmbed('#Chart14', myChart14);
+
+  
+
 </script>
 
 </html>

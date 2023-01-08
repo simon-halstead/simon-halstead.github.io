@@ -1,201 +1,204 @@
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "columns": 3,
-    "vconcat": [
-      {
-        "data":{"url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/ONSdash/data_ONS-LMSKAC3.json",
-        "format": {
-             "type":"json",
-             "property": "months"}},
-        "title":"Whole Economy Three Month Average Pay Growth",
-        "mark": "line",
-        "encoding": {
-          "x": {
-            
-            "field": "date",
-            "type": "temporal",
-            "title":null
-          },
-          "y": {
-            "field": "value",
-            "type": "quantitative",
-            "title": "% change"
-          }
-        }
-      },
-      {
-        "data":{"url":"https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/ONSdash/data_ONS-LMSKAC6.json",
-        "format":{
-          "type":"json",
-          "property": "months"
-        }},
-        "title":"Private Sector Three Month Average Pay Growth",
-        "mark": "line",
-        "encoding": {
-          "x": {
-            
-            "field": "date",
-            "type": "temporal",
-            "title":null
-          },
-          "y": {
-            "field": "value",
-            "type": "quantitative",
-            "title": "% change"
-          }
-        }},
-        {
-        "data":{"url":"https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/ONSdash/data_ONS-LMSKAC9.json",
-        "format":{
-          "type":"json",
-          "property": "months"
-        }},
-        "title":"Public Sector Three Month Average Pay Growth",
-        "mark": "line",
-        "encoding": {
-          "x": {
-            
-            "field": "date",
-            "type": "temporal",
-            "title":null
-          },
-          "y": {
-            "field": "value",
-            "type": "quantitative",
-            "title": "% change"
-          }
-        }
-      },
-        {
-        "data":{"url":"https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/ONSdash/data_ONS-LMSLF2S.json",
-        "format":{
-          "type":"json",
-          "property": "months"
-        }},
-        "title":"Economic inactivity rate: All Aged 16-64",
-        "mark": "line",
-        "encoding": {
-          "x": {
-          
-            "field": "date",
-            "type": "temporal",
-            "title":null
-          },
-          "y": {
-            "field": "value",
-            "type": "quantitative",
-            "title":"%"
-          }
-        }
-      },
-      {
-        "data":{"url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/ONSdash/data_ONS-LMSLF2T.json",
-        "format": {
-             "type":"json",
-             "property": "months"}},
-        "title":"Economic inactivity rate: Female Aged 16-64",
-        "mark": "line",
-        "encoding": {
-          "x": {
-            
-            "field": "date",
-            "type": "temporal",
-            "title":null
-          },
-          "y": {
-            "field": "value",
-            "type": "quantitative",
-            "title":"%"
-          }
-        }
-      },
-      {
-        "data":{"url":"https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/ONSdash/data_ONS-LMSYBTM.json",
-        "format":{
-          "type":"json",
-          "property": "months"
-        }},
-        "title":"Economic inactivity rate: Male Aged 16-64",
-        "mark": "line",
-        "encoding": {
-          "x": {
-            
-            "field": "date",
-            "type": "temporal",
-            "title":null
-          },
-          "y": {
-            "field": "value",
-            "type": "quantitative",
-            "title":"%"
-          }
-        }},
-        {
-        "data":{"url":"https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/ONSdash/data_ONS-OTTGMAA.json",
-        "format":{
-          "type":"json",
-          "property": "years"
-        }},
-        "title":"Overseas Visits to UK",
-        "mark": "line",
-        "encoding": {
-          "x": {
-            
-            "field": "date",
-            "type": "temporal",
-            "title":null
-          },
-          "y": {
-            "field": "value",
-            "type": "quantitative",
-            "title":"thousands"
-          }
-        }
-      },
-        {
-        "data":{"url":"https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/ONSdash/data_ONS-OTTGMAK.json",
-        "format":{
-          "type":"json",
-          "property": "years"
-        }},
-        "title":"UK earnings from overseas visits",
-        "mark": "line",
-        "encoding": {
-          "x": {
-            
-            "field": "date",
-            "type": "temporal",
-            "title":null
-          },
-          "y": {
-            "field": "value",
-            "type": "quantitative",
-            "title": "£ millions"
-          }
-        }
-      },
-        {
-        "data":{"url":"https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/ONSdash/data_ONS-SPPIHQQE.json",
-        "format":{
-          "type":"json",
-          "property": "quarters"
-        }},
-        "width":200,
-        "title":"UK Passenger Air Transport Services",
-        "mark": "line",
-        "encoding": {
-          "x": {
-            "timeUnit": "year",
-            "field": "year",
-            "type": "ordinal",
-            "title":null
-          },
-          "y": {
-            "field": "value",
-            "type": "quantitative",
-            "title": "2015 = 100"
-          }
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width":200,
+  "height":150,
+
+  "columns": 3,
+  "vconcat": [
+    {
+      "data":{"url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/ONSdash/data_ONS-LMSKAC3.json",
+      "format": {
+           "type":"json",
+           "property": "months"}},
+      "title":"Whole Economy Three Month Average Pay Growth",
+      "mark": "line",
+      "encoding": {
+        "x": {
+          "timeUnit": "year",
+          "field": "date",
+          "type": "temporal",
+          "title":null
+        },
+        "y": {
+          "field": "value",
+          "type": "quantitative",
+          "title": "% change"
         }
       }
-    ]
-  }
+    },
+    {
+      "data":{"url":"https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/ONSdash/data_ONS-LMSKAC6.json",
+      "format":{
+        "type":"json",
+        "property": "months"
+      }},
+      "title":"Private Sector Three Month Average Pay Growth",
+      "mark": "line",
+      "encoding": {
+        "x": {
+          "timeUnit": "year",
+          "field": "date",
+          "type": "temporal",
+          "title":null
+        },
+        "y": {
+          "field": "value",
+          "type": "quantitative",
+          "title": "% change"
+        }
+      }},
+      {
+      "data":{"url":"https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/ONSdash/data_ONS-LMSKAC9.json",
+      "format":{
+        "type":"json",
+        "property": "months"
+      }},
+      "title":"Public Sector Three Month Average Pay Growth",
+      "mark": "line",
+      "encoding": {
+        "x": {
+          "timeUnit": "year",
+          "field": "date",
+          "type": "temporal",
+          "title":null
+        },
+        "y": {
+          "field": "value",
+          "type": "quantitative",
+          "title": "% change"
+        }
+      }
+    },
+      {
+      "data":{"url":"https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/ONSdash/data_ONS-LMSLF2S.json",
+      "format":{
+        "type":"json",
+        "property": "months"
+      }},
+      "title":"Economic inactivity rate: All Aged 16-64",
+      "mark": "line",
+      "encoding": {
+        "x": {
+          "timeUnit": "year",
+          "field": "date",
+          "type": "temporal",
+          "title":null
+        },
+        "y": {
+          "field": "value",
+          "type": "quantitative",
+          "title":"%"
+        }
+      }
+    },
+    {
+      "data":{"url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/ONSdash/data_ONS-LMSLF2T.json",
+      "format": {
+           "type":"json",
+           "property": "months"}},
+      "title":"Economic inactivity rate: Female Aged 16-64",
+      "mark": "line",
+      "encoding": {
+        "x": {
+          "timeUnit": "year",
+          "field": "date",
+          "type": "temporal",
+          "title":null
+        },
+        "y": {
+          "field": "value",
+          "type": "quantitative",
+          "title":"%"
+        }
+      }
+    },
+    {
+      "data":{"url":"https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/ONSdash/data_ONS-LMSYBTM.json",
+      "format":{
+        "type":"json",
+        "property": "months"
+      }},
+      "title":"Economic inactivity rate: Male Aged 16-64",
+      "mark": "line",
+      "encoding": {
+        "x": {
+          "timeUnit": "year",
+          "field": "date",
+          "type": "temporal",
+          "title":null
+        },
+        "y": {
+          "field": "value",
+          "type": "quantitative",
+          "title":"%"
+        }
+      }},
+      {
+      "data":{"url":"https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/ONSdash/data_ONS-OTTGMAA.json",
+      "format":{
+        "type":"json",
+        "property": "years"
+      }},
+      "title":"Overseas Visits to UK",
+      "mark": "line",
+      "encoding": {
+        "x": {
+          "timeUnit": "year",
+          "field": "date",
+          "type": "temporal",
+          "title":null
+        },
+        "y": {
+          "field": "value",
+          "type": "quantitative",
+          "title":"thousands"
+        }
+      }
+    },
+      {
+      "data":{"url":"https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/ONSdash/data_ONS-OTTGMAK.json",
+      "format":{
+        "type":"json",
+        "property": "years"
+      }},
+      "title":"UK earnings from overseas visits",
+      "mark": "line",
+      "encoding": {
+        "x": {
+          "timeUnit": "year",
+          "field": "date",
+          "type": "temporal",
+          "title":null
+        },
+        "y": {
+          "field": "value",
+          "type": "quantitative",
+          "title": "£ millions"
+        }
+      }
+    },
+      {
+      "data":{"url":"https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/ONSdash/data_ONS-SPPIHQQE.json",
+      "format":{
+        "type":"json",
+        "property": "quarters"
+      }},
+      "width":200,
+      "title":"UK Passenger Air Transport Services",
+      "mark": "line",
+      "encoding": {
+        "x": {
+          "timeUnit": "year",
+          "field": "year",
+          "type": "ordinal",
+          "title":null
+        },
+        "y": {
+          "field": "value",
+          "type": "quantitative",
+          "title": "2015 = 100"
+        }
+      }
+    }
+  ]
+}

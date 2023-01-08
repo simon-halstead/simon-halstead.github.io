@@ -37,20 +37,185 @@
 
 
     <header class="top" id="homeworks">
-        <h1>Project</h1>
+        <h1>Gender Inequalities in American College Sports</h1>
     </header>
 
 
-    <h1>Gender Inequalities in American College Sports</h1>
-  
-    <div class="block1">
+    <!-- <h1>Gender Inequalities in American College Sports</h1> -->
 
-        <div class="chart" id="Chart1"></div>
-       
+    <div class="block8">
+
+        <p> 
+            Aims: The aim of this project is to explore gender inequalities in the finances of American college sports.
+            <a href="https://www.womenssportsfoundation.org/wp-content/uploads/2020/01/Chasing-Equity-Full-Report-Web.pdf" id="link5">Inequality is well documented in sports,</a>
+            and in a new development from 2021, athletes have been allowed to be paid sponsorships and other endorsements during their college careers for the first time. This has created a new market, currently with little legislation, in an area already struggling with disparate outcomes. Understanding the scale of potential issues is an important step to solving them.
+        </p>
+
         <p>
+            Data:
+            The majority of the data for this project comes from the US Department of Education’s Equity in Athletics Database (EIA) and the Knight-Newhouse College Athletics dataset (KNCA),
+             downloaded directly from the sites in csv form. All the data was then cleaned using Colab in Python and hosted on my Github.
+              Other data for NIL valuation was scraped from the On3 database. 
+              <a href="https://colab.research.google.com/drive/1fkU5gunwpgzSU09emnb3woUT9eEUe3DG?usp=sharing" id="link5">The scraper is linked here</a> and is constructed in a way that when they have more data points for other sports, the scraper can be easily amended to collect them.
+
+              
+              
 
         </p>
+
     </div>
+
+    <div class="block1">
+
+    
+        
+        <p>
+            US College sports aside from football, generally lose money. 
+            The structure of US sports inherently will result in inequal outcomes as by far the 
+            <a href="https://www.sportico.com/business/media/2023/nfl-games-account-for-82-of-100-top-tv-broadcasts-1234700381/" id="link5">most popular sport</a>
+            football, is almost exclusively played by men. This is evident in the profitability of college sports, aside from football, only men’s basketball makes money.
+
+        </p>
+
+        <div class="chart" id="ChartC"></div>
+
+        <p> <a href="https://colab.research.google.com/drive/1LJcLQ4WwGKlHceszbquWSKU5URWIOGIS?usp=sharing"
+            id="link5">Colab Notebook for data cleaning</a>
+           </p>
+
+    </div>
+
+    <div class="block2">
+
+        <p> 
+            With some sports being heavily dominated by one gender it is neccesary to know which sports are played by which gender. Using the mean value lines,
+   we can see the top-left quadrant as majority-female sports, bottom-right as majority-male, and top-right as commonly played sports both genders participate in.
+        </p>
+        <div class="chart" id="ChartJ"></div>
+        
+       
+            <p> <a href="https://colab.research.google.com/drive/1hVovUze557qYjE3y5-6MaR61cvvGAFgm?usp=sharing"
+                id="link5">Colab Notebook for data cleaning</a>
+               </p> 
+   
+
+    
+    
+
+    </div>
+
+    <div class="block3">
+
+        <p> 
+            Here we can see that a large amount of revenue comes from student fees and institutional government support. 
+        </p>
+        <div class="chart" id="ChartG"></div>
+        
+        <p> <a href="https://colab.research.google.com/drive/1IyjOijwDy5bbKpGEEm0srHEfMyUPu66C?usp=sharing"
+            id="link5">Colab Notebook for data cleaning</a>
+           </p> 
+
+    
+    
+
+    </div>
+    
+    <div class="block7">
+
+        <p> 
+            One of the frustrations of this project was the inability to combine different data to create new insight. KNCA provides more detailed financial information, but no information by gender or sport, meaning it is difficult to cross-reference with the EiA data. We can scatter to see some patterns though. 
+
+
+        </p>
+               <div class="chart" id="ChartK"></div>
+        <p>
+            Student fees and government support aren’t necessarily indicative of how much basketball teams spend, nor is competition prize money, though the y axis values are for all sports rather than just basketball.
+
+        </p>
+
+        <p> <a href="https://colab.research.google.com/drive/12r11Ox1eWpZFbvyIZY4NL0VQaN940aj1?usp=sharing"
+            id="link5">Colab Notebook for data cleaning</a>
+           </p> 
+    
+
+    </div>
+
+    <div class="block4">
+
+        <p> 
+            Basketball is probably the best sport to investigate inequality, as despite being a sport similarly participated in by both genders, men’s basketball makes money and women’s loses more than any other sport. The differences in revenues and expenses are biggest at the top level of the sport, the top three deciles of D1 men’s (the highest level of college basketball) generating more revenues than the top decile of women’s.
+        </p>
+        <div class="chart" id="ChartD"></div>
+        <div class="chart" id="ChartE"></div>
+        <p> <a href="https://colab.research.google.com/drive/16oSb37lRc2vMD7L00Q4fsJHKLBwqHnzG?usp=sharing"
+            id="link5">Colab Notebook for data cleaning</a>
+           </p> 
+    
+    
+    
+
+    </div>
+
+    <div class="block5">
+
+        <p> 
+            These inequalities may be a reflection of college’s themselves. Male students outnumber women across the country in the student body 
+            <a href="https://www.researchgate.net/publication/292807880_Girls_can_play_too_Has_the_lack_of_female_leadership_in_ncaa_athletics_become_an_afterthought"
+            id="link5">filters up to the top level of leadership in college sports.</a> 
+
+        </p>
+        <div class="chart" id="ChartF"></div>
+        
+        <p>
+            <a href="https://colab.research.google.com/drive/1VWGnQk4n_0Ap2nQJgM04H000mbE15jHq?usp=sharing"
+            id="link5">Colab Notebook for data cleaning, with built in scraper to match up state codes to state names</a>
+        </p>
+
+    
+    
+
+    </div>
+
+    <div class="block6">
+
+        <p> 
+            On3 is an independent company that produces NIL (Name, Image and Likeness) valuations for college athletes, effectively showing how much commercial value the athletes have. Basketball is the only sport that On3 has a full group for both genders, and shows an interesting trend. Female athletes appear to be much more likely to be valued for their wider brand rather than other factors like their athletic ability. 
+
+        </p>
+        <div class="chart" id="ChartA"></div>
+        
+        <p>
+            <a href="https://colab.research.google.com/drive/1fkU5gunwpgzSU09emnb3woUT9eEUe3DG?usp=sharing" id="link5">Scraper plus data manipulation notebook</a> 
+        </p>
+
+    
+    
+
+    </div>
+    
+
+
+    <div class="block9">
+        
+        <h3>Conclusions</h3>
+        <p>
+            As college sports generally lose money, colleges' decisions on what sports get funded have scope to be based on what will bring the most wider value to the college. Women’s sports should not be disadvantaged for financial reasons, especially when a lot of the funding comes from student fees and government funding, rather than the sporting activities alone.
+            
+        </p>
+
+        <p>
+            Inequality gets worse as the sums of money involved get bigger, so addressing inequality in a top-down way might prove most beneficial. With the advent of a more professional setting for college sports, creating more equal earning opportunities at the top may have a trickle-down effect.
+            
+        </p>
+
+        <p>
+            As women are underrepresented in the college populus, tackling sporting inequality might require a greater understanding of inequality throughout US colleges, as an area of further research.
+            
+        </p>
+    
+
+    </div>
+   
     
 
 </body>
@@ -58,13 +223,56 @@
 <script>
     //Define charts:
    
-    var myChart1 = "chartNILBballRegress.json";
-    var myChart3 = "IMFlending.json";
+
+    var myChartA = "chartNILBballRegress.json";
+
+
+    var myChartB = "chartRevExpBySportByGender.json";
+
+
+    var myChartC = "chartProfBySportByGender.json";
+
+
+    var myChartD = "chartBballRevsandExpDeciles.json";
+
+
+    var myChartE = "chartBbaalRevsandExpDecD1.json";
+
+
+    var myChartF = "geochartUSenrol.json";
+
+    var myChartG = "chartBreakdownRevExp.json";
+
+    var myChartH = "chartParticBySportByGender.json";
+
+    var myChartJ = "chartPartBySportByGendScatter.json";
+
+    var myChartK = "chartKNEiAscatter.json";
+
 
     // Embed charts:
 
-    vegaEmbed('#Chart1', myChart1);
-    vegaEmbed('#Chart3', myChart3);
+    vegaEmbed('#ChartA', myChartA);
+
+    vegaEmbed('#ChartB', myChartB);
+
+
+    vegaEmbed('#ChartC', myChartC);
+
+    vegaEmbed('#ChartD', myChartD);
+
+    vegaEmbed('#ChartE', myChartE);
+
+    vegaEmbed('#ChartF', myChartF);
+
+    vegaEmbed('#ChartG', myChartG);
+
+    vegaEmbed('#ChartH', myChartH);
+    
+    vegaEmbed('#ChartJ', myChartJ);
+
+    vegaEmbed('#ChartK', myChartK);
+
     
     
 

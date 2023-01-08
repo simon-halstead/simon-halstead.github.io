@@ -1,0 +1,27 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width":200,
+    "height":150,
+  
+    
+        "data":{"url":"https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/ONSdash/data_ONS-OTTGMAA.json",
+        "format":{
+          "type":"json",
+          "property": "years"
+        }},
+        "title":"Overseas Visits to UK",
+        "mark": "line",
+        "encoding": {
+          "x": {
+            "timeUnit": "year",
+            "field": "date",
+            "type": "temporal",
+            "title":null
+          },
+          "y": {
+            "field": "value",
+            "type": "quantitative",
+            "title":"thousands"
+          }
+        }
+      }

@@ -19,6 +19,7 @@ wrap{
 
 col{
     background-color: #1E5162;
+    font-family: 'Inter', sans-serif;
 }
 
 .col:hover{
@@ -112,7 +113,97 @@ p{
     border-color: #1E5162;
 
     
+   
+
+
     
+}
+
+.myWeek3{
+    margin: auto;
+    margin-top: 20px;
+    max-width: 600px;
+    background-color: white;
+
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #1E5162;
+
+    
+   
+
+
+    
+}
+
+.myWeek4{
+    margin: auto;
+    margin-top: 20px;
+    max-width: 600px;
+    background-color: white;
+
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #1E5162;
+
+    
+   
+
+
+    
+}
+
+.myWeek5{
+    margin: auto;
+    margin-top: 20px;
+    max-width: 600px;
+    background-color: white;
+
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #1E5162;
+
+    
+   
+
+
+    
+}
+
+.myWeek7{
+    margin: auto;
+    margin-top: 20px;
+    max-width: 600px;
+    background-color: white;
+
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #1E5162;
+
+    
+   
+
+
+    
+}
+
+.myWeek8{
+    margin: auto;
+    margin-top: 20px;
+    max-width: 600px;
+    background-color: white;
+
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #1E5162;
+
+    
+   
 
 
     
@@ -127,10 +218,10 @@ p{
     border-radius: 5px;
    
     display: flex;
-    /* justify-content: center; */
-    /* align-items: center; */
+    justify-content: center;
+    align-items: center;
     margin: auto;
-    border-color: #C3D7BC;
+    border-color: #f4f2e5;
     
     
 
@@ -140,7 +231,7 @@ p{
 
 
 #Chart1{
-    border-color: #C3D7BC;
+    border-color: #f4f2e5;
     width:360px;
 
 }
@@ -162,6 +253,6 @@ p{
 
 #Chart7{
     border-color: #C3D7BC;
-    width:500px;
+    /* width:500px; */
 
 }

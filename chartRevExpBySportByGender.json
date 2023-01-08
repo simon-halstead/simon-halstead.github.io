@@ -1,0 +1,63 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "A scatterplot showing horsepower and miles per gallons for various cars.",
+    "data": {"url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/project/dataCombREVEXPBySportByGenderCLEAN.csv"},
+    "title":{"text":"College Sports: Revenues and Expenses by Gender","subtitle":["Use mouse to zoom in and out","Source: Equity in Athletics (US DoE)"],
+    "subtitleFontStyle": "italic",
+      "subtitleFontSize": 12,
+      "anchor": "start",
+      "color": "black"},
+    "height":300,
+    "width":300,
+    "transform": [{
+      "filter":"datum.Sport != 'Total'"
+    },
+    {"groupby": ["Sport"]},
+    {"calculate": "datum.Val_Rev - datum.Val_Exp","as": "Exp_Rev"}],
+    "params": [
+        {
+          "name": "brush",
+          "select": {
+            "type": "interval",
+            "resolve": "union",
+            "on": "[mousedown[event.shiftKey], window:mouseup] > window:mousemove!",
+            "translate": "[mousedown[event.shiftKey], window:mouseup] > window:mousemove!",
+            "zoom": "wheel![event.shiftKey]"
+          }
+        },
+        {
+          "name": "grid",
+          "select": {
+            "type": "interval",
+            "resolve": "global",
+            "translate": "[mousedown[!event.shiftKey], window:mouseup] > window:mousemove!",
+            "zoom": "wheel![!event.shiftKey]"
+          },
+          "bind": "scales"
+        }
+      ],
+  
+    "mark": "circle",
+    "encoding": {
+      "x": {"field": "Val_Exp", "type": "quantitative",
+        "scale": {"domain": [0, 2000000000]},
+        "axis":{"format":".2s","titleFontSize":14},
+        "title":"Expenses / $"},
+  
+      "y": {"field": "Val_Rev", "type": "quantitative",
+        "scale": {"domain": [0, 2000000000]},
+        "axis":{"format":".2s","titleFontSize":14},
+        "title":"Revenues / $"},
+  
+      "color":{"field":"Gender","scale":{"domain":["Male","Female"],"range":["blue","red"]}},
+      "size":{"field":"Exp_Rev","type": "quantitative",
+      "legend":{"title":"Profit","format":".2s"}},
+      "tooltip":[{"field":"Sport"},
+      {"field":"Gender"},
+      {"field":"Val_Rev","type": "quantitative","title":"Revenues","format":".3s"},
+      {"field":"Val_Exp","type": "quantitative","title":"Expenses","format":".3s"},
+      {"field":"Exp_Rev","type": "quantitative","title":"Sport's overall profit across all genders","format":".3s"}]
+    }
+    
+  }
+  

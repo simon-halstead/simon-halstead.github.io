@@ -1,0 +1,33 @@
+
+ "data":[
+    {
+        "name":"finance",
+        "url" : "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/project/dataNCAAFinanceCLEANMeanByConf.csv",
+        "format" : {"type":"csv"}
+
+ },
+ {
+    "name":"index",
+    "source":"finance",
+    "transform": [
+        {
+          "type": "filter",
+          "expr": "year(datum.Year) == year(indexDate)"
+        }
+      ]},
+      {
+        "name": "indexed_fin",
+        "source":"finance",
+        "transform": [
+        {
+          "type": "lookup", "from": "index", "key": "FBSConference",
+          "fields": ["FBSConference"], "as": ["index"], "default": {"RevMinExp": 0}
+        },
+        {
+          "type": "formula",
+          "as": "indexed_RevMinExp",
+          "expr": "datum.index.RevMinExp > 0 ? (datum.RevMinExp - datum.index.RevMinExp)/datum.index.RevMinExp : 0"
+        }
+      ]
+      }
+ ],

@@ -1,0 +1,82 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 300,
+    "height": 300,
+    "title": {
+      "text": "Top 15 College Sports by Profit",
+      "subtitle": "split by gender, source: Equity in Athlethics (US DoE)",
+      "subtitleFontStyle": "italic",
+      "subtitleFontSize": 12,
+      "fontSize":16,
+      "anchor": "start",
+      "color": "black"
+    },
+    "data": {
+      "url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/project/dataProfBySportByGenderCLEAN.csv"
+    },
+  
+  
+    "transform": [{
+      "filter": "datum.SportRev != 'Total'"
+    },
+    {"filter":"datum.TotalRev >= 100000000"},
+    {"filter":"datum.TotalExp >= 100000000"},
+    {"calculate": "datum.WomenProf / 1000000","as": "Womens Sports"},
+    {"calculate": "datum.MenProf / 1000000","as": "Mens Sports"},
+    {
+        "window": [{
+          "op": "rank",
+          "as": "rank"
+        }],
+        "sort": [{ "field": "TotalProf", "order": "descending" }]
+      }, {
+        "filter": "datum.rank <= 15"
+      }],
+  
+  
+  
+    "encoding": {"color": {"legend":{
+      "orient": "top-right"
+      }
+    }
+    },
+    "layer": [
+      {"mark": "bar",
+        "encoding": {
+          "x": {
+            
+            "field": "SportRev",
+            "title":"",
+            "type": "ordinal"
+          },
+          "y": {
+          
+            "field": "Womens Sports",
+            "type": "quantitative",
+            "title":"PROFIT, Mllions of $",
+            "axis":{"titleFontSize":16}
+          },
+          "color":{"datum":"Womens Sports","value":"blue"},
+          "opacity":{"value":0.5}
+        }
+      },
+      {
+        "mark": "bar",
+        "encoding": {
+          "x": {
+            "field": "SportRev",
+            "type": "ordinal"
+  
+          },
+          "y": {
+            "field": "Mens Sports",
+            "type": "quantitative"
+  
+          },
+          "color":{"datum":"Mens Sports","title":"Gender"},
+          "opacity":{"value":0.5}
+        
+        }
+      }
+    ]
+  }

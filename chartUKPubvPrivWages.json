@@ -1,17 +1,16 @@
 {
-  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "description": "Stock prices of 5 Tech Companies over Time.",
-  "data": {"url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/dataUKpubVpriPay.csv"},
-  "mark": "line",
-  "width": 400,
-  "title":{"text":"Difference in pay growth between public and private sector, UK",
-  "subtitle":"Source: ONS"},
-  "height": 400,
-  "encoding": {
-    "x": {"field": "date", "type": "temporal","title":null},
-    "y": {"field": "value", "type": "quantitative","title":"Single Month Growth (%)"},
-    "color": {"field": "type", "type": "nominal","scale":{
-      "domain":["public","private"]
-    }},
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {"url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/dataUKpubVpriPay.csv"},
+    "mark": "line",
+    "width": 300,
+    "title":{"text":["Difference in pay growth between"," public and private sector, UK"],
+    "subtitle":"Source: ONS"},
+    "height": 300,
+    "encoding": {
+      "x": {"field": "date", "type": "temporal","title":null},
+      "y": {"field": "value", "type": "quantitative","title":"Single Month Growth (%)"},
+      "color": {"field": "type", "type": "nominal","scale":{
+        "domain":["public","private"]
+      },"legend":{"orient": "bottom-left"}}
+    }
   }
-}

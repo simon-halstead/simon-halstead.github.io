@@ -1,0 +1,59 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  
+    "data": {"url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/project/dataBballAllTenths.csv"},
+    "mark": {"point":false,"type": "line"},
+    "title":{"text":["Revenues and Expenses by Deciles","US College Basketball"],"subtitle":["Split by Gender (click gender in legend to isolate)","Source: Equity in Athlethics (US DoE)"],
+    "subtitleFontStyle": "italic",
+      "subtitleFontSize": 12,
+      "fontSize": 16,
+      "anchor": "start",
+      "color": "black"},
+    "width":280,
+    "height":400,
+    "selection": {
+        "paintbrush": {"type": "multi", "on": "mouseover", "nearest": true},
+        "division": {"type": "multi", "fields":["gender"], "bind": "legend"}
+      },
+  
+    "params": [
+        {"name": "Select",
+          "value": "revenues",
+          "bind": {
+            "input": "select",
+            "options": [
+              "revenues","expenses"],
+              "name": " ",
+              "labels": ["Revenues","Expenses"]}}
+            ],
+  
+    "transform": [{
+      "filter": "datum.type == Select"},
+      {"calculate":"datum.group * 10","as": "decile"}
+    
+    
+      ],
+    "encoding": {
+      "x": {"field": "SurveyYear", "type": "temporal","title":null},
+  
+      "y": {"field": "Val","type": "quantitative", "title":"Millions of Dollars",
+      "axis":{"format":"~s",
+      "titleFontSize": 16}},
+
+   
+  
+      "strokeDash": {"field": "gender", "type": "nominal",
+      "legend":{
+        "orient": "top-left"
+      }},
+  
+      "color": {"field": "decile", "type": "nominal","scale":{"scheme":"viridis"},
+      "legend":{
+        "orient": "top-left"
+      }},
+  
+      "opacity": {"condition": {"selection": "division", "value": 1}, "value": 0.2},
+  
+      "tooltip":[{"field":"gender","title":"Gender"},{"field":"decile","title":"Decile"},{"field":"Val","format":".0f","title":"Value"}]
+    }
+  }

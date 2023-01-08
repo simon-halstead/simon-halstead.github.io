@@ -1,0 +1,17 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "",
+    "data": {"url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/dataUKJobVacanciesCLEAN.csv"},
+    "title":{"text":"UK Job Vacancies","subtitle":"Source: ONS"},
+  "width":300,
+  "transform": [{
+    "groupby": ["year"],
+    "aggregate": [{"field": "Thousands","op": "average","as": "YearlyAve"}]
+  }],
+    "mark": "line",
+    "encoding": {
+      "x": {"field": "year", "type": "temporal","timeUnit":"year","title":null},
+      "y": {"field": "YearlyAve", "type": "quantitative","title":"Job Vacancies (Thousands)",
+      "axis":{"titleFontSize":14}}
+    }
+  }

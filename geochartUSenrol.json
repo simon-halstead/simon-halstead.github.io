@@ -1,0 +1,78 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  
+    "width": 300,
+    "height": 300,
+    "view": {"stroke": "transparent"},
+  
+    "title": {
+        "text": "Enrollment and No. of Undergrads by State",
+        "fontSize": 12,
+        "subtitle":["2003-2021, Source: Equity in Athletics, (US DoE)", ""],
+        "subtitleFontStyle":"italic",
+        "subtitleFontSize":10, "anchor": "start"},
+
+    "params": [    
+    {"name":"yearSelector", "value":2003,
+       "bind":{
+         "input": "range",
+         "min": 2003, 
+         "max": 2020, 
+         "step": 1,
+         "name": "Year:"}},
+         
+         {"name": "Select",
+        "value": "UGratioBG",
+        "bind": {
+          "input": "select",
+          "options": [
+            "UGratioBG","FemaleUndergraduates","MaleUndergraduates"],
+            "name": " ",
+            "labels": ["Mean Gender Ratio by School","Mean Female Undergrads by School", "Mean Male Undergrads by School"]}}],
+  
+    "projection": {"type": "albersUsa"},
+    "mark": {
+      "type": "geoshape",
+      "stroke": "black",
+      "strokeWidth":0.5}, 
+    
+    "data": {
+        "url":"https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/project/dataBasketballFinancesYearonYearbyStateCLEAN.csv",
+        "format": {"type": "csv"}},
+    
+    "transform": [
+      {"calculate": "datum[Select]","as": "varSelected"},
+
+      {"calculate": "toNumber(yearSelector)", "as": "yearS"},
+      {"filter":"datum.yearS == datum.SurveyYear"},
+
+      
+     
+     {"lookup": "stateN",
+            "from": {
+                "data": {
+                    "url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/geoUSstates.json",
+                    "format":{"property":"features"}},
+            "key": "properties.NAME",
+                "fields": [       
+                    "properties",
+                    "type",
+                    "geometry"]}}],
+      
+    "encoding":{
+      "tooltip":[{"field":"stateN","title":"State"},
+    {"field":"UGratioBG","title":"Ratio","format":".2f"},
+    {"field":"FemaleUndergraduates","title":"M","format":".0f"},
+    {"field":"MaleUndergraduates","title":"F","format":".0f"}],
+          "color":{
+            "field":"varSelected",
+            "scale":{"scheme":"blueorange"},
+            "legend":{
+                "title":null,
+                "orient": "right",
+                "direction": "vertical"
+                
+                },
+            "type": "quantitative"}
+    }
+  }

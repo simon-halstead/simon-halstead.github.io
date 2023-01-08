@@ -1,0 +1,75 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+    "data": {
+      "url": "https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/project/dataKNdetails.csv"
+    },
+    "title": {
+      "text": "Breakdown of Expenses and Revenues",
+      "subtitle": ["2021 Sum of all D1 Schools","Source: Knight-Newhouse College Athletics Database"],
+      "align": "left",
+      "anchor": "start"
+    },
+    "height": 500,
+    "width": {"step": 180},
+  
+    "transform": [{"filter":"datum.Val>50000000"},
+    {"filter":"datum.detail != 'TotalInstitutionalGovernmentSupportandStudentFees'"}],
+    
+    "encoding": {
+      "x": {"field": "type", "type": "ordinal","title":null,"axis":{"labelFontSize":16}},
+      "y": {"field": "Val", "type": "quantitative","title":"Billions of Dollars (G)","axis":{"format":"~s",
+      "titleFontSize": 16}},
+      "stroke": {"value": "black"}
+    },
+    "layer": [
+      {
+        "mark": {"type": "bar", "size": 170},
+        "encoding": {
+          "color": {
+            "field": "detail",
+            "type": "nominal",
+            "scale": {"range":["black"],"domain": ["Rev"]},
+            "legend": null
+          },
+          "strokeWidth": {"value": 1}
+          
+        }
+   
+      },
+      
+      {
+        "mark": {"type": "bar", "size": 170},
+       
+        "encoding": {
+          "color": {
+            "field": "type",
+            "type": "nominal",
+            "scale": {"domain": ["Exp"]},
+            "legend": null
+          },
+          "strokeWidth": {"value": 1},
+          "opacity":{"value": 0.5}
+        }
+  
+        
+      },
+      {
+        "mark": {"type": "bar", "size": 170},
+       
+        "encoding": {
+          "color": {
+            "field": "detail",
+            "type": "nominal",
+            "scale": {"scheme":"blueorange"},
+            "legend": null
+          },
+          "strokeWidth": {"value": 1},
+          "tooltip":[{"field":"detail"},{"field":"Val","format":"~s"}]
+        }
+      }
+    ],
+    "resolve": {"scale": {"color": "independent"}}
+  }
+  
+  
+   

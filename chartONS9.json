@@ -1,0 +1,35 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width":200,
+    "height":150,
+  
+    
+        "data":{"url":"https://raw.githubusercontent.com/simon-halstead/simon-halstead.github.io/main/ONSdash/data_ONS-SPPIHQQE.json",
+        "format":{
+          "type":"json",
+          "property": "quarters"
+        }},
+        
+        "transform": [
+      { 
+        "groupby": ["year"],"aggregate": [{"field": "value","as": "yearmean","op": "mean"}]
+      }
+    ],
+        "title":"UK Passenger Air Transport Services",
+        "mark": "line",
+        "encoding": {
+          "x": {
+            "timeUnit": "year",
+            "field": "year",
+            "type": "temporal",
+            "title":null
+          },
+          "y": {
+            "field": "yearmean",
+            "type": "quantitative",
+            "title": "2015 = 100"
+          }
+        }
+      
+  
+  }

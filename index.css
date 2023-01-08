@@ -6,8 +6,9 @@
 /* Set the background color for my page: */
 body{
     /* background-color: #f4f2e5; */
-    background-color: #F0F2FF;
-    /* background-color: rgb(210, 242, 250); */
+    /* background-color: #F0F2FF; */
+
+    background-color: "white";
     
 }
 
@@ -16,7 +17,7 @@ body{
     /* min-height: 30px; */
     /* border: 5px; */
     /* border-color:#1E5162; */
-    /* border-style: solid; */ */
+    /* border-style: solid; */ 
     position: fixed;
     width: 100%;
     z-index:1;
@@ -31,9 +32,9 @@ body{
 }
 
 .col{
-    width:24.99999%
-    border: none;
-    
+    width:24.99999%;
+    /* border: none; */
+    font-family: 'Inter', sans-serif;
     display:inline-block;
     padding:8px 16px;
     vertical-align:middle;
@@ -45,8 +46,8 @@ body{
     cursor:pointer;
     white-space:nowrap;
     background-color:black;
-    color:white
-    width:100%;text-align:left;padding:8px 16px
+    color:white;
+    width:100% 8px 16p;
 }
 
 .col:hover{
@@ -59,10 +60,10 @@ body{
 a{
     /* border: 1px; */
     border-color:#C3D7BC;
-    border-style: ;
+    /* border-style: ; */
     margin:30px 0; 
     font-size: 26px; 
-    background-color: ;
+    /* background-color: ; */
     margin-top: 10px;
     padding: 50px;
     color:white
@@ -97,32 +98,7 @@ a:hover{
     padding: 0px;
 }
 
-#link3{
-    /* background-color: rgba(0, 47, 167, .5);
 
-    
-    
-    border:2px;
-    border-color:rgba(0, 47, 167);
-    border-style: solid;
-    border-radius: 10px;
-
-
-    color:white;
-    
-    text-decoration: none; */
-    
-}
-
-#link3:hover{
-
-    /* background-color: white;
-
-    border:2px;
-    border-color:#C3D7BC;
-    border-style: solid; */
-    
-}
 
 #link4{
     /* background-color: rgb(210, 242, 250); */
@@ -149,6 +125,10 @@ a:hover{
     margin-left:auto!important;
     margin-right:auto!important;
     max-width:980px
+}
+
+.top{
+    padding: 10px;
 }
 
 h1{
@@ -315,6 +295,213 @@ p{
     
 }
 
+.myWeek9{
+    margin: auto;
+    margin-top: 20px;
+    max-width: 600px;
+    background-color: white;
+
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #1E5162;
+
+    
+   
+
+
+    
+}
+
+.myWeek10{
+    margin: auto;
+    margin-top: 20px;
+    max-width: 600px;
+    background-color: white;
+
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #1E5162;
+
+    
+   
+
+
+    
+}
+
+.block1{
+    margin: auto;
+    margin-top: 20px;
+    max-width: 600px;
+    background-color: white;
+
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #1E5162;
+
+    
+   
+
+
+    
+}
+
+.block2{
+    margin: auto;
+    margin-top: 20px;
+    max-width: 600px;
+    background-color: white;
+
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #1E5162;
+
+    
+   
+
+
+    
+}
+.block3{
+    margin: auto;
+    margin-top: 20px;
+    max-width: 600px;
+    background-color: white;
+
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #1E5162;
+
+    
+   
+
+
+    
+}
+.block4{
+    margin: auto;
+    margin-top: 20px;
+    max-width: 600px;
+    background-color: white;
+
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #1E5162;
+
+    
+   
+
+
+    
+}
+.block5{
+    margin: auto;
+    margin-top: 20px;
+    max-width: 600px;
+    background-color: white;
+
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #1E5162;
+
+    
+   
+
+
+    
+}
+.block6{
+    margin: auto;
+    margin-top: 20px;
+    max-width: 600px;
+    background-color: white;
+
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #1E5162;
+
+    
+   
+
+
+    
+}
+.block7{
+    margin: auto;
+    margin-top: 20px;
+    max-width: 600px;
+    background-color: white;
+
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #1E5162;
+
+    
+   
+
+
+    
+}
+.block8{
+    margin: auto;
+    margin-top: 20px;
+    max-width: 600px;
+    background-color: white;
+
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #1E5162;
+
+    
+   
+
+
+    
+}
+.block9{
+    margin: auto;
+    margin-top: 20px;
+    max-width: 600px;
+    background-color: white;
+
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #1E5162;
+
+    
+   
+
+
+    
+}
+.block10{
+    margin: auto;
+    margin-top: 20px;
+    max-width: 600px;
+    background-color: white;
+
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #1E5162;
+
+    
+   
+
+
+    
+}
 /* Set the apperance of the class, chart */
 .chart{
     background-color: rgb(255, 255, 255);
@@ -324,8 +511,8 @@ p{
     border-radius: 5px;
    
     display: flex;
-    /* justify-content: center; */
-    /* align-items: center; */
+    justify-content: center; 
+    align-items: center;
     margin: auto;
     border-color: #C3D7BC;
     
@@ -354,5 +541,93 @@ p{
 #Chart4{
     border-color: #C3D7BC;
     width:320px;
+
+}
+#Chart12{
+    border-color: #C3D7BC;
+    width:380px;
+
+}
+
+#ChartA{
+    border-color: #C3D7BC;
+    width:370px;
+
+}
+
+#ChartB{
+    border-color: #C3D7BC;
+    width:370px;
+
+}
+
+#ChartC{
+    border-color: #C3D7BC;
+    width:370px;
+
+}
+#ChartJ{
+    border-color: #C3D7BC;
+    width:370px;
+
+}
+#ChartG{
+    border-color: #C3D7BC;
+    width:420px;
+
+}
+#ChartK{
+    border-color: #C3D7BC;
+    width:870px;
+
+}
+#ChartF{
+    border-color: #C3D7BC;
+    width:370px;
+
+}
+
+#ChartONS1{
+    border-color: #C3D7BC;
+    width:270px;
+
+}
+#ChartONS2{
+    border-color: #C3D7BC;
+    width:270px;
+
+}#ChartONS3{
+    border-color: #C3D7BC;
+    width:270px;
+
+}
+#ChartONS4{
+    border-color: #C3D7BC;
+    width:270px;
+
+}
+#ChartONS5{
+    border-color: #C3D7BC;
+    width:270px;
+
+}
+#ChartONS6{
+    border-color: #C3D7BC;
+    width:270px;
+
+}
+#ChartONS7{
+    border-color: #C3D7BC;
+    width:280px;
+
+}
+#ChartONS8{
+    border-color: #C3D7BC;
+    width:280px;
+
+}
+#ChartONS9{
+    border-color: #C3D7BC;
+    width:270px;
 
 }
