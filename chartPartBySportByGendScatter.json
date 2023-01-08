@@ -28,7 +28,7 @@
     "y": {"field": "FemaleTeams", "type": "quantitative","title":"No. of Female Teams",
     "axis":{"titleFontSize":16}},
     
-    "color":{"field":"TotalParticpants","type":"quantitative", "legend":{"title":"Total Participants","orient": "bottom","offset":0,"direction": "horizontal"},
+    "color":{"field":"TotalParticpants","type":"quantitative", "legend":{"title":"Total Participants","orient": "top","offset":0,"direction": "horizontal"},
     "scale":{"scheme":"viridis"}},
     
     "tooltip":[{"field":"Sport"},{"field":"Total","title":"Total Teams","format":".0f"},
