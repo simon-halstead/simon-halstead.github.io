@@ -52,7 +52,7 @@ body{
 
 .col:hover{
     color:black!important;
-    background-color:#F0F2FF!important
+    background-color:#ffffff!important
 }
 
 /* buttons */
@@ -584,6 +584,11 @@ p{
 #ChartF{
     border-color: #C3D7BC;
     width:370px;
+
+}
+#ChartL{
+    border-color: #C3D7BC;
+    width:490px;
 
 }
 

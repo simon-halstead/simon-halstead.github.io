@@ -85,25 +85,6 @@
 
     </div>
 
-    <div class="block2">
-
-        <p> 
-            With some sports being heavily dominated by one gender it is neccesary to know which sports are played by which gender. Using the mean value lines,
-   we can see the top-left quadrant as majority-female sports, bottom-right as majority-male, and top-right as commonly played sports both genders participate in.
-        </p>
-        <div class="chart" id="ChartJ"></div>
-        
-       
-            <p> <a href="https://colab.research.google.com/drive/1hVovUze557qYjE3y5-6MaR61cvvGAFgm?usp=sharing"
-                id="link5">Colab Notebook for data cleaning</a>
-               </p> 
-   
-
-    
-    
-
-    </div>
-
     <div class="block3">
 
         <p> 
@@ -119,7 +100,7 @@
     
 
     </div>
-    
+
     <div class="block7">
 
         <p> 
@@ -136,6 +117,26 @@
         <p> <a href="https://colab.research.google.com/drive/12r11Ox1eWpZFbvyIZY4NL0VQaN940aj1?usp=sharing"
             id="link5">Colab Notebook for data cleaning</a>
            </p> 
+    
+
+    </div>
+
+
+    <div class="block2">
+
+        <p> 
+            With some sports being heavily dominated by one gender it is neccesary to know which sports are played by which gender. Using the mean value lines,
+   we can see the top-left quadrant as majority-female sports, bottom-right as majority-male, and top-right as commonly played sports both genders participate in.
+        </p>
+        <div class="chart" id="ChartJ"></div>
+        
+       
+            <p> <a href="https://colab.research.google.com/drive/1hVovUze557qYjE3y5-6MaR61cvvGAFgm?usp=sharing"
+                id="link5">Colab Notebook for data cleaning</a>
+               </p> 
+   
+
+    
     
 
     </div>
@@ -171,6 +172,23 @@
             id="link5">Colab Notebook for data cleaning, with built in scraper to match up state codes to state names</a>
         </p>
 
+        <div class="block10">
+
+            <p> 
+               This heatmap shows the lack of coaching opportunities for women, especially coaching male teams, despite the fact there seems to be no obstacles for male coaches coaching women's teams.
+            </p>
+            <div class="chart" id="ChartL"></div>
+            
+            <p>
+                <a href="https://colab.research.google.com/drive/1N_KtdKhMwKrxIuvmMXeTyMW5IdOQ-IAZ?usp=sharing" id="link5">
+                    Colab Notebook for data cleaning</a> 
+            </p>
+    
+        
+        
+    
+        </div>
+        
     
     
 
@@ -204,7 +222,8 @@
         </p>
 
         <p>
-            Inequality gets worse as the sums of money involved get bigger, so addressing inequality in a top-down way might prove most beneficial. With the advent of a more professional setting for college sports, creating more equal earning opportunities at the top may have a trickle-down effect.
+            Inequality gets worse as the sums of money involved get bigger,
+             so addressing inequality in a top-down way might prove most beneficial. With the advent of a more professional setting for college sports, creating more equal earning opportunities at the top may have a trickle-down effect. A focus on diversity in leadership positions is also a potential area of focus.
             
         </p>
 
@@ -250,6 +269,9 @@
     var myChartK = "chartKNEiAscatter.json";
 
 
+    var myChartL = "chartCoachHeatmap.json";
+
+
     // Embed charts:
 
     vegaEmbed('#ChartA', myChartA);
@@ -272,6 +294,8 @@
     vegaEmbed('#ChartJ', myChartJ);
 
     vegaEmbed('#ChartK', myChartK);
+
+    vegaEmbed('#ChartL', myChartL);
 
     
     
